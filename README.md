@@ -19,7 +19,7 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
   - [d3](https://github.com/d3/d3) [[在线演示](https://observablehq.com/@d3/gallery)] D3(或D3.js)是一个用于web标准可视化数据的JS库。 ![](https://img.shields.io/github/stars/d3/d3?style=social) ![](https://img.shields.io/github/forks/d3/d3?style=social)
   - [echarts](https://github.com/apache/echarts) [[在线演示](https://echarts.apache.org/examples/zh/index.html)] ![](https://img.shields.io/github/stars/apache/echarts?style=social) 一个强大的交互式图表和数据可视化库 ![](https://img.shields.io/github/forks/apache/echarts?style=social)
   - [Chart.js](https://github.com/chartjs/Chart.js) [[在线演示](https://www.chartjs.org/docs/latest/samples/bar/vertical.html)] ![](https://img.shields.io/github/stars/chartjs/Chart.js?style=social) 给开发和设计人员的简单而灵活的js图表 ![](https://img.shields.io/github/forks/chartjs/Chart.js?style=social)
-  - [highcharts](https://github.com/highcharts/highcharts) [[在线演示](https://www.chartjs.org/docs/latest/samples/bar/vertical.html)] ![](https://img.shields.io/github/stars/highcharts/highcharts?style=social) 基于SVG的JavaScript图表库,支持旧浏览器 ![](https://img.shields.io/github/forks/highcharts/highcharts?style=social)
+  - [highcharts](https://github.com/highcharts/highcharts) [[在线演示](https://www.highcharts.com/demo)] ![](https://img.shields.io/github/stars/highcharts/highcharts?style=social) 基于SVG的JavaScript图表库,支持旧浏览器 ![](https://img.shields.io/github/forks/highcharts/highcharts?style=social)
 
 - 3D
   - [three.js](https://github.com/mrdoob/three.js) [[在线演示](https://threejs.org/examples/)] 创建易于使用、轻量级、跨浏览器的通用3d js库 ![](https://img.shields.io/github/stars/mrdoob/three.js?style=social) ![](https://img.shields.io/github/forks/mrdoob/three.js?style=social)
