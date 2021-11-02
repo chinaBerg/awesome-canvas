@@ -21,8 +21,10 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
   - [Chart.js](https://github.com/chartjs/Chart.js) [[在线演示](https://www.chartjs.org/docs/latest/samples/bar/vertical.html)] 给开发和设计人员的简单而灵活的js图表 ![](https://img.shields.io/github/stars/chartjs/Chart.js?style=social) ![](https://img.shields.io/github/forks/chartjs/Chart.js?style=social)
   - [highcharts](https://github.com/highcharts/highcharts) [[在线演示](https://www.highcharts.com/demo)] 基于SVG的JavaScript图表库,支持旧浏览器 ![](https://img.shields.io/github/stars/highcharts/highcharts?style=social) ![](https://img.shields.io/github/forks/highcharts/highcharts?style=social)
 
-- 3D
+- 3D库
   - [three.js](https://github.com/mrdoob/three.js) [[在线演示](https://threejs.org/examples/)] 创建易于使用、轻量级、跨浏览器的通用3d js库 ![](https://img.shields.io/github/stars/mrdoob/three.js?style=social) ![](https://img.shields.io/github/forks/mrdoob/three.js?style=social)
+  - [zdog](https://github.com/metafizzy/zdog) [[在线演示](https://zzz.dog/)] 基于canvas和SVG设计师友好的伪3D引擎 ![](https://img.shields.io/github/stars/metafizzy/zdog?style=social) ![](https://img.shields.io/github/forks/metafizzy/zdog?style=social)
+  - [curtainsjs](https://www.curtainsjs.com/get-started.html) [[在线演示](https://www.curtainsjs.com/get-started.html#basic-setup)] curtains.js是一个轻量级的WebGL js库，可以将HTML DOM元素转换为交互式纹理平面 ![](https://img.shields.io/github/stars/martinlaxenaire/curtainsjs?style=social) ![](https://img.shields.io/github/forks/martinlaxenaire/curtainsjs?style=social)
 
 - 流程图
   - [GOJS](https://gojs.net/latest/index.html) [[在线演示](https://gojs.net/latest/samples/)] 交互式流程图、组织结构图、设计工具、规划工具、可视化语言的JavaScript图表库![](https://img.shields.io/github/stars/NorthwoodsSoftware/GoJS?style=social) ![](https://img.shields.io/github/forks/NorthwoodsSoftware/GoJS?style=social)
