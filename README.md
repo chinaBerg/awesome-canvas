@@ -33,6 +33,17 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
   - [flowchart.js](https://github.com/adrai/flowchart.js) 可以运行在浏览器和终端的流程图DSL和SVG流程图 ![](https://img.shields.io/github/stars/adrai/flowchart.js?style=social) ![](https://img.shields.io/github/forks/adrai/flowchart.js?style=social)
   - [mermaid](https://github.com/mermaid-js/mermaid) [[在线演示](https://mermaidjs.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggVERcbiAgICBBW0hhcmRdIC0tPnxUZXh0fCBCKFJvdW5kKVxuICAgIEIgLS0-IEN7RGVjaXNpb259XG4gICAgQyAtLT58T25lfCBEW1Jlc3VsdCAxXVxuICAgIEMgLS0-fFR3b3wgRVtSZXN1bHQgMl0iLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCJ9fQ)] 通过解析类Markdown语法生成图表和流程图等 ![](https://img.shields.io/github/stars/mermaid-js/mermaid?style=social) ![](https://img.shields.io/github/forks/mermaid-js/mermaid?style=social)
 
+- 跨平台
+  - [spritejs](https://spritejs.org/#/) [[在线演示](https://spritejs.org/demo/)] 一个跨平台的高性能图形系统 ![](https://img.shields.io/github/stars/spritejs/spritejs?style=social) ![](https://img.shields.io/github/forks/spritejs/spritejs?style=social)
+
+- SVG/Canvas转换解析
+  - [fabric.js](http://fabricjs.com/) [[在线演示](http://fabricjs.com/demos/)] Javascript Canvas库，是SVG-to-Canvas和Canvas-to-SVG的解析器 ![](https://img.shields.io/github/stars/fabricjs/fabric.js?style=social) ![](https://img.shields.io/github/forks/fabricjs/fabric.js?style=social)
+
+- 截图/图像
+  - [html2canvas](https://html2canvas.hertzen.com/) [[在线演示](https://html2canvas.hertzen.com/)] js截图插件 ![](https://img.shields.io/github/stars/niklasvh/html2canvas?style=social) ![](https://img.shields.io/github/forks/niklasvh/html2canvas?style=social)
+  - [dom-to-image](https://github.com/tsayen/dom-to-image) 使用HTML5 Canvas从DOM节点生成图像 ![](https://img.shields.io/github/stars/tsayen/dom-to-image?style=social) ![](https://img.shields.io/github/forks/tsayen/dom-to-image?style=social)
+  - [html-to-image](https://github.com/bubkoo/html-to-image) 使用HTML5 Canvas和SVG从DOM节点生成图像。Fork自dom-to-image但是添加一些功能 ![](https://img.shields.io/github/stars/bubkoo/html-to-image?style=social) ![](https://img.shields.io/github/forks/bubkoo/html-to-image?style=social)
+
 ## 范例/教程
 
 ## 协议
