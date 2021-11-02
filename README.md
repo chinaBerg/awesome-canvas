@@ -7,7 +7,7 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
   - [目录](#目录)
   - [官方资源](#官方资源)
   - [仓库](#仓库)
-  - [范例/教程](#范例教程)
+  - [教程](#教程)
   - [协议](#协议)
 ## 官方资源
 
@@ -44,8 +44,10 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
   - [dom-to-image](https://github.com/tsayen/dom-to-image) 使用HTML5 Canvas从DOM节点生成图像 ![](https://img.shields.io/github/stars/tsayen/dom-to-image?style=social) ![](https://img.shields.io/github/forks/tsayen/dom-to-image?style=social)
   - [html-to-image](https://github.com/bubkoo/html-to-image) 使用HTML5 Canvas和SVG从DOM节点生成图像。Fork自dom-to-image但是添加一些功能 ![](https://img.shields.io/github/stars/bubkoo/html-to-image?style=social) ![](https://img.shields.io/github/forks/bubkoo/html-to-image?style=social)
 
-## 范例/教程
+## 教程
 
+- [廖雪峰的Canvas教程](https://www.liaoxuefeng.com/wiki/1022910821149312/1023022423592576)
+- [CanvasStudy](https://github.com/827652549/CanvasStudy) ![](https://img.shields.io/github/stars/827652549/CanvasStudy?style=social) ![](https://img.shields.io/github/forks/827652549/CanvasStudy?style=social)
 ## 协议
 
 [MIT](./LICENSE)
