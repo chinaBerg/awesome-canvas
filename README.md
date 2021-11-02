@@ -8,6 +8,8 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
   - [官方资源](#官方资源)
   - [仓库](#仓库)
   - [教程](#教程)
+  - [文章](#文章)
+  - [特效](#特效)
   - [协议](#协议)
 ## 官方资源
 
@@ -33,6 +35,11 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
   - [flowchart.js](https://github.com/adrai/flowchart.js) 可以运行在浏览器和终端的流程图DSL和SVG流程图 ![](https://img.shields.io/github/stars/adrai/flowchart.js?style=social) ![](https://img.shields.io/github/forks/adrai/flowchart.js?style=social)
   - [mermaid](https://github.com/mermaid-js/mermaid) [[在线演示](https://mermaidjs.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggVERcbiAgICBBW0hhcmRdIC0tPnxUZXh0fCBCKFJvdW5kKVxuICAgIEIgLS0-IEN7RGVjaXNpb259XG4gICAgQyAtLT58T25lfCBEW1Jlc3VsdCAxXVxuICAgIEMgLS0-fFR3b3wgRVtSZXN1bHQgMl0iLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCJ9fQ)] 通过解析类Markdown语法生成图表和流程图等 ![](https://img.shields.io/github/stars/mermaid-js/mermaid?style=social) ![](https://img.shields.io/github/forks/mermaid-js/mermaid?style=social)
 
+- 甘特图
+
+- 工业图/化工图
+
+
 - 跨平台
   - [spritejs](https://spritejs.org/#/) [[在线演示](https://spritejs.org/demo/)] 一个跨平台的高性能图形系统 ![](https://img.shields.io/github/stars/spritejs/spritejs?style=social) ![](https://img.shields.io/github/forks/spritejs/spritejs?style=social)
 
@@ -44,10 +51,23 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
   - [dom-to-image](https://github.com/tsayen/dom-to-image) 使用HTML5 Canvas从DOM节点生成图像 ![](https://img.shields.io/github/stars/tsayen/dom-to-image?style=social) ![](https://img.shields.io/github/forks/tsayen/dom-to-image?style=social)
   - [html-to-image](https://github.com/bubkoo/html-to-image) 使用HTML5 Canvas和SVG从DOM节点生成图像。Fork自dom-to-image但是添加一些功能 ![](https://img.shields.io/github/stars/bubkoo/html-to-image?style=social) ![](https://img.shields.io/github/forks/bubkoo/html-to-image?style=social)
 
+- 图像处理
+
+- 2D游戏引擎
+
+- 3D游戏引擎
+
+- 动画
+
 ## 教程
 
 - [廖雪峰的Canvas教程](https://www.liaoxuefeng.com/wiki/1022910821149312/1023022423592576)
 - [CanvasStudy](https://github.com/827652549/CanvasStudy) ![](https://img.shields.io/github/stars/827652549/CanvasStudy?style=social) ![](https://img.shields.io/github/forks/827652549/CanvasStudy?style=social)
+
+## 文章
+
+## 特效
+
 ## 协议
 
 [MIT](./LICENSE)
