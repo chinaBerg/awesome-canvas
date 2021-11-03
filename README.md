@@ -22,6 +22,8 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
   - [echarts](https://github.com/apache/echarts) [[在线演示](https://echarts.apache.org/examples/zh/index.html)] 一个强大的交互式图表和数据可视化库 ![](https://img.shields.io/github/stars/apache/echarts?style=social) ![](https://img.shields.io/github/forks/apache/echarts?style=social)
   - [Chart.js](https://github.com/chartjs/Chart.js) [[在线演示](https://www.chartjs.org/docs/latest/samples/bar/vertical.html)] 给开发和设计人员的简单而灵活的js图表 ![](https://img.shields.io/github/stars/chartjs/Chart.js?style=social) ![](https://img.shields.io/github/forks/chartjs/Chart.js?style=social)
   - [highcharts](https://github.com/highcharts/highcharts) [[在线演示](https://www.highcharts.com/demo)] 基于SVG的JavaScript图表库,支持旧浏览器 ![](https://img.shields.io/github/stars/highcharts/highcharts?style=social) ![](https://img.shields.io/github/forks/highcharts/highcharts?style=social)
+  - [wx-charts](https://github.com/xiaolin3303/wx-charts) [[在线演示](https://github.com/xiaolin3303/wx-charts-demo)] 微信小程序图表charts组件 ![](https://img.shields.io/github/stars/xiaolin3303/wx-charts?style=social) ![](https://img.shields.io/github/forks/xiaolin3303/wx-charts?style=social)
+  - [wx-charts](https://github.com/timdream/wordcloud2.js) [[在线演示](https://wordcloud2-js.timdream.org/#love)] 2D Canvas/Html词云 ![](https://img.shields.io/github/stars/timdream/wordcloud2.js?style=social) ![](https://img.shields.io/github/forks/timdream/wordcloud2.js?style=social)
 
 - 3D库
   - [three.js](https://github.com/mrdoob/three.js) [[在线演示](https://threejs.org/examples/)] 创建易于使用、轻量级、跨浏览器的通用3d js库 ![](https://img.shields.io/github/stars/mrdoob/three.js?style=social) ![](https://img.shields.io/github/forks/mrdoob/three.js?style=social)
