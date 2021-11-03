@@ -40,6 +40,9 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
   - [gantt-schedule-timeline-calendar](https://github.com/neuronetio/gantt-schedule-timeline-calendar) [[在线演示](https://gantt-schedule-timeline-calendar.neuronet.io/examples)] - JS甘特图，项目甘特图，时间线，调度图，甘特时间线，预订时间线，React甘特图，Angular甘特图，Vue甘特图，svelte甘特图，订票管理 ![](https://img.shields.io/github/stars/neuronetio/gantt-schedule-timeline-calendar?style=social) ![](https://img.shields.io/github/forks/neuronetio/gantt-schedule-timeline-calendar?style=social)
   - [jQueryGantt](https://github.com/robicch/jQueryGantt) [[在线演示](https://gantt.twproject.com/)] - Jquery甘特图编辑器 ![](https://img.shields.io/github/stars/robicch/jQueryGantt?style=social) ![](https://img.shields.io/github/forks/robicch/jQueryGantt?style=social)
 
+- Excel
+  - [x-spreadsheet](https://hondrytravis.com/x-spreadsheet-doc/) [[在线演示](https://myliang.github.io/x-spreadsheet/)] - 基于webJavaScript(canvas)Excel表格 ![](https://img.shields.io/github/stars/myliang/x-spreadsheet?style=social) ![](https://img.shields.io/github/forks/myliang/x-spreadsheet?style=social)
+
 - 工业图/化工图
 
 
@@ -63,6 +66,11 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
 
 - 动画
 
+- React
+  - [react-canvas](https://github.com/Flipboard/react-canvas) - 将React组件渲染成Canvas而不是DOM ![](https://img.shields.io/github/stars/Flipboard/react-canvas?style=social) ![](https://img.shields.io/github/forks/Flipboard/react-canvas?style=social)
+
+- Vue
+
 ## 教程
 
 - [廖雪峰的Canvas教程](https://www.liaoxuefeng.com/wiki/1022910821149312/1023022423592576)
@@ -73,6 +81,8 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
 ## 效果/案例
 
 - [lucky-canvas](https://100px.net/) [[在线演示](https://100px.net/demo/wheel.html)] - 基于 TS + Canvas 开发的【大转盘 / 九宫格】抽奖插件，rainbow 一套源码适配多端框架 JS / Vue / React / Taro / UniApp / 微信小程序等 ![](https://img.shields.io/github/stars/buuing/lucky-canvas?style=social) ![](https://img.shields.io/github/forks/buuing/lucky-canvas?style=social)
+- [CanvasInput](https://github.com/goldfire/CanvasInput) [[在线演示](https://goldfirestudios.com/canvasinput-html5-canvas-text-input)] - HTML5 Canvas文本输入框 ![](https://img.shields.io/github/stars/goldfire/CanvasInput?style=social) ![](https://img.shields.io/github/forks/goldfire/CanvasInput?style=social)
+- [canvas-nest.js](https://github.com/hustcc/canvas-nest.js/blob/master/README-zh.md) - 一个基于 html5 canvas 绘制的网页背景效果。 ![](https://img.shields.io/github/stars/hustcc/canvas-nest.js?style=social) ![](https://img.shields.io/github/forks/hustcc/canvas-nest.js?style=social)
 - [超多经典 Canvas 实例，动态离子背景、炫彩小球、贪吃蛇、坦克大战、是男人就下100层、心形文字等](https://github.com/bxm0927/canvas-special) ![](https://img.shields.io/github/stars/bxm0927/canvas-special?style=social) ![](https://img.shields.io/github/forks/bxm0927/canvas-special?style=social)
 - [canvas效果集合](https://github.com/sunshine940326/canvas) ![](https://img.shields.io/github/stars/sunshine940326/canvas?style=social) ![](https://img.shields.io/github/forks/sunshine940326/canvas?style=social)
 
