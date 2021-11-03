@@ -9,7 +9,7 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
   - [仓库](#仓库)
   - [教程](#教程)
   - [文章](#文章)
-  - [特效](#特效)
+  - [效果/案例](#效果案例)
   - [协议](#协议)
 ## 官方资源
 
@@ -36,12 +36,9 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
   - [mermaid](https://github.com/mermaid-js/mermaid) [[在线演示](https://mermaidjs.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggVERcbiAgICBBW0hhcmRdIC0tPnxUZXh0fCBCKFJvdW5kKVxuICAgIEIgLS0-IEN7RGVjaXNpb259XG4gICAgQyAtLT58T25lfCBEW1Jlc3VsdCAxXVxuICAgIEMgLS0-fFR3b3wgRVtSZXN1bHQgMl0iLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCJ9fQ)] 通过解析类Markdown语法生成图表和流程图等 ![](https://img.shields.io/github/stars/mermaid-js/mermaid?style=social) ![](https://img.shields.io/github/forks/mermaid-js/mermaid?style=social)
 
 - 甘特图
-- [gantt](https://github.com/frappe/gantt) [[在线演示](https://frappe.io/gantt)] - 开源的Javascript甘特图。基于SVG ![](https://img.shields.io/github/stars/frappe/gantt?style=social) ![](https://img.shields.io/github/forks/frappe/gantt?style=social)
-- [gantt-schedule-timeline-calendar](https://github.com/neuronetio/gantt-schedule-timeline-calendar) [[在线演示](https://gantt-schedule-timeline-calendar.neuronet.io/examples)] - JS甘特图，项目甘特图，时间线，调度图，甘特时间线，预订时间线，React甘特图，Angular甘特图，Vue甘特图，svelte甘特图，订票管理 ![](https://img.shields.io/github/stars/neuronetio/gantt-schedule-timeline-calendar?style=social) ![](https://img.shields.io/github/forks/neuronetio/gantt-schedule-timeline-calendar?style=social)
-- [jQueryGantt](https://github.com/robicch/jQueryGantt) [[在线演示](https://gantt.twproject.com/)] - Jquery甘特图编辑器 ![](https://img.shields.io/github/stars/robicch/jQueryGantt?style=social) ![](https://img.shields.io/github/forks/robicch/jQueryGantt?style=social)
-- []() [[在线演示]()] - xxx ![]() ![]()
-- []() [[在线演示]()] - xxx ![]() ![]()
-- []() [[在线演示]()] - xxx ![]() ![]()
+  - [gantt](https://github.com/frappe/gantt) [[在线演示](https://frappe.io/gantt)] - 开源的Javascript甘特图。基于SVG ![](https://img.shields.io/github/stars/frappe/gantt?style=social) ![](https://img.shields.io/github/forks/frappe/gantt?style=social)
+  - [gantt-schedule-timeline-calendar](https://github.com/neuronetio/gantt-schedule-timeline-calendar) [[在线演示](https://gantt-schedule-timeline-calendar.neuronet.io/examples)] - JS甘特图，项目甘特图，时间线，调度图，甘特时间线，预订时间线，React甘特图，Angular甘特图，Vue甘特图，svelte甘特图，订票管理 ![](https://img.shields.io/github/stars/neuronetio/gantt-schedule-timeline-calendar?style=social) ![](https://img.shields.io/github/forks/neuronetio/gantt-schedule-timeline-calendar?style=social)
+  - [jQueryGantt](https://github.com/robicch/jQueryGantt) [[在线演示](https://gantt.twproject.com/)] - Jquery甘特图编辑器 ![](https://img.shields.io/github/stars/robicch/jQueryGantt?style=social) ![](https://img.shields.io/github/forks/robicch/jQueryGantt?style=social)
 
 - 工业图/化工图
 
@@ -56,6 +53,7 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
   - [html2canvas](https://html2canvas.hertzen.com/) [[在线演示](https://html2canvas.hertzen.com/)] js截图插件 ![](https://img.shields.io/github/stars/niklasvh/html2canvas?style=social) ![](https://img.shields.io/github/forks/niklasvh/html2canvas?style=social)
   - [dom-to-image](https://github.com/tsayen/dom-to-image) 使用HTML5 Canvas从DOM节点生成图像 ![](https://img.shields.io/github/stars/tsayen/dom-to-image?style=social) ![](https://img.shields.io/github/forks/tsayen/dom-to-image?style=social)
   - [html-to-image](https://github.com/bubkoo/html-to-image) 使用HTML5 Canvas和SVG从DOM节点生成图像。Fork自dom-to-image但是添加一些功能 ![](https://img.shields.io/github/stars/bubkoo/html-to-image?style=social) ![](https://img.shields.io/github/forks/bubkoo/html-to-image?style=social)
+  - [canvas2image](https://github.com/hongru/canvas2image) [[在线演示](https://github.com/hongru/canvas2image/blob/master/index.html)] - 用于保存或转换Canvas为图片的工具 ![](https://img.shields.io/github/stars/hongru/canvas2image?style=social) ![](https://img.shields.io/github/forks/hongru/canvas2image?style=social)
 
 - 图像处理
 
@@ -72,7 +70,11 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
 
 ## 文章
 
-## 特效
+## 效果/案例
+
+- [lucky-canvas](https://100px.net/) [[在线演示](https://100px.net/demo/wheel.html)] - 基于 TS + Canvas 开发的【大转盘 / 九宫格】抽奖插件，rainbow 一套源码适配多端框架 JS / Vue / React / Taro / UniApp / 微信小程序等 ![](https://img.shields.io/github/stars/buuing/lucky-canvas?style=social) ![](https://img.shields.io/github/forks/buuing/lucky-canvas?style=social)
+- [超多经典 Canvas 实例，动态离子背景、炫彩小球、贪吃蛇、坦克大战、是男人就下100层、心形文字等](https://github.com/bxm0927/canvas-special) ![](https://img.shields.io/github/stars/bxm0927/canvas-special?style=social) ![](https://img.shields.io/github/forks/bxm0927/canvas-special?style=social)
+- [canvas效果集合](https://github.com/sunshine940326/canvas) ![](https://img.shields.io/github/stars/sunshine940326/canvas?style=social) ![](https://img.shields.io/github/forks/sunshine940326/canvas?style=social)
 
 ## 协议
 
