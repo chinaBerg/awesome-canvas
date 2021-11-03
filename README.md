@@ -36,6 +36,12 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
   - [mermaid](https://github.com/mermaid-js/mermaid) [[在线演示](https://mermaidjs.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggVERcbiAgICBBW0hhcmRdIC0tPnxUZXh0fCBCKFJvdW5kKVxuICAgIEIgLS0-IEN7RGVjaXNpb259XG4gICAgQyAtLT58T25lfCBEW1Jlc3VsdCAxXVxuICAgIEMgLS0-fFR3b3wgRVtSZXN1bHQgMl0iLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCJ9fQ)] 通过解析类Markdown语法生成图表和流程图等 ![](https://img.shields.io/github/stars/mermaid-js/mermaid?style=social) ![](https://img.shields.io/github/forks/mermaid-js/mermaid?style=social)
 
 - 甘特图
+- [gantt](https://github.com/frappe/gantt) [[在线演示](https://frappe.io/gantt)] - 开源的Javascript甘特图。基于SVG ![](https://img.shields.io/github/stars/frappe/gantt?style=social) ![](https://img.shields.io/github/forks/frappe/gantt?style=social)
+- [gantt-schedule-timeline-calendar](https://github.com/neuronetio/gantt-schedule-timeline-calendar) [[在线演示](https://gantt-schedule-timeline-calendar.neuronet.io/examples)] - JS甘特图，项目甘特图，时间线，调度图，甘特时间线，预订时间线，React甘特图，Angular甘特图，Vue甘特图，svelte甘特图，订票管理 ![](https://img.shields.io/github/stars/neuronetio/gantt-schedule-timeline-calendar?style=social) ![](https://img.shields.io/github/forks/neuronetio/gantt-schedule-timeline-calendar?style=social)
+- [jQueryGantt](https://github.com/robicch/jQueryGantt) [[在线演示](https://gantt.twproject.com/)] - Jquery甘特图编辑器 ![](https://img.shields.io/github/stars/robicch/jQueryGantt?style=social) ![](https://img.shields.io/github/forks/robicch/jQueryGantt?style=social)
+- []() [[在线演示]()] - xxx ![]() ![]()
+- []() [[在线演示]()] - xxx ![]() ![]()
+- []() [[在线演示]()] - xxx ![]() ![]()
 
 - 工业图/化工图
 
