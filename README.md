@@ -85,6 +85,10 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
 
 - Excel
   - [x-spreadsheet](https://hondrytravis.com/x-spreadsheet-doc/) [[在线演示](https://myliang.github.io/x-spreadsheet/)] - 基于webJavaScript(canvas)Excel表格 ![](https://img.shields.io/github/stars/myliang/x-spreadsheet?style=social) ![](https://img.shields.io/github/forks/myliang/x-spreadsheet?style=social)
+  - [Luckysheet](https://github.com/mengshukeji/Luckysheet/blob/master/README-zh.md) [[在线演示](https://mengshukeji.github.io/LuckysheetDemo/)] - 一个类似于excel的在线电子表格，功能强大，配置简单，完全开源 ![](https://img.shields.io/github/stars/mengshukeji/Luckysheet?style=social) ![](https://img.shields.io/github/forks/mengshukeji/Luckysheet?style=social)
+  - [sheetsee.js](https://github.com/jlord/sheetsee.js) - 可视化谷歌Spreadsheet的数据 ![](https://img.shields.io/github/stars/jlord/sheetsee.js?style=social) ![](https://img.shields.io/github/forks/jlord/sheetsee.js?style=social)
+  - [SlickGrid](https://github.com/mleibman/SlickGrid) [[在线演示](http://6pac.github.io/SlickGrid/examples/example4-model.html)] - 极快的JavaScript网格/电子表格 ![](https://img.shields.io/github/stars/mleibman/SlickGrid?style=social) ![](https://img.shields.io/github/forks/mleibman/SlickGrid?style=social)
+  - [handsontable](https://github.com/handsontable/handsontable) [[在线演示](https://handsontable.com/demo)] - Js带电子表格的数据网格，可以在React、Angular、Vue中使用 ![](https://img.shields.io/github/stars/handsontable/handsontable?style=social) ![](https://img.shields.io/github/forks/handsontable/handsontable?style=social)
 
 - 工业图/化工图
 
