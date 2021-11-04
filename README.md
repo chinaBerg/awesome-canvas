@@ -55,6 +55,7 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
   - [easy-pie-chart](https://github.com/rendro/easy-pie-chart) - 一个轻量级插件，为单个值绘制简单带动画的饼图 ![](https://img.shields.io/github/stars/rendro/easy-pie-chart?style=social) ![](https://img.shields.io/github/forks/rendro/easy-pie-chart?style=social)
 
   - [react-vis](https://github.com/uber/react-vis) [[在线演示](http://uber.github.io/react-vis/examples/showcases/axes)] - React的数据可视化组件 ![](https://img.shields.io/github/stars/uber/react-vis?style=social) ![](https://img.shields.io/github/forks/uber/react-vis?style=social)
+  - [vega](https://vega.github.io/vega) [[在线演示](https://vega.github.io/vega/examples/)] - 可视化语法，使用Vega，您可以用JSON格式描述数据可视化，并使用HTML5 Canvas或SVG生成交互式视图 ![](https://img.shields.io/github/stars/vega/vega?style=social) ![](https://img.shields.io/github/forks/vega/vega?style=social)
 
 - 3D库
 
@@ -81,7 +82,7 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
 
 - 组织图/脑图
 
-  -[OrgChart](https://github.com/dabeng/OrgChart/blob/master/README.zh-cn.md) [[在线演示](https://dabeng.github.io/OrgChart/)] - 简单直接的组织图插件，任何时候你想要一个树状的图表，都可以使用OrgChart ![](https://img.shields.io/github/stars/dabeng/OrgChart?style=social) ![](https://img.shields.io/github/forks/dabeng/OrgChart?style=social)
+  - [OrgChart](https://github.com/dabeng/OrgChart/blob/master/README.zh-cn.md) [[在线演示](https://dabeng.github.io/OrgChart/)] - 简单直接的组织图插件，任何时候你想要一个树状的图表，都可以使用OrgChart ![](https://img.shields.io/github/stars/dabeng/OrgChart?style=social) ![](https://img.shields.io/github/forks/dabeng/OrgChart?style=social)
 
 - Excel
   - [x-spreadsheet](https://hondrytravis.com/x-spreadsheet-doc/) [[在线演示](https://myliang.github.io/x-spreadsheet/)] - 基于webJavaScript(canvas)Excel表格 ![](https://img.shields.io/github/stars/myliang/x-spreadsheet?style=social) ![](https://img.shields.io/github/forks/myliang/x-spreadsheet?style=social)
@@ -99,17 +100,24 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
 - SVG/Canvas转换解析
   - [fabric.js](http://fabricjs.com/) [[在线演示](http://fabricjs.com/demos/)] - JS Canvas库，SVG-to-Canvas和Canvas-to-SVG解析器 ![](https://img.shields.io/github/stars/fabricjs/fabric.js?style=social) ![](https://img.shields.io/github/forks/fabricjs/fabric.js?style=social)
 
-- 截图/图像
+- 截图/图片生成
   - [html2canvas](https://html2canvas.hertzen.com/) [[在线演示](https://html2canvas.hertzen.com/)] - JS截图插件 ![](https://img.shields.io/github/stars/niklasvh/html2canvas?style=social) ![](https://img.shields.io/github/forks/niklasvh/html2canvas?style=social)
   - [dom-to-image](https://github.com/tsayen/dom-to-image) - 使用HTML5 Canvas从DOM节点生成图像 ![](https://img.shields.io/github/stars/tsayen/dom-to-image?style=social) ![](https://img.shields.io/github/forks/tsayen/dom-to-image?style=social)
   - [html-to-image](https://github.com/bubkoo/html-to-image) - 使用HTML5 Canvas和SVG从DOM节点生成图像。Fork自dom-to-image但是添加一些功能 ![](https://img.shields.io/github/stars/bubkoo/html-to-image?style=social) ![](https://img.shields.io/github/forks/bubkoo/html-to-image?style=social)
   - [canvas2image](https://github.com/hongru/canvas2image) [[在线演示](https://github.com/hongru/canvas2image/blob/master/index.html)] - 用于保存或转换Canvas为图片的工具 ![](https://img.shields.io/github/stars/hongru/canvas2image?style=social) ![](https://img.shields.io/github/forks/hongru/canvas2image?style=social)
 
 - 图像处理
+  - [tui.image-editor](https://github.com/nhn/tui.image-editor) [[在线演示](http://nhn.github.io/tui.image-editor/latest/tutorial-example01-includeUi)] - 基于Canvas功能完整的照片图像编辑器。 ![](https://img.shields.io/github/stars/nhn/tui.image-editor?style=social) ![](https://img.shields.io/github/forks/nhn/tui.image-editor?style=social)
+  - [merge-images](https://github.com/lukechilds/merge-images) - 轻松将图像组合在一起，且不会弄脏周围的画布 ![](https://img.shields.io/github/stars/lukechilds/merge-images?style=social) ![](https://img.shields.io/github/forks/lukechilds/merge-images?style=social)
 
-- 2D游戏引擎
+- 游戏引擎/物理引擎
+  - [matter-js](https://brm.io/matter-js/) [[在线演示](https://brm.io/matter-js/demo/#mixed)] - 用于web的2D刚体物理引擎 ![](https://img.shields.io/github/stars/liabru/matter-js?style=social) ![](https://img.shields.io/github/forks/liabru/matter-js?style=social)
+  <!--
+  - [matter-js](https://brm.io/matter-js/) [[]()] - xx ![]() ![]()
+  - [matter-js](https://brm.io/matter-js/) [[]()] - xx ![]() ![]() -->
 
-- 3D游戏引擎
+- 波纹
+  - [wavesurfer.js](https://wavesurfer-js.org/) [[在线演示](https://wavesurfer-js.org/examples/)] - 以Web音频和Canvas的音频波纹 ![](https://img.shields.io/github/stars/katspaugh/wavesurfer.js?style=social) ![](https://img.shields.io/github/forks/katspaugh/wavesurfer.js?style=social)
 
 - 动画
 
@@ -117,6 +125,9 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
   - [react-canvas](https://github.com/Flipboard/react-canvas) - 将React组件渲染成Canvas而不是DOM ![](https://img.shields.io/github/stars/Flipboard/react-canvas?style=social) ![](https://img.shields.io/github/forks/Flipboard/react-canvas?style=social)
 
 - Vue
+
+- 其他
+  - [paper.js](http://paperjs.org/) [[在线演示](http://paperjs.org/examples/)] - 矢量图形脚本的瑞士军刀 ![](https://img.shields.io/github/stars/paperjs/paper.js?style=social) ![](https://img.shields.io/github/forks/paperjs/paper.js?style=social)
 
 ## 教程
 
