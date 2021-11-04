@@ -21,6 +21,9 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
   - [D3](https://github.com/d3/d3) [[在线演示](https://observablehq.com/@d3/gallery)] - D3(或D3.js)是一个用于web标准可视化数据的JS库。 ![](https://img.shields.io/github/stars/d3/d3?style=social) ![](https://img.shields.io/github/forks/d3/d3?style=social)
     - [angular-charts](https://github.com/chinmaymk/angular-charts) - 基于D3创建Angular创建图表的指令库 ![](https://img.shields.io/github/stars/chinmaymk/angular-charts?style=social) ![](https://img.shields.io/github/forks/chinmaymk/angular-charts?style=social)
     - [nvd3](http://nvd3-community.github.io/nvd3/examples/documentation.html) [[在线演示](http://nvd3-community.github.io/nvd3/)] - 一个用d3.js编写的可重用图表库 ![](https://img.shields.io/github/stars/novus/nvd3?style=social) ![](https://img.shields.io/github/forks/novus/nvd3?style=social)
+    - [c3](https://c3js.org/) [[在线演示](https://c3js.org/examples.html)] - 一个基于D3的可重用图表库 ![](https://img.shields.io/github/stars/c3js/c3?style=social) ![](https://img.shields.io/github/forks/c3js/c3?style=social)
+    - [dc.js](https://github.com/dc-js/dc.js) [[在线演示](http://dc-js.github.io/dc.js/)] - 基于D3使用corssfilter渲染的多维图表 ![](https://img.shields.io/github/stars/dc-js/dc.js?style=social) ![](https://img.shields.io/github/forks/dc-js/dc.js?style=social)
+    - [britecharts](https://britecharts.github.io/britecharts/) [[在线演示](https://britecharts.github.io/britecharts/tutorial-bar.html)] - 基于D3.js v5的客户端可重用图表库 ![](https://img.shields.io/github/stars/britecharts/britecharts?style=social) ![](https://img.shields.io/github/forks/britecharts/britecharts?style=social)
 
   - [echarts](https://github.com/apache/echarts) [[在线演示](https://echarts.apache.org/examples/zh/index.html)] - 一个强大的交互式图表和数据可视化库 ![](https://img.shields.io/github/stars/apache/echarts?style=social) ![](https://img.shields.io/github/forks/apache/echarts?style=social)
     - [v-charts](https://v-charts.js.org/#/) [[在线演示](https://codesandbox.io/s/z69myovqzx)] - 基于 Vue2.0 和 ECharts 封装的图表组件 ![](https://img.shields.io/github/stars/ElemeFE/v-charts?style=social) ![](https://img.shields.io/github/forks/ElemeFE/v-charts?style=social)
@@ -33,13 +36,13 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
 
   - [highcharts](https://github.com/highcharts/highcharts) [[在线演示](https://www.highcharts.com/demo)] - 基于SVG的JavaScript图表库,支持旧浏览器 ![](https://img.shields.io/github/stars/highcharts/highcharts?style=social) ![](https://img.shields.io/github/forks/highcharts/highcharts?style=social)
 
+  - [F2](https://antv-f2.gitee.io/zh/docs/tutorial/getting-started) [[在线演示](https://antv-f2.gitee.io/zh/examples/gallery)] - 一个专注于移动，开箱即用的可视化解决方案，完美支持 H5 环境同时兼容多种环境（node, 小程序，weex） ![](https://img.shields.io/github/stars/antvis/F2?style=social) ![](https://img.shields.io/github/forks/antvis/F2?style=social)
+
   - [wx-charts](https://github.com/xiaolin3303/wx-charts) [[在线演示](https://github.com/xiaolin3303/wx-charts-demo)] - 微信小程序图表charts组件 ![](https://img.shields.io/github/stars/xiaolin3303/wx-charts?style=social) ![](https://img.shields.io/github/forks/xiaolin3303/wx-charts?style=social)
 
   - [wordcloud2.js](https://github.com/timdream/wordcloud2.js) [[在线演示](https://wordcloud2-js.timdream.org/#love)] - 2D Canvas/Html词云 ![](https://img.shields.io/github/stars/timdream/wordcloud2.js?style=social) ![](https://img.shields.io/github/forks/timdream/wordcloud2.js?style=social)
 
   - [chartist-js](https://github.com/gionkunz/chartist-js) [[在线演示](http://gionkunz.github.io/chartist-js/examples.html)] - 简单的响应式图表 ![](https://img.shields.io/github/stars/gionkunz/chartist-js?style=social) ![](https://img.shields.io/github/forks/gionkunz/chartist-js?style=social)
-
-  - [c3](https://c3js.org/) [[在线演示](https://c3js.org/examples.html)] - 一个基于d3的可重用图表库 ![](https://img.shields.io/github/stars/c3js/c3?style=social) ![](https://img.shields.io/github/forks/c3js/c3?style=social)
 
   - [charts](https://frappe.io/charts/docs) [[在线演示](https://frappe.io/charts)] - 零依赖的、简单的、响应快的、现代SVG图表 ![](https://img.shields.io/github/stars/frappe/charts?style=social) ![](https://img.shields.io/github/forks/frappe/charts?style=social)
 
@@ -47,7 +50,11 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
 
   - [apexcharts.js](https://apexcharts.com/) [[在线演示](https://apexcharts.com/javascript-chart-demos/)] - 基于SVG的交互式JavaScript图表 ![](https://img.shields.io/github/stars/apexcharts/apexcharts.js?style=social) ![](https://img.shields.io/github/forks/apexcharts/apexcharts.js?style=social)
 
+  - [plotly.js](https://github.com/plotly/plotly.js) [[在线演示](https://plotly.com/javascript/)] - Ploty和Dash的JavaScript版本的开源图表库 ![](https://img.shields.io/github/stars/plotly/plotly.js?style=social) ![](https://img.shields.io/github/forks/plotly/plotly.js?style=social)
+
   - [easy-pie-chart](https://github.com/rendro/easy-pie-chart) - 一个轻量级插件，为单个值绘制简单带动画的饼图 ![](https://img.shields.io/github/stars/rendro/easy-pie-chart?style=social) ![](https://img.shields.io/github/forks/rendro/easy-pie-chart?style=social)
+
+  - [react-vis](https://github.com/uber/react-vis) [[在线演示](http://uber.github.io/react-vis/examples/showcases/axes)] - React的数据可视化组件 ![](https://img.shields.io/github/stars/uber/react-vis?style=social) ![](https://img.shields.io/github/forks/uber/react-vis?style=social)
 
 - 3D库
   - [three.js](https://github.com/mrdoob/three.js) [[在线演示](https://threejs.org/examples/)] - 创建易于使用、轻量级、跨浏览器的通用3d js库 ![](https://img.shields.io/github/stars/mrdoob/three.js?style=social) ![](https://img.shields.io/github/forks/mrdoob/three.js?style=social)
