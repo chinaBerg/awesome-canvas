@@ -16,9 +16,20 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
 - [canvas - MDN官方文档](https://developer.mozilla.org/zh-CN/docs/Web/API/Canvas_API)
 
 ## 仓库
+- 图形绘制
+  - [fabric.js](http://fabricjs.com/) [[在线演示](http://fabricjs.com/demos/)] - JS Canvas库，SVG-to-Canvas和Canvas-to-SVG解析器 ![](https://img.shields.io/github/stars/fabricjs/fabric.js?style=social) ![](https://img.shields.io/github/forks/fabricjs/fabric.js?style=social)
+  - [two.js](https://two.js.org/#introduction) [[在线演示](https://two.js.org/examples/)] - 一个渲染器无关的Web 2D绘图API ![](https://img.shields.io/github/stars/jonobr1/two.js?style=social) ![](https://img.shields.io/github/forks/jonobr1/two.js?style=social)
+  - [EaselJS](https://www.createjs.com/getting-started/easeljs) - EaselJS是一个用于在HTML5中构建高性能交互式2D内容的库 ![](https://img.shields.io/github/stars/CreateJS/EaselJS?style=social) ![](https://img.shields.io/github/forks/CreateJS/EaselJS?style=social)
+  - [spritejs](https://spritejs.org/#/) [[在线演示](https://spritejs.org/demo/)] - 一个跨平台的高性能图形系统 ![](https://img.shields.io/github/stars/spritejs/spritejs?style=social) ![](https://img.shields.io/github/forks/spritejs/spritejs?style=social)
+  - [konva](https://konvajs.org/) [[在线演示](https://konvajs.org/docs/sandbox/index.html)] - Konva.js是一个HTML5 Canvas JS框架，通过扩展2D context让桌面和移动应用的Canvas支持交互性 ![](https://img.shields.io/github/stars/konvajs/konva?style=social) ![](https://img.shields.io/github/forks/konvajs/konva?style=social)
+    - [konva中文文档](http://konvajs-doc.bluehymn.com/docs/)
+    - [react-konva](https://konvajs.org/) [[在线演示](https://codesandbox.io/s/5m3nwp787x)] - 基于[konva](https://konvajs.org/), 用于使用React绘制复杂画布图形的JavaScript库 ![](https://img.shields.io/github/stars/konvajs/react-konva?style=social) ![](https://img.shields.io/github/forks/konvajs/react-konva?style=social)
+    - [vue-konva](https://github.com/konvajs/vue-konva) - 基于Vue和[konva](https://konvajs.org/)绘制复杂canvas图形的js库 ![](https://img.shields.io/github/stars/konvajs/vue-konva?style=social) ![](https://img.shields.io/github/forks/konvajs/vue-konva?style=social)
+  - [concretejs](http://www.concretejs.com/) [[在线演示](http://www.concretejs.com/#examples)]- Concrete是一个超快、轻量级的Html5 Canvas框架，支持hit检测、分层、像素比率管理、导出和下载 ![](https://img.shields.io/github/stars/ericdrowell/concrete?style=social) ![](https://img.shields.io/github/forks/ericdrowell/concrete?style=social)
 
 - 图表库
   - [D3](https://github.com/d3/d3) [[在线演示](https://observablehq.com/@d3/gallery)] - D3(或D3.js)是一个用于web标准可视化数据的JS库。 ![](https://img.shields.io/github/stars/d3/d3?style=social) ![](https://img.shields.io/github/forks/d3/d3?style=social)
+    - [awesome-d3](https://github.com/wbkd/awesome-d3) ![](https://img.shields.io/github/stars/wbkd/awesome-d3?style=social) ![](https://img.shields.io/github/forks/wbkd/awesome-d3?style=social)
     - [angular-charts](https://github.com/chinmaymk/angular-charts) - 基于D3创建Angular创建图表的指令库 ![](https://img.shields.io/github/stars/chinmaymk/angular-charts?style=social) ![](https://img.shields.io/github/forks/chinmaymk/angular-charts?style=social)
     - [nvd3](http://nvd3-community.github.io/nvd3/examples/documentation.html) [[在线演示](http://nvd3-community.github.io/nvd3/)] - 一个用d3.js编写的可重用图表库 ![](https://img.shields.io/github/stars/novus/nvd3?style=social) ![](https://img.shields.io/github/forks/novus/nvd3?style=social)
     - [c3](https://c3js.org/) [[在线演示](https://c3js.org/examples.html)] - 一个基于D3的可重用图表库 ![](https://img.shields.io/github/stars/c3js/c3?style=social) ![](https://img.shields.io/github/forks/c3js/c3?style=social)
@@ -56,6 +67,7 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
 
   - [react-vis](https://github.com/uber/react-vis) [[在线演示](http://uber.github.io/react-vis/examples/showcases/axes)] - React的数据可视化组件 ![](https://img.shields.io/github/stars/uber/react-vis?style=social) ![](https://img.shields.io/github/forks/uber/react-vis?style=social)
   - [vega](https://vega.github.io/vega) [[在线演示](https://vega.github.io/vega/examples/)] - 可视化语法，使用Vega，您可以用JSON格式描述数据可视化，并使用HTML5 Canvas或SVG生成交互式视图 ![](https://img.shields.io/github/stars/vega/vega?style=social) ![](https://img.shields.io/github/forks/vega/vega?style=social)
+  -[heatmap.js](https://github.com/pa7/heatmap.js) - 基于HTML5 Canvas的Js热力图 ![](https://img.shields.io/github/stars/pa7/heatmap.js?style=social) ![](https://img.shields.io/github/forks/pa7/heatmap.js?style=social)
 
 - 3D库
 
@@ -93,13 +105,6 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
 
 - 工业图/化工图
 
-
-- 跨平台
-  - [spritejs](https://spritejs.org/#/) [[在线演示](https://spritejs.org/demo/)] - 一个跨平台的高性能图形系统 ![](https://img.shields.io/github/stars/spritejs/spritejs?style=social) ![](https://img.shields.io/github/forks/spritejs/spritejs?style=social)
-
-- SVG/Canvas转换解析
-  - [fabric.js](http://fabricjs.com/) [[在线演示](http://fabricjs.com/demos/)] - JS Canvas库，SVG-to-Canvas和Canvas-to-SVG解析器 ![](https://img.shields.io/github/stars/fabricjs/fabric.js?style=social) ![](https://img.shields.io/github/forks/fabricjs/fabric.js?style=social)
-
 - 截图/图片生成
   - [html2canvas](https://html2canvas.hertzen.com/) [[在线演示](https://html2canvas.hertzen.com/)] - JS截图插件 ![](https://img.shields.io/github/stars/niklasvh/html2canvas?style=social) ![](https://img.shields.io/github/forks/niklasvh/html2canvas?style=social)
   - [dom-to-image](https://github.com/tsayen/dom-to-image) - 使用HTML5 Canvas从DOM节点生成图像 ![](https://img.shields.io/github/stars/tsayen/dom-to-image?style=social) ![](https://img.shields.io/github/forks/tsayen/dom-to-image?style=social)
@@ -109,12 +114,11 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
 - 图像处理
   - [tui.image-editor](https://github.com/nhn/tui.image-editor) [[在线演示](http://nhn.github.io/tui.image-editor/latest/tutorial-example01-includeUi)] - 基于Canvas功能完整的照片图像编辑器。 ![](https://img.shields.io/github/stars/nhn/tui.image-editor?style=social) ![](https://img.shields.io/github/forks/nhn/tui.image-editor?style=social)
   - [merge-images](https://github.com/lukechilds/merge-images) - 轻松将图像组合在一起，且不会弄脏周围的画布 ![](https://img.shields.io/github/stars/lukechilds/merge-images?style=social) ![](https://img.shields.io/github/forks/lukechilds/merge-images?style=social)
+  - [jspaint](https://github.com/1j01/jspaint) [[在线演示](https://jspaint.app/#local:5ee9c6aab5992)] - Web版的经典MS Paint翻版 ![](https://img.shields.io/github/stars/1j01/jspaint?style=social) ![](https://img.shields.io/github/forks/1j01/jspaint?style=social)
 
 - 游戏引擎/物理引擎
   - [matter-js](https://brm.io/matter-js/) [[在线演示](https://brm.io/matter-js/demo/#mixed)] - 用于web的2D刚体物理引擎 ![](https://img.shields.io/github/stars/liabru/matter-js?style=social) ![](https://img.shields.io/github/forks/liabru/matter-js?style=social)
-  <!--
-  - [matter-js](https://brm.io/matter-js/) [[]()] - xx ![]() ![]()
-  - [matter-js](https://brm.io/matter-js/) [[]()] - xx ![]() ![]() -->
+  - [Hilo](https://github.com/hiloteam/Hilo/blob/dev/README_ZH.md) [[在线演示](https://hiloteam.github.io/examples/index.html)] - 阿里巴巴集团开发的跨平台HTML5游戏开发解决方案 ![](https://img.shields.io/github/stars/hiloteam/Hilo?style=social) ![](https://img.shields.io/github/forks/hiloteam/Hilo?style=social)
 
 - 波纹
   - [wavesurfer.js](https://wavesurfer-js.org/) [[在线演示](https://wavesurfer-js.org/examples/)] - 以Web音频和Canvas的音频波纹 ![](https://img.shields.io/github/stars/katspaugh/wavesurfer.js?style=social) ![](https://img.shields.io/github/forks/katspaugh/wavesurfer.js?style=social)
@@ -123,8 +127,6 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
 
 - React
   - [react-canvas](https://github.com/Flipboard/react-canvas) - 将React组件渲染成Canvas而不是DOM ![](https://img.shields.io/github/stars/Flipboard/react-canvas?style=social) ![](https://img.shields.io/github/forks/Flipboard/react-canvas?style=social)
-
-- Vue
 
 - 其他
   - [paper.js](http://paperjs.org/) [[在线演示](http://paperjs.org/examples/)] - 矢量图形脚本的瑞士军刀 ![](https://img.shields.io/github/stars/paperjs/paper.js?style=social) ![](https://img.shields.io/github/forks/paperjs/paper.js?style=social)
