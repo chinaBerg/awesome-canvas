@@ -17,7 +17,7 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
 
 ## 仓库
 - 图形绘制
-  - [fabric.js](http://fabricjs.com/) [[在线演示](http://fabricjs.com/demos/)] - JS Canvas库，SVG-to-Canvas和Canvas-to-SVG解析器 ![](https://img.shields.io/github/stars/fabricjs/fabric.js?style=social) ![](https://img.shields.io/github/forks/fabricjs/fabric.js?style=social)
+  - [fabric.js](http://fabricjs.com/) [[在线演示](http://fabricjs.com/demos/)] - Fabric.js是一个可以轻松处理Canvas元素的框架,也是SVG-to-Canvas和Canvas-to-SVG的解析器 ![](https://img.shields.io/github/stars/fabricjs/fabric.js?style=social) ![](https://img.shields.io/github/forks/fabricjs/fabric.js?style=social)
   - [two.js](https://two.js.org/#introduction) [[在线演示](https://two.js.org/examples/)] - 一个渲染器无关的Web 2D绘图API ![](https://img.shields.io/github/stars/jonobr1/two.js?style=social) ![](https://img.shields.io/github/forks/jonobr1/two.js?style=social)
   - [EaselJS](https://www.createjs.com/getting-started/easeljs) - EaselJS是一个用于在HTML5中构建高性能交互式2D内容的库 ![](https://img.shields.io/github/stars/CreateJS/EaselJS?style=social) ![](https://img.shields.io/github/forks/CreateJS/EaselJS?style=social)
   - [spritejs](https://spritejs.org/#/) [[在线演示](https://spritejs.org/demo/)] - 一个跨平台的高性能图形系统 ![](https://img.shields.io/github/stars/spritejs/spritejs?style=social) ![](https://img.shields.io/github/forks/spritejs/spritejs?style=social)
@@ -119,6 +119,7 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
 - 游戏引擎/物理引擎
   - [matter-js](https://brm.io/matter-js/) [[在线演示](https://brm.io/matter-js/demo/#mixed)] - 用于web的2D刚体物理引擎 ![](https://img.shields.io/github/stars/liabru/matter-js?style=social) ![](https://img.shields.io/github/forks/liabru/matter-js?style=social)
   - [Hilo](https://github.com/hiloteam/Hilo/blob/dev/README_ZH.md) [[在线演示](https://hiloteam.github.io/examples/index.html)] - 阿里巴巴集团开发的跨平台HTML5游戏开发解决方案 ![](https://img.shields.io/github/stars/hiloteam/Hilo?style=social) ![](https://img.shields.io/github/forks/hiloteam/Hilo?style=social)
+  - [melonJS](https://melonjs.org/) [[在线演示](https://www.melongaming.com/)] - 一个全新的轻量级javascript游戏引擎 ![](https://img.shields.io/github/stars/melonjs/melonJS?style=social) ![](https://img.shields.io/github/forks/melonjs/melonJS?style=social)
 
 - 波纹
   - [wavesurfer.js](https://wavesurfer-js.org/) [[在线演示](https://wavesurfer-js.org/examples/)] - 以Web音频和Canvas的音频波纹 ![](https://img.shields.io/github/stars/katspaugh/wavesurfer.js?style=social) ![](https://img.shields.io/github/forks/katspaugh/wavesurfer.js?style=social)
