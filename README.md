@@ -74,6 +74,7 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
   - [three.js](https://github.com/mrdoob/three.js) [[在线演示](https://threejs.org/examples/)] - 创建易于使用、轻量级、跨浏览器的通用3d js库 ![](https://img.shields.io/github/stars/mrdoob/three.js?style=social) ![](https://img.shields.io/github/forks/mrdoob/three.js?style=social)
   - [zdog](https://github.com/metafizzy/zdog) [[在线演示](https://zzz.dog/)] - 基于canvas和SVG设计师友好的伪3D引擎 ![](https://img.shields.io/github/stars/metafizzy/zdog?style=social) ![](https://img.shields.io/github/forks/metafizzy/zdog?style=social)
   - [curtainsjs](https://www.curtainsjs.com/get-started.html) [[在线演示](https://www.curtainsjs.com/get-started.html#basic-setup)] - curtains.js是一个轻量级的WebGL js库，可以将HTML DOM元素转换为交互式纹理平面 ![](https://img.shields.io/github/stars/martinlaxenaire/curtainsjs?style=social) ![](https://img.shields.io/github/forks/martinlaxenaire/curtainsjs?style=social)
+  - [obelisk.js](https://github.com/nosir/obelisk.js) - 用HTML5 canvas构建立体图形库 ![](https://img.shields.io/github/stars/nosir/obelisk.js?style=social) ![](https://img.shields.io/github/forks/nosir/obelisk.js?style=social)
 
 - 流程图
 
@@ -111,10 +112,25 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
   - [html-to-image](https://github.com/bubkoo/html-to-image) - 使用HTML5 Canvas和SVG从DOM节点生成图像。Fork自dom-to-image但是添加一些功能 ![](https://img.shields.io/github/stars/bubkoo/html-to-image?style=social) ![](https://img.shields.io/github/forks/bubkoo/html-to-image?style=social)
   - [canvas2image](https://github.com/hongru/canvas2image) [[在线演示](https://github.com/hongru/canvas2image/blob/master/index.html)] - 用于保存或转换Canvas为图片的工具 ![](https://img.shields.io/github/stars/hongru/canvas2image?style=social) ![](https://img.shields.io/github/forks/hongru/canvas2image?style=social)
 
+- 文件生成/转换
+  - [html2pdf.js](https://github.com/eKoopmans/html2pdf.js) - 纯JS的客户端HTML生成PDF ![](https://img.shields.io/github/stars/eKoopmans/html2pdf.js?style=social) ![](https://img.shields.io/github/forks/eKoopmans/html2pdf.js?style=social)
+  <!-- - []() [[在线演示]()] - xx ![]() ![]()
+  - []() [[在线演示]()] - xx ![]() ![]()
+  - []() [[在线演示]()] - xx ![]() ![]()
+  - []() [[在线演示]()] - xx ![]() ![]()
+  - []() [[在线演示]()] - xx ![]() ![]()
+  - []() [[在线演示]()] - xx ![]() ![]()
+  - []() [[在线演示]()] - xx ![]() ![]() -->
+
+
 - 图像处理
   - [tui.image-editor](https://github.com/nhn/tui.image-editor) [[在线演示](http://nhn.github.io/tui.image-editor/latest/tutorial-example01-includeUi)] - 基于Canvas功能完整的照片图像编辑器。 ![](https://img.shields.io/github/stars/nhn/tui.image-editor?style=social) ![](https://img.shields.io/github/forks/nhn/tui.image-editor?style=social)
   - [merge-images](https://github.com/lukechilds/merge-images) - 轻松将图像组合在一起，且不会弄脏周围的画布 ![](https://img.shields.io/github/stars/lukechilds/merge-images?style=social) ![](https://img.shields.io/github/forks/lukechilds/merge-images?style=social)
+
+- 画板
   - [jspaint](https://github.com/1j01/jspaint) [[在线演示](https://jspaint.app/#local:5ee9c6aab5992)] - Web版的经典MS Paint翻版 ![](https://img.shields.io/github/stars/1j01/jspaint?style=social) ![](https://img.shields.io/github/forks/1j01/jspaint?style=social)
+  - [drawingboard.js](https://github.com/Leimi/drawingboard.js) [[在线演示](https://img.shields.io/github/forks/nosir/obelisk.js?style=social)] ![](https://img.shields.io/github/stars/Leimi/drawingboard.js?style=social) ![](https://img.shields.io/github/forks/Leimi/drawingboard.js?style=social)
+  - [drawingboard](https://github.com/vipstone/drawingboard) [[在线演示](https://vipstone.github.io/drawingboard/drawingboard/index.html)] - 高级画板—自由绘、直/虚线、箭头、所有几何图形
 
 - 游戏引擎/物理引擎
   - [matter-js](https://brm.io/matter-js/) [[在线演示](https://brm.io/matter-js/demo/#mixed)] - 用于web的2D刚体物理引擎 ![](https://img.shields.io/github/stars/liabru/matter-js?style=social) ![](https://img.shields.io/github/forks/liabru/matter-js?style=social)
