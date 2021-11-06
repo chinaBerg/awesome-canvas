@@ -120,6 +120,7 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
   - [matter-js](https://brm.io/matter-js/) [[在线演示](https://brm.io/matter-js/demo/#mixed)] - 用于web的2D刚体物理引擎 ![](https://img.shields.io/github/stars/liabru/matter-js?style=social) ![](https://img.shields.io/github/forks/liabru/matter-js?style=social)
   - [Hilo](https://github.com/hiloteam/Hilo/blob/dev/README_ZH.md) [[在线演示](https://hiloteam.github.io/examples/index.html)] - 阿里巴巴集团开发的跨平台HTML5游戏开发解决方案 ![](https://img.shields.io/github/stars/hiloteam/Hilo?style=social) ![](https://img.shields.io/github/forks/hiloteam/Hilo?style=social)
   - [melonJS](https://melonjs.org/) [[在线演示](https://www.melongaming.com/)] - 一个全新的轻量级javascript游戏引擎 ![](https://img.shields.io/github/stars/melonjs/melonJS?style=social) ![](https://img.shields.io/github/forks/melonjs/melonJS?style=social)
+  - [Phaser](https://github.com/photonstorm/phaser)  [[在线演示](https://phaser.io/examples)] - Phaser 是一个有趣、免费且快速的 2D 游戏框架，用于为桌面和移动网络浏览器制作 HTML5 游戏，支持 Canvas 和 WebGL 渲染 ![](https://img.shields.io/github/stars/photonstorm/phaser?style=social) ![](https://img.shields.io/github/forks/photonstorm/phaser?style=social)
 
 - 波纹
   - [wavesurfer.js](https://wavesurfer-js.org/) [[在线演示](https://wavesurfer-js.org/examples/)] - 以Web音频和Canvas的音频波纹 ![](https://img.shields.io/github/stars/katspaugh/wavesurfer.js?style=social) ![](https://img.shields.io/github/forks/katspaugh/wavesurfer.js?style=social)
@@ -141,6 +142,7 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
 
 ## 效果/案例
 
+- [canvas-confetti](https://github.com/catdad/canvas-confetti) [[在线演示](https://www.kirilv.com/canvas-confetti/)] - 一个撒花/纸屑效果插件 ![](https://img.shields.io/github/stars/catdad/canvas-confetti?style=social) ![](https://img.shields.io/github/forks/catdad/canvas-confetti?style=social)
 - [lucky-canvas](https://100px.net/) [[在线演示](https://100px.net/demo/wheel.html)] - 基于 TS + Canvas 开发的【大转盘 / 九宫格】抽奖插件，rainbow 一套源码适配多端框架 JS / Vue / React / Taro / UniApp / 微信小程序等 ![](https://img.shields.io/github/stars/buuing/lucky-canvas?style=social) ![](https://img.shields.io/github/forks/buuing/lucky-canvas?style=social)
 - [CanvasInput](https://github.com/goldfire/CanvasInput) [[在线演示](https://goldfirestudios.com/canvasinput-html5-canvas-text-input)] - HTML5 Canvas文本输入框 ![](https://img.shields.io/github/stars/goldfire/CanvasInput?style=social) ![](https://img.shields.io/github/forks/goldfire/CanvasInput?style=social)
 - [canvas-nest.js](https://github.com/hustcc/canvas-nest.js/blob/master/README-zh.md) - 一个基于 html5 canvas 绘制的网页背景效果。 ![](https://img.shields.io/github/stars/hustcc/canvas-nest.js?style=social) ![](https://img.shields.io/github/forks/hustcc/canvas-nest.js?style=social)
