@@ -68,7 +68,7 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
 
   - [react-vis](https://github.com/uber/react-vis) [[在线演示](http://uber.github.io/react-vis/examples/showcases/axes)] - React的数据可视化组件 ![](https://img.shields.io/github/stars/uber/react-vis?style=social) ![](https://img.shields.io/github/forks/uber/react-vis?style=social)
   - [vega](https://vega.github.io/vega) [[在线演示](https://vega.github.io/vega/examples/)] - 可视化语法，使用Vega，您可以用JSON格式描述数据可视化，并使用HTML5 Canvas或SVG生成交互式视图 ![](https://img.shields.io/github/stars/vega/vega?style=social) ![](https://img.shields.io/github/forks/vega/vega?style=social)
-  -[heatmap.js](https://github.com/pa7/heatmap.js) - 基于HTML5 Canvas的Js热力图 ![](https://img.shields.io/github/stars/pa7/heatmap.js?style=social) ![](https://img.shields.io/github/forks/pa7/heatmap.js?style=social)
+  - [heatmap.js](https://github.com/pa7/heatmap.js) - 基于HTML5 Canvas的Js热力图 ![](https://img.shields.io/github/stars/pa7/heatmap.js?style=social) ![](https://img.shields.io/github/forks/pa7/heatmap.js?style=social)
 
 - 3D库
 
@@ -116,9 +116,16 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
 - 文件生成/转换
   - [html2pdf.js](https://github.com/eKoopmans/html2pdf.js) - 纯JS的客户端HTML生成PDF ![](https://img.shields.io/github/stars/eKoopmans/html2pdf.js?style=social) ![](https://img.shields.io/github/forks/eKoopmans/html2pdf.js?style=social)
   - [rasterizeHTML.js](https://github.com/cburgmer/rasterizeHTML.js) - 将HTML渲染到浏览器的Canvas中 ![](https://img.shields.io/github/stars/cburgmer/rasterizeHTML.js?style=social) ![](https://img.shields.io/github/forks/cburgmer/rasterizeHTML.js?style=social)
-  <!-- 
+  <!--
 
 
+  - []() [[在线演示]()] - xx ![]() ![]()
+  - []() [[在线演示]()] - xx ![]() ![]()
+  - []() [[在线演示]()] - xx ![]() ![]()
+  - []() [[在线演示]()] - xx ![]() ![]()
+  - []() [[在线演示]()] - xx ![]() ![]()
+  - []() [[在线演示]()] - xx ![]() ![]()
+  - []() [[在线演示]()] - xx ![]() ![]()
   - []() [[在线演示]()] - xx ![]() ![]()
   - []() [[在线演示]()] - xx ![]() ![]() -->
 
@@ -138,6 +145,11 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
   - [Hilo](https://github.com/hiloteam/Hilo/blob/dev/README_ZH.md) [[在线演示](https://hiloteam.github.io/examples/index.html)] - 阿里巴巴集团开发的跨平台HTML5游戏开发解决方案 ![](https://img.shields.io/github/stars/hiloteam/Hilo?style=social) ![](https://img.shields.io/github/forks/hiloteam/Hilo?style=social)
   - [melonJS](https://melonjs.org/) [[在线演示](https://www.melongaming.com/)] - 一个全新的轻量级javascript游戏引擎 ![](https://img.shields.io/github/stars/melonjs/melonJS?style=social) ![](https://img.shields.io/github/forks/melonjs/melonJS?style=social)
   - [Phaser](https://github.com/photonstorm/phaser)  [[在线演示](https://phaser.io/examples)] - Phaser 是一个有趣、免费且快速的 2D 游戏框架，用于为桌面和移动网络浏览器制作 HTML5 游戏，支持 Canvas 和 WebGL 渲染 ![](https://img.shields.io/github/stars/photonstorm/phaser?style=social) ![](https://img.shields.io/github/forks/photonstorm/phaser?style=social)
+    - [phaser-examples](https://github.com/photonstorm/phaser-examples) - 包含数百个Phaser HTML5 游戏框架的源代码示例 ![](https://img.shields.io/github/stars/photonstorm/phaser-examples?style=social) ![](https://img.shields.io/github/forks/photonstorm/phaser-examples?style=social)
+    - [games](https://github.com/channingbreeze/games) - 一个基于Phaser的小游戏集合 ![](https://img.shields.io/github/stars/channingbreeze/games?style=social) ![](https://img.shields.io/github/forks/channingbreeze/games?style=social)
+    - [phaser3-examples](https://github.com/photonstorm/phaser3-examples) - phaser3例子 ![](https://img.shields.io/github/stars/photonstorm/phaser3-examples?style=social) ![](https://img.shields.io/github/forks/photonstorm/phaser3-examples?style=social)
+    - [phaser-ce](https://github.com/photonstorm/phaser-ce) - Phaser CE 是一个有趣、免费且快速的2D游戏框架，用于为桌面和移动端Web制作HTML5游戏，支持 Canvas和WebGL渲染 ![](https://img.shields.io/github/stars/photonstorm/phaser-ce?style=social) ![](https://img.shields.io/github/forks/photonstorm/phaser-ce?style=social)
+    - [phaser3-project-template](https://github.com/photonstorm/phaser3-project-template) - Phaser3项目模板 ![](https://img.shields.io/github/stars/photonstorm/phaser3-project-template?style=social) ![](https://img.shields.io/github/forks/photonstorm/phaser3-project-template?style=social)
 
 - 波纹
   - [wavesurfer.js](https://wavesurfer-js.org/) [[在线演示](https://wavesurfer-js.org/examples/)] - 以Web音频和Canvas的音频波纹 ![](https://img.shields.io/github/stars/katspaugh/wavesurfer.js?style=social) ![](https://img.shields.io/github/forks/katspaugh/wavesurfer.js?style=social)
