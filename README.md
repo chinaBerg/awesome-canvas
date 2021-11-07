@@ -26,6 +26,7 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
     - [react-konva](https://konvajs.org/) [[在线演示](https://codesandbox.io/s/5m3nwp787x)] - 基于[konva](https://konvajs.org/), 用于使用React绘制复杂画布图形的JavaScript库 ![](https://img.shields.io/github/stars/konvajs/react-konva?style=social) ![](https://img.shields.io/github/forks/konvajs/react-konva?style=social)
     - [vue-konva](https://github.com/konvajs/vue-konva) - 基于Vue和[konva](https://konvajs.org/)绘制复杂canvas图形的js库 ![](https://img.shields.io/github/stars/konvajs/vue-konva?style=social) ![](https://img.shields.io/github/forks/konvajs/vue-konva?style=social)
   - [concretejs](http://www.concretejs.com/) [[在线演示](http://www.concretejs.com/#examples)]- Concrete是一个超快、轻量级的Html5 Canvas框架，支持hit检测、分层、像素比率管理、导出和下载 ![](https://img.shields.io/github/stars/ericdrowell/concrete?style=social) ![](https://img.shields.io/github/forks/ericdrowell/concrete?style=social)
+  - [cax](https://github.com/dntzhang/cax/blob/master/README.CN.md) [[在线演示](https://github.com/dntzhang/cax/blob/master/README.CN.md)] - 小程序、小游戏以及 Web 通用 Canvas 渲染引擎 ![](https://img.shields.io/github/stars/dntzhang/cax?style=social) ![](https://img.shields.io/github/forks/dntzhang/cax?style=social)
 
 - 图表库
   - [D3](https://github.com/d3/d3) [[在线演示](https://observablehq.com/@d3/gallery)] - D3(或D3.js)是一个用于web标准可视化数据的JS库。 ![](https://img.shields.io/github/stars/d3/d3?style=social) ![](https://img.shields.io/github/forks/d3/d3?style=social)
@@ -114,11 +115,10 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
 
 - 文件生成/转换
   - [html2pdf.js](https://github.com/eKoopmans/html2pdf.js) - 纯JS的客户端HTML生成PDF ![](https://img.shields.io/github/stars/eKoopmans/html2pdf.js?style=social) ![](https://img.shields.io/github/forks/eKoopmans/html2pdf.js?style=social)
-  <!-- - []() [[在线演示]()] - xx ![]() ![]()
-  - []() [[在线演示]()] - xx ![]() ![]()
-  - []() [[在线演示]()] - xx ![]() ![]()
-  - []() [[在线演示]()] - xx ![]() ![]()
-  - []() [[在线演示]()] - xx ![]() ![]()
+  - [rasterizeHTML.js](https://github.com/cburgmer/rasterizeHTML.js) - 将HTML渲染到浏览器的Canvas中 ![](https://img.shields.io/github/stars/cburgmer/rasterizeHTML.js?style=social) ![](https://img.shields.io/github/forks/cburgmer/rasterizeHTML.js?style=social)
+  <!-- 
+
+
   - []() [[在线演示]()] - xx ![]() ![]()
   - []() [[在线演示]()] - xx ![]() ![]() -->
 
@@ -126,6 +126,7 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
 - 图像处理
   - [tui.image-editor](https://github.com/nhn/tui.image-editor) [[在线演示](http://nhn.github.io/tui.image-editor/latest/tutorial-example01-includeUi)] - 基于Canvas功能完整的照片图像编辑器。 ![](https://img.shields.io/github/stars/nhn/tui.image-editor?style=social) ![](https://img.shields.io/github/forks/nhn/tui.image-editor?style=social)
   - [merge-images](https://github.com/lukechilds/merge-images) - 轻松将图像组合在一起，且不会弄脏周围的画布 ![](https://img.shields.io/github/stars/lukechilds/merge-images?style=social) ![](https://img.shields.io/github/forks/lukechilds/merge-images?style=social)
+  - [we-cropper](https://we-plugin.github.io/we-cropper/#/) [[在线演示](https://unpkg.com/we-cropper@1.2.0/docs/assets/online.jpg)] - 微信小程序图片裁剪工具 ![](https://img.shields.io/github/stars/we-plugin/we-cropper?style=social) ![](https://img.shields.io/github/forks/we-plugin/we-cropper?style=social)
 
 - 画板
   - [jspaint](https://github.com/1j01/jspaint) [[在线演示](https://jspaint.app/#local:5ee9c6aab5992)] - Web版的经典MS Paint翻版 ![](https://img.shields.io/github/stars/1j01/jspaint?style=social) ![](https://img.shields.io/github/forks/1j01/jspaint?style=social)
@@ -141,7 +142,9 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
 - 波纹
   - [wavesurfer.js](https://wavesurfer-js.org/) [[在线演示](https://wavesurfer-js.org/examples/)] - 以Web音频和Canvas的音频波纹 ![](https://img.shields.io/github/stars/katspaugh/wavesurfer.js?style=social) ![](https://img.shields.io/github/forks/katspaugh/wavesurfer.js?style=social)
 
-- 动画
+- 粒子动画
+  - [Proton](https://projects.jpeer.at/proton/) [[在线演示](http://drawcall.github.io/Proton/#examples)] - Javascript粒子动画库 ![](https://img.shields.io/github/stars/drawcall/Proton?style=social) ![](https://img.shields.io/github/forks/drawcall/Proton?style=social)
+  - [three.proton](https://github.com/drawcall/three.proton/) [[在线演示]()] - Three.proton 是一个神奇的 3d 粒子引擎，使用了three.js库和Proton ![](https://img.shields.io/github/stars/drawcall/three.proton?style=social) ![](https://img.shields.io/github/forks/drawcall/three.proton?style=social)
 
 - React
   - [react-canvas](https://github.com/Flipboard/react-canvas) - 将React组件渲染成Canvas而不是DOM ![](https://img.shields.io/github/stars/Flipboard/react-canvas?style=social) ![](https://img.shields.io/github/forks/Flipboard/react-canvas?style=social)
