@@ -123,10 +123,6 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
   - [rasterizeHTML.js](https://github.com/cburgmer/rasterizeHTML.js) - 将HTML渲染到浏览器的Canvas中 ![](https://img.shields.io/github/stars/cburgmer/rasterizeHTML.js?style=social) ![](https://img.shields.io/github/forks/cburgmer/rasterizeHTML.js?style=social)
   - [JavaScript-Canvas-to-Blob](https://github.com/blueimp/JavaScript-Canvas-to-Blob) - 一个将Canvas元素转换为Blob对象的函数 ![](https://img.shields.io/github/stars/blueimp/JavaScript-Canvas-to-Blob?style=social) ![](https://img.shields.io/github/forks/blueimp/JavaScript-Canvas-to-Blob?style=social)
 
-  <!--
-  - []() [[在线演示]()] - xx ![]() ![]() -->
-
-
 - 图像处理
   - [tui.image-editor](https://github.com/nhn/tui.image-editor) [[在线演示](http://nhn.github.io/tui.image-editor/latest/tutorial-example01-includeUi)] - 基于Canvas功能完整的照片图像编辑器。 ![](https://img.shields.io/github/stars/nhn/tui.image-editor?style=social) ![](https://img.shields.io/github/forks/nhn/tui.image-editor?style=social)
   - [merge-images](https://github.com/lukechilds/merge-images) - 轻松将图像组合在一起，且不会弄脏周围的画布 ![](https://img.shields.io/github/stars/lukechilds/merge-images?style=social) ![](https://img.shields.io/github/forks/lukechilds/merge-images?style=social)
@@ -161,6 +157,21 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
   - [three.proton](https://github.com/drawcall/three.proton/) [[在线演示]()] - Three.proton 是一个神奇的 3d 粒子引擎，使用了three.js库和Proton ![](https://img.shields.io/github/stars/drawcall/three.proton?style=social) ![](https://img.shields.io/github/forks/drawcall/three.proton?style=social)
   - [bubbly-bg](https://github.com/tipsy/bubbly-bg) [[在线演示](https://tipsy.github.io/bubbly-bg/)] - 小于 1kB 的漂亮气泡背景(750 字节 gzipped) ![](https://img.shields.io/github/stars/tipsy/bubbly-bg?style=social) ![](https://img.shields.io/github/forks/tipsy/bubbly-bg?style=social)
   - [react-particle-effect-button](https://github.com/transitive-bullshit/react-particle-effect-button) [[在线演示](https://transitive-bullshit.github.io/react-particle-effect-button/)] - 基于React的爆裂粒子效果按钮 ![](https://img.shields.io/github/stars/transitive-bullshit/react-particle-effect-button?style=social) ![](https://img.shields.io/github/forks/transitive-bullshit/react-particle-effect-button?style=social)
+
+- 二维码
+  - [qrious](https://github.com/neocotic/qrious) [[在线演示](https://github.com/neocotic/qrious#examples)] - 使用Canvas生成二维码的纯JavaScript库 ![](https://img.shields.io/github/stars/neocotic/qrious?style=social) ![](https://img.shields.io/github/forks/neocotic/qrious?style=social)
+  - [qrcodejs](https://github.com/davidshimjs/qrcodejs) - 基于JavaScript的跨浏览器二维码生成器 ![](https://img.shields.io/github/stars/davidshimjs/qrcodejs?style=social) ![](https://img.shields.io/github/forks/davidshimjs/qrcodejs?style=social)
+  - [node-qrcode](https://github.com/soldair/node-qrcode) - 二维码生成器 ![](https://img.shields.io/github/stars/soldair/node-qrcode?style=social) ![](https://img.shields.io/github/forks/soldair/node-qrcode?style=social)
+  - [wifi-card](https://github.com/bndw/wifi-card) [[在线演示](https://wificard.io/)] - 打印您连接的 WiFi 二维码(wificard.io) ![](https://img.shields.io/github/stars/bndw/wifi-card?style=social) ![](https://img.shields.io/github/forks/bndw/wifi-card?style=social)
+  - [jsqrcode](https://github.com/LazarSoft/jsqrcode) [[在线演示](https://webqr.com/)] - Javascript 二维码生成器 ![](https://img.shields.io/github/stars/LazarSoft/jsqrcode?style=social) ![](https://img.shields.io/github/forks/LazarSoft/jsqrcode?style=social)
+  - [instascan](https://github.com/schmich/instascan) [[在线演示](https://schmich.github.io/instascan/)] - 使用网络摄像头的 HTML5 二维码扫描仪 ![](https://img.shields.io/github/stars/schmich/instascan?style=social) ![](https://img.shields.io/github/forks/schmich/instascan?style=social)
+  - [qrcode.react](https://github.com/zpao/qrcode.react) - 用于React的二维码组件 ![](https://img.shields.io/github/stars/zpao/qrcode.react?style=social) ![](https://img.shields.io/github/forks/zpao/qrcode.react?style=social)
+  - [qrbtf](https://github.com/ciaochaos/qrbtf) [[在线演示](https://qrbtf.com/)] - 艺术二维码生成器 ![](https://img.shields.io/github/stars/ciaochaos/qrbtf?style=social) ![](https://img.shields.io/github/forks/ciaochaos/qrbtf?style=social)
+  - [Awesome-qr.js](https://github.com/SumiMakito/Awesome-qr.js) [[在线演示]()] - 一个用 JavaScript 编写的很棒的二维码生成器 ![](https://img.shields.io/github/stars/SumiMakito/Awesome-qr.js?style=social) ![](https://img.shields.io/github/forks/SumiMakito/Awesome-qr.js?style=social)
+  - [jquery-qrcode](https://github.com/jeromeetienne/jquery-qrcode) - JQ二维码独立生成（不依赖于外部服务） ![](https://img.shields.io/github/stars/jeromeetienne/jquery-qrcode?style=social) ![](https://img.shields.io/github/forks/jeromeetienne/jquery-qrcode?style=social)
+  - [vue-qrcode-reader](https://github.com/gruhn/vue-qrcode-reader) [[在线演示](https://gruhn.github.io/vue-qrcode-reader/demos/DecodeAll.html)] - 一组用于检测和解码二维码的 Vue.js 组件 ![](https://img.shields.io/github/stars/gruhn/vue-qrcode-reader?style=social) ![](https://img.shields.io/github/forks/gruhn/vue-qrcode-reader?style=social)
+  - [weapp-qrcode](https://github.com/yingye/weapp-qrcode) [[在线演示](https://github.com/yingye/weapp-qrcode#demo)] - 在 微信小程序 中，快速生成二维码 ![](https://img.shields.io/github/stars/yingye/weapp-qrcode?style=social) ![](https://img.shields.io/github/forks/yingye/weapp-qrcode?style=social)
+  - [qr-image](https://github.com/alexeyten/qr-image) - 另一个二维码生成器 ![](https://img.shields.io/github/stars/alexeyten/qr-image?style=social) ![](https://img.shields.io/github/forks/alexeyten/qr-image?style=social)
 
 - React
   - [react-canvas](https://github.com/Flipboard/react-canvas) - 将React组件渲染成Canvas而不是DOM ![](https://img.shields.io/github/stars/Flipboard/react-canvas?style=social) ![](https://img.shields.io/github/forks/Flipboard/react-canvas?style=social)
