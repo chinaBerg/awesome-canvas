@@ -27,6 +27,7 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
     - [vue-konva](https://github.com/konvajs/vue-konva) - 基于Vue和[konva](https://konvajs.org/)绘制复杂canvas图形的js库 ![](https://img.shields.io/github/stars/konvajs/vue-konva?style=social) ![](https://img.shields.io/github/forks/konvajs/vue-konva?style=social)
   - [concretejs](http://www.concretejs.com/) [[在线演示](http://www.concretejs.com/#examples)]- Concrete是一个超快、轻量级的Html5 Canvas框架，支持hit检测、分层、像素比率管理、导出和下载 ![](https://img.shields.io/github/stars/ericdrowell/concrete?style=social) ![](https://img.shields.io/github/forks/ericdrowell/concrete?style=social)
   - [cax](https://github.com/dntzhang/cax/blob/master/README.CN.md) [[在线演示](https://github.com/dntzhang/cax/blob/master/README.CN.md)] - 小程序、小游戏以及 Web 通用 Canvas 渲染引擎 ![](https://img.shields.io/github/stars/dntzhang/cax?style=social) ![](https://img.shields.io/github/forks/dntzhang/cax?style=social)
+  - [wxDraw](https://bobiscool.github.io/wxDrawDocs/#/) [[在线演示](https://github.com/bobiscool/wxDraw#wxdraw%E5%88%9B%E4%BD%9C%E7%9A%84%E5%8A%A8%E7%94%BB%E6%BC%94%E7%A4%BA)] - 微信小程序2d动画库 ![](https://img.shields.io/github/stars/bobiscool/wxDraw?style=social) ![](https://img.shields.io/github/forks/bobiscool/wxDraw?style=social)
 
 - 图表库
   - [D3](https://github.com/d3/d3) [[在线演示](https://observablehq.com/@d3/gallery)] - D3(或D3.js)是一个用于web标准可视化数据的JS库。 ![](https://img.shields.io/github/stars/d3/d3?style=social) ![](https://img.shields.io/github/forks/d3/d3?style=social)
@@ -69,6 +70,7 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
   - [react-vis](https://github.com/uber/react-vis) [[在线演示](http://uber.github.io/react-vis/examples/showcases/axes)] - React的数据可视化组件 ![](https://img.shields.io/github/stars/uber/react-vis?style=social) ![](https://img.shields.io/github/forks/uber/react-vis?style=social)
   - [vega](https://vega.github.io/vega) [[在线演示](https://vega.github.io/vega/examples/)] - 可视化语法，使用Vega，您可以用JSON格式描述数据可视化，并使用HTML5 Canvas或SVG生成交互式视图 ![](https://img.shields.io/github/stars/vega/vega?style=social) ![](https://img.shields.io/github/forks/vega/vega?style=social)
   - [heatmap.js](https://github.com/pa7/heatmap.js) - 基于HTML5 Canvas的Js热力图 ![](https://img.shields.io/github/stars/pa7/heatmap.js?style=social) ![](https://img.shields.io/github/forks/pa7/heatmap.js?style=social)
+  - [zeu](https://github.com/shzlw/zeu) [[在线演示](https://shzlw.github.io/zeu/examples/my-command-center.html)] - 用于构建实时电视仪表板、监控UI和物联网Web界面的JS库 ![](https://img.shields.io/github/stars/shzlw/zeu?style=social) ![](https://img.shields.io/github/forks/shzlw/zeu?style=social)
 
 - 3D库
 
@@ -112,6 +114,7 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
   - [dom-to-image](https://github.com/tsayen/dom-to-image) - 使用HTML5 Canvas从DOM节点生成图像 ![](https://img.shields.io/github/stars/tsayen/dom-to-image?style=social) ![](https://img.shields.io/github/forks/tsayen/dom-to-image?style=social)
   - [html-to-image](https://github.com/bubkoo/html-to-image) - 使用HTML5 Canvas和SVG从DOM节点生成图像。Fork自dom-to-image但是添加一些功能 ![](https://img.shields.io/github/stars/bubkoo/html-to-image?style=social) ![](https://img.shields.io/github/forks/bubkoo/html-to-image?style=social)
   - [canvas2image](https://github.com/hongru/canvas2image) [[在线演示](https://github.com/hongru/canvas2image/blob/master/index.html)] - 用于保存或转换Canvas为图片的工具 ![](https://img.shields.io/github/stars/hongru/canvas2image?style=social) ![](https://img.shields.io/github/forks/hongru/canvas2image?style=social)
+  - [mp_canvas_drawer](https://github.com/kuckboy1994/mp_canvas_drawer) [[在线演示](https://github.com/kuckboy1994/mp_canvas_drawer#%E6%BC%94%E7%A4%BA)] - 微信小程序上canvas绘制图片助手，一个json就制作分享朋友圈图片 ![](https://img.shields.io/github/stars/kuckboy1994/mp_canvas_drawer?style=social) ![](https://img.shields.io/github/forks/kuckboy1994/mp_canvas_drawer?style=social)
 
 - 文件生成/转换
   - [html2pdf.js](https://github.com/eKoopmans/html2pdf.js) - 纯JS的客户端HTML生成PDF ![](https://img.shields.io/github/stars/eKoopmans/html2pdf.js?style=social) ![](https://img.shields.io/github/forks/eKoopmans/html2pdf.js?style=social)
@@ -119,10 +122,6 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
   <!--
 
 
-  - []() [[在线演示]()] - xx ![]() ![]()
-  - []() [[在线演示]()] - xx ![]() ![]()
-  - []() [[在线演示]()] - xx ![]() ![]()
-  - []() [[在线演示]()] - xx ![]() ![]()
   - []() [[在线演示]()] - xx ![]() ![]()
   - []() [[在线演示]()] - xx ![]() ![]()
   - []() [[在线演示]()] - xx ![]() ![]()
@@ -157,6 +156,7 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
 - 粒子动画
   - [Proton](https://projects.jpeer.at/proton/) [[在线演示](http://drawcall.github.io/Proton/#examples)] - Javascript粒子动画库 ![](https://img.shields.io/github/stars/drawcall/Proton?style=social) ![](https://img.shields.io/github/forks/drawcall/Proton?style=social)
   - [three.proton](https://github.com/drawcall/three.proton/) [[在线演示]()] - Three.proton 是一个神奇的 3d 粒子引擎，使用了three.js库和Proton ![](https://img.shields.io/github/stars/drawcall/three.proton?style=social) ![](https://img.shields.io/github/forks/drawcall/three.proton?style=social)
+  - [bubbly-bg](https://github.com/tipsy/bubbly-bg) [[在线演示](https://tipsy.github.io/bubbly-bg/)] - 小于 1kB 的漂亮气泡背景(750 字节 gzipped) ![](https://img.shields.io/github/stars/tipsy/bubbly-bg?style=social) ![](https://img.shields.io/github/forks/tipsy/bubbly-bg?style=social)
 
 - React
   - [react-canvas](https://github.com/Flipboard/react-canvas) - 将React组件渲染成Canvas而不是DOM ![](https://img.shields.io/github/stars/Flipboard/react-canvas?style=social) ![](https://img.shields.io/github/forks/Flipboard/react-canvas?style=social)
@@ -177,7 +177,7 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
 - [lucky-canvas](https://100px.net/) [[在线演示](https://100px.net/demo/wheel.html)] - 基于 TS + Canvas 开发的【大转盘 / 九宫格】抽奖插件，rainbow 一套源码适配多端框架 JS / Vue / React / Taro / UniApp / 微信小程序等 ![](https://img.shields.io/github/stars/buuing/lucky-canvas?style=social) ![](https://img.shields.io/github/forks/buuing/lucky-canvas?style=social)
 - [CanvasInput](https://github.com/goldfire/CanvasInput) [[在线演示](https://goldfirestudios.com/canvasinput-html5-canvas-text-input)] - HTML5 Canvas文本输入框 ![](https://img.shields.io/github/stars/goldfire/CanvasInput?style=social) ![](https://img.shields.io/github/forks/goldfire/CanvasInput?style=social)
 - [canvas-nest.js](https://github.com/hustcc/canvas-nest.js/blob/master/README-zh.md) - 一个基于 html5 canvas 绘制的网页背景效果。 ![](https://img.shields.io/github/stars/hustcc/canvas-nest.js?style=social) ![](https://img.shields.io/github/forks/hustcc/canvas-nest.js?style=social)
-- [超多经典 Canvas 实例，动态离子背景、炫彩小球、贪吃蛇、坦克大战、是男人就下100层、心形文字等](https://github.com/bxm0927/canvas-special) ![](https://img.shields.io/github/stars/bxm0927/canvas-special?style=social) ![](https://img.shields.io/github/forks/bxm0927/canvas-special?style=social)
+- [canvas-special](https://github.com/bxm0927/) - 超多经典 Canvas 实例，动态离子背景、炫彩小球、贪吃蛇、坦克大战、是男人就下100层、心形文字等 ![](https://img.shields.io/github/stars/bxm0927/canvas-special?style=social) ![](https://img.shields.io/github/forks/bxm0927/canvas-special?style=social)
 - [canvas效果集合](https://github.com/sunshine940326/canvas) ![](https://img.shields.io/github/stars/sunshine940326/canvas?style=social) ![](https://img.shields.io/github/forks/sunshine940326/canvas?style=social)
 
 ## 协议
