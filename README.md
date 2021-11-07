@@ -71,6 +71,8 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
   - [vega](https://vega.github.io/vega) [[在线演示](https://vega.github.io/vega/examples/)] - 可视化语法，使用Vega，您可以用JSON格式描述数据可视化，并使用HTML5 Canvas或SVG生成交互式视图 ![](https://img.shields.io/github/stars/vega/vega?style=social) ![](https://img.shields.io/github/forks/vega/vega?style=social)
   - [heatmap.js](https://github.com/pa7/heatmap.js) - 基于HTML5 Canvas的Js热力图 ![](https://img.shields.io/github/stars/pa7/heatmap.js?style=social) ![](https://img.shields.io/github/forks/pa7/heatmap.js?style=social)
   - [zeu](https://github.com/shzlw/zeu) [[在线演示](https://shzlw.github.io/zeu/examples/my-command-center.html)] - 用于构建实时电视仪表板、监控UI和物联网Web界面的JS库 ![](https://img.shields.io/github/stars/shzlw/zeu?style=social) ![](https://img.shields.io/github/forks/shzlw/zeu?style=social)
+  - [HQChart](https://github.com/jones2000/HQChart) - HQChart - H5, 微信小程序 沪深/港股/数字货币/期货/美股 K线图(kline),走势图,缩放,拖拽,十字光标,画图工具,截图,筹码图 ![](https://img.shields.io/github/stars/jones2000/HQChart?style=social) ![](https://img.shields.io/github/forks/jones2000/HQChart?style=social)
+  - [canvas-gauges](https://github.com/Mikhus/canvas-gauges) [[在线演示](http://canvas-gauges.com/documentation/examples/)] - 使用纯 JavaScript 和 HTML5 画布的高度可配置仪表盘。没有依赖性。由于代码库最少，因此适用于物联网设备 ![](https://img.shields.io/github/stars/Mikhus/canvas-gauges?style=social) ![](https://img.shields.io/github/forks/Mikhus/canvas-gauges?style=social)
 
 - 3D库
 
@@ -119,13 +121,9 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
 - 文件生成/转换
   - [html2pdf.js](https://github.com/eKoopmans/html2pdf.js) - 纯JS的客户端HTML生成PDF ![](https://img.shields.io/github/stars/eKoopmans/html2pdf.js?style=social) ![](https://img.shields.io/github/forks/eKoopmans/html2pdf.js?style=social)
   - [rasterizeHTML.js](https://github.com/cburgmer/rasterizeHTML.js) - 将HTML渲染到浏览器的Canvas中 ![](https://img.shields.io/github/stars/cburgmer/rasterizeHTML.js?style=social) ![](https://img.shields.io/github/forks/cburgmer/rasterizeHTML.js?style=social)
+  - [JavaScript-Canvas-to-Blob](https://github.com/blueimp/JavaScript-Canvas-to-Blob) - 一个将Canvas元素转换为Blob对象的函数 ![](https://img.shields.io/github/stars/blueimp/JavaScript-Canvas-to-Blob?style=social) ![](https://img.shields.io/github/forks/blueimp/JavaScript-Canvas-to-Blob?style=social)
+
   <!--
-
-
-  - []() [[在线演示]()] - xx ![]() ![]()
-  - []() [[在线演示]()] - xx ![]() ![]()
-  - []() [[在线演示]()] - xx ![]() ![]()
-  - []() [[在线演示]()] - xx ![]() ![]()
   - []() [[在线演示]()] - xx ![]() ![]() -->
 
 
@@ -152,11 +150,13 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
 
 - 波纹
   - [wavesurfer.js](https://wavesurfer-js.org/) [[在线演示](https://wavesurfer-js.org/examples/)] - 以Web音频和Canvas的音频波纹 ![](https://img.shields.io/github/stars/katspaugh/wavesurfer.js?style=social) ![](https://img.shields.io/github/forks/katspaugh/wavesurfer.js?style=social)
+  - [waveforms](https://github.com/joshwcomeau/waveforms) - 一个互动的、可探索的声波纹描绘特效 ![](https://img.shields.io/github/stars/joshwcomeau/waveforms?style=social) [[在线演示](https://pudding.cool/2018/02/waveforms/)] ![](https://img.shields.io/github/forks/joshwcomeau/waveforms?style=social)
 
 - 粒子动画
   - [Proton](https://projects.jpeer.at/proton/) [[在线演示](http://drawcall.github.io/Proton/#examples)] - Javascript粒子动画库 ![](https://img.shields.io/github/stars/drawcall/Proton?style=social) ![](https://img.shields.io/github/forks/drawcall/Proton?style=social)
   - [three.proton](https://github.com/drawcall/three.proton/) [[在线演示]()] - Three.proton 是一个神奇的 3d 粒子引擎，使用了three.js库和Proton ![](https://img.shields.io/github/stars/drawcall/three.proton?style=social) ![](https://img.shields.io/github/forks/drawcall/three.proton?style=social)
   - [bubbly-bg](https://github.com/tipsy/bubbly-bg) [[在线演示](https://tipsy.github.io/bubbly-bg/)] - 小于 1kB 的漂亮气泡背景(750 字节 gzipped) ![](https://img.shields.io/github/stars/tipsy/bubbly-bg?style=social) ![](https://img.shields.io/github/forks/tipsy/bubbly-bg?style=social)
+  - [react-particle-effect-button](https://github.com/transitive-bullshit/react-particle-effect-button) [[在线演示](https://transitive-bullshit.github.io/react-particle-effect-button/)] - 基于React的爆裂粒子效果按钮 ![](https://img.shields.io/github/stars/transitive-bullshit/react-particle-effect-button?style=social) ![](https://img.shields.io/github/forks/transitive-bullshit/react-particle-effect-button?style=social)
 
 - React
   - [react-canvas](https://github.com/Flipboard/react-canvas) - 将React组件渲染成Canvas而不是DOM ![](https://img.shields.io/github/stars/Flipboard/react-canvas?style=social) ![](https://img.shields.io/github/forks/Flipboard/react-canvas?style=social)
@@ -176,6 +176,7 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
 - [canvas-confetti](https://github.com/catdad/canvas-confetti) [[在线演示](https://www.kirilv.com/canvas-confetti/)] - 一个撒花/纸屑效果插件 ![](https://img.shields.io/github/stars/catdad/canvas-confetti?style=social) ![](https://img.shields.io/github/forks/catdad/canvas-confetti?style=social)
 - [lucky-canvas](https://100px.net/) [[在线演示](https://100px.net/demo/wheel.html)] - 基于 TS + Canvas 开发的【大转盘 / 九宫格】抽奖插件，rainbow 一套源码适配多端框架 JS / Vue / React / Taro / UniApp / 微信小程序等 ![](https://img.shields.io/github/stars/buuing/lucky-canvas?style=social) ![](https://img.shields.io/github/forks/buuing/lucky-canvas?style=social)
 - [CanvasInput](https://github.com/goldfire/CanvasInput) [[在线演示](https://goldfirestudios.com/canvasinput-html5-canvas-text-input)] - HTML5 Canvas文本输入框 ![](https://img.shields.io/github/stars/goldfire/CanvasInput?style=social) ![](https://img.shields.io/github/forks/goldfire/CanvasInput?style=social)
+- [curvejs](https://github.com/AlloyTeam/curvejs) [[在线演示](https://github.com/AlloyTeam/curvejs#demos)] - 魔幻线条 ![](https://img.shields.io/github/stars/AlloyTeam/curvejs?style=social) ![](https://img.shields.io/github/forks/AlloyTeam/curvejs?style=social)
 - [canvas-nest.js](https://github.com/hustcc/canvas-nest.js/blob/master/README-zh.md) - 一个基于 html5 canvas 绘制的网页背景效果。 ![](https://img.shields.io/github/stars/hustcc/canvas-nest.js?style=social) ![](https://img.shields.io/github/forks/hustcc/canvas-nest.js?style=social)
 - [canvas-special](https://github.com/bxm0927/) - 超多经典 Canvas 实例，动态离子背景、炫彩小球、贪吃蛇、坦克大战、是男人就下100层、心形文字等 ![](https://img.shields.io/github/stars/bxm0927/canvas-special?style=social) ![](https://img.shields.io/github/forks/bxm0927/canvas-special?style=social)
 - [canvas效果集合](https://github.com/sunshine940326/canvas) ![](https://img.shields.io/github/stars/sunshine940326/canvas?style=social) ![](https://img.shields.io/github/forks/sunshine940326/canvas?style=social)
