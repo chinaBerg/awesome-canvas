@@ -151,6 +151,10 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
 - 波纹
   - [wavesurfer.js](https://wavesurfer-js.org/) [[在线演示](https://wavesurfer-js.org/examples/)] - 以Web音频和Canvas的音频波纹 ![](https://img.shields.io/github/stars/katspaugh/wavesurfer.js?style=social) ![](https://img.shields.io/github/forks/katspaugh/wavesurfer.js?style=social)
   - [waveforms](https://github.com/joshwcomeau/waveforms) - 一个互动的、可探索的声波纹描绘特效 ![](https://img.shields.io/github/stars/joshwcomeau/waveforms?style=social) [[在线演示](https://pudding.cool/2018/02/waveforms/)] ![](https://img.shields.io/github/forks/joshwcomeau/waveforms?style=social)
+  - [siriwave](https://github.com/kopiro/siriwave) [[在线演示](http://kopiro.github.io/siriwave/)] - JS实现的Apple® Siri 波纹特效 ![](https://img.shields.io/github/stars/kopiro/siriwave?style=social) ![](https://img.shields.io/github/forks/kopiro/siriwave?style=social)
+  - [waves](https://github.com/dli/waves) [[在线演示](http://david.li/waves/)] - 模拟海浪效果 ![](https://img.shields.io/github/stars/dli/waves?style=social) ![](https://img.shields.io/github/forks/dli/waves?style=social)
+  - [waveform-playlist](https://github.com/naomiaro/waveform-playlist) [[在线演示](http://naomiaro.github.io/waveform-playlist/)] - 具有画布波形预览的多轨网络音频编辑器和播放器。 ![](https://img.shields.io/github/stars/naomiaro/waveform-playlist?style=social) ![](https://img.shields.io/github/forks/naomiaro/waveform-playlist?style=social)
+  - [wavedrom](https://github.com/wavedrom/wavedrom) [[在线演示](https://wavedrom.com/editor.html)] - 一个免费的开源在线数字时序图（波形）渲染引擎 ![](https://img.shields.io/github/stars/wavedrom/wavedrom?style=social) ![](https://img.shields.io/github/forks/wavedrom/wavedrom?style=social)
 
 - 粒子动画
   - [Proton](https://projects.jpeer.at/proton/) [[在线演示](http://drawcall.github.io/Proton/#examples)] - Javascript粒子动画库 ![](https://img.shields.io/github/stars/drawcall/Proton?style=social) ![](https://img.shields.io/github/forks/drawcall/Proton?style=social)
