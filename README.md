@@ -91,6 +91,8 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
   - [wireflow](https://github.com/vanila-io/wireflow) [[在线演示](https://app.wireflow.co/)] - 用户流程图实时协作工具 ![](https://img.shields.io/github/stars/vanila-io/wireflow?style=social) ![](https://img.shields.io/github/forks/vanila-io/wireflow?style=social)
   - [butterfly](https://github.com/alibaba/butterfly) [[在线演示](https://butterfly-dag.gitee.io/butterfly-dag/demo/analysis)] - 基于JavaScript/React/Vue2的流程图组件 ![](https://img.shields.io/github/stars/alibaba/butterfly?style=social) ![](https://img.shields.io/github/forks/alibaba/butterfly?style=social)
   - [X-Flowchart-Vue](https://github.com/OXOYO/X-Flowchart-Vue) [[在线演示](http://oxoyo.co/X-Flowchart-Vue/)] - 基于G6和Vue的可视化图形编辑器 ![](https://img.shields.io/github/stars/OXOYO/X-Flowchart-Vue?style=social) ![](https://img.shields.io/github/forks/OXOYO/X-Flowchart-Vue?style=social)
+  - [flowchart-fun](https://github.com/tone-row/flowchart-fun) [[在线演示](https://flowchart.fun/)] - 通过文本录入快速制作生成流程图应用 ![](https://img.shields.io/github/stars/tone-row/flowchart-fun?style=social) ![](https://img.shields.io/github/forks/tone-row/flowchart-fun?style=social)
+  [cytoscape.js](https://github.com/cytoscape/cytoscape.js) [[在线演示](https://js.cytoscape.org/)] - cytoscape.js提供了基础的功能布局和查询网络，并依据基本的数据的结合成可视化网络 ![](https://img.shields.io/github/stars/cytoscape/cytoscape.js?style=social) ![](https://img.shields.io/github/forks/cytoscape/cytoscape.js?style=social)
 
 - 甘特图
 
@@ -127,6 +129,7 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
   - [tui.image-editor](https://github.com/nhn/tui.image-editor) [[在线演示](http://nhn.github.io/tui.image-editor/latest/tutorial-example01-includeUi)] - 基于Canvas功能完整的照片图像编辑器。 ![](https://img.shields.io/github/stars/nhn/tui.image-editor?style=social) ![](https://img.shields.io/github/forks/nhn/tui.image-editor?style=social)
   - [merge-images](https://github.com/lukechilds/merge-images) - 轻松将图像组合在一起，且不会弄脏周围的画布 ![](https://img.shields.io/github/stars/lukechilds/merge-images?style=social) ![](https://img.shields.io/github/forks/lukechilds/merge-images?style=social)
   - [we-cropper](https://we-plugin.github.io/we-cropper/#/) [[在线演示](https://unpkg.com/we-cropper@1.2.0/docs/assets/online.jpg)] - 微信小程序图片裁剪工具 ![](https://img.shields.io/github/stars/we-plugin/we-cropper?style=social) ![](https://img.shields.io/github/forks/we-plugin/we-cropper?style=social)
+  - [cropperjs](https://github.com/fengyuanchen/cropperjs) [[在线演示](https://fengyuanchen.github.io/cropperjs/)] - 轻松裁切各类图片，最低支持IE9及以上版本 ![](https://img.shields.io/github/stars/fengyuanchen/cropperjs?style=social) ![](https://img.shields.io/github/forks/fengyuanchen/cropperjs?style=social)
 
 - 画板
   - [jspaint](https://github.com/1j01/jspaint) [[在线演示](https://jspaint.app/#local:5ee9c6aab5992)] - Web版的经典MS Paint翻版 ![](https://img.shields.io/github/stars/1j01/jspaint?style=social) ![](https://img.shields.io/github/forks/1j01/jspaint?style=social)
@@ -183,6 +186,7 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
 
 - [廖雪峰的Canvas教程](https://www.liaoxuefeng.com/wiki/1022910821149312/1023022423592576)
 - [CanvasStudy](https://github.com/827652549/CanvasStudy) ![](https://img.shields.io/github/stars/827652549/CanvasStudy?style=social) ![](https://img.shields.io/github/forks/827652549/CanvasStudy?style=social)
+- [html5-animation](https://github.com/lamberta/html5-animation) 书籍《HTML5+JavaScript动画基础》中的样例代码，适合有一定动画基础的人深入学习 ![](https://img.shields.io/github/stars/lamberta/html5-animation?style=social) ![](https://img.shields.io/github/forks/lamberta/html5-animation?style=social)
 
 ## 文章
 
