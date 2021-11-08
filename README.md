@@ -28,6 +28,7 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
   - [concretejs](http://www.concretejs.com/) [[在线演示](http://www.concretejs.com/#examples)]- Concrete是一个超快、轻量级的Html5 Canvas框架，支持hit检测、分层、像素比率管理、导出和下载 ![](https://img.shields.io/github/stars/ericdrowell/concrete?style=social) ![](https://img.shields.io/github/forks/ericdrowell/concrete?style=social)
   - [cax](https://github.com/dntzhang/cax/blob/master/README.CN.md) [[在线演示](https://github.com/dntzhang/cax/blob/master/README.CN.md)] - 小程序、小游戏以及 Web 通用 Canvas 渲染引擎 ![](https://img.shields.io/github/stars/dntzhang/cax?style=social) ![](https://img.shields.io/github/forks/dntzhang/cax?style=social)
   - [wxDraw](https://bobiscool.github.io/wxDrawDocs/#/) [[在线演示](https://github.com/bobiscool/wxDraw#wxdraw%E5%88%9B%E4%BD%9C%E7%9A%84%E5%8A%A8%E7%94%BB%E6%BC%94%E7%A4%BA)] - 微信小程序2d动画库 ![](https://img.shields.io/github/stars/bobiscool/wxDraw?style=social) ![](https://img.shields.io/github/forks/bobiscool/wxDraw?style=social)
+  - [atrament.js](https://github.com/jakubfiala/atrament.js) - 一个小型 JS 库，用于在 HTML Canvas 上进行漂亮的绘图和手绘 ![](https://img.shields.io/github/stars/jakubfiala/atrament.js?style=social) ![](https://img.shields.io/github/forks/jakubfiala/atrament.js?style=social)
 
 - 图表库
   - [D3](https://github.com/d3/d3) [[在线演示](https://observablehq.com/@d3/gallery)] - D3(或D3.js)是一个用于web标准可视化数据的JS库。 ![](https://img.shields.io/github/stars/d3/d3?style=social) ![](https://img.shields.io/github/forks/d3/d3?style=social)
@@ -75,14 +76,12 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
   - [canvas-gauges](https://github.com/Mikhus/canvas-gauges) [[在线演示](http://canvas-gauges.com/documentation/examples/)] - 使用纯 JavaScript 和 HTML5 画布的高度可配置仪表盘。没有依赖性。由于代码库最少，因此适用于物联网设备 ![](https://img.shields.io/github/stars/Mikhus/canvas-gauges?style=social) ![](https://img.shields.io/github/forks/Mikhus/canvas-gauges?style=social)
 
 - 3D库
-
   - [three.js](https://github.com/mrdoob/three.js) [[在线演示](https://threejs.org/examples/)] - 创建易于使用、轻量级、跨浏览器的通用3d js库 ![](https://img.shields.io/github/stars/mrdoob/three.js?style=social) ![](https://img.shields.io/github/forks/mrdoob/three.js?style=social)
   - [zdog](https://github.com/metafizzy/zdog) [[在线演示](https://zzz.dog/)] - 基于canvas和SVG设计师友好的伪3D引擎 ![](https://img.shields.io/github/stars/metafizzy/zdog?style=social) ![](https://img.shields.io/github/forks/metafizzy/zdog?style=social)
   - [curtainsjs](https://www.curtainsjs.com/get-started.html) [[在线演示](https://www.curtainsjs.com/get-started.html#basic-setup)] - curtains.js是一个轻量级的WebGL js库，可以将HTML DOM元素转换为交互式纹理平面 ![](https://img.shields.io/github/stars/martinlaxenaire/curtainsjs?style=social) ![](https://img.shields.io/github/forks/martinlaxenaire/curtainsjs?style=social)
   - [obelisk.js](https://github.com/nosir/obelisk.js) - 用HTML5 canvas构建立体图形库 ![](https://img.shields.io/github/stars/nosir/obelisk.js?style=social) ![](https://img.shields.io/github/forks/nosir/obelisk.js?style=social)
 
 - 流程图
-
   - [GOJS](https://gojs.net/latest/index.html) [[在线演示](https://gojs.net/latest/samples/)] - 交互式流程图、组织结构图、设计工具、规划工具、可视化语言的JavaScript图表库![](https://img.shields.io/github/stars/NorthwoodsSoftware/GoJS?style=social) ![](https://img.shields.io/github/forks/NorthwoodsSoftware/GoJS?style=social)
   - [Drawflow](https://github.com/jerosoler/Drawflow) [[在线演示](https://jerosoler.github.io/Drawflow/)] - 仅用4行代码即可创建基于dom和svg的流程图 ![](https://img.shields.io/github/stars/jerosoler/Drawflow?style=social) ![](https://img.shields.io/github/forks/jerosoler/Drawflow?style=social)
   - [Flowy](https://github.com/alyssaxuu/flowy) [[在线演示](https://alyssax.com/x/flowy/)] - 用于创建流程图的最小javascript库 ![](https://img.shields.io/github/stars/alyssaxuu/flowy?style=social) ![](https://img.shields.io/github/forks/alyssaxuu/flowy?style=social)
@@ -93,13 +92,11 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
   - [X-Flowchart-Vue](https://github.com/OXOYO/X-Flowchart-Vue) [[在线演示](http://oxoyo.co/X-Flowchart-Vue/)] - 基于G6和Vue的可视化图形编辑器 ![](https://img.shields.io/github/stars/OXOYO/X-Flowchart-Vue?style=social) ![](https://img.shields.io/github/forks/OXOYO/X-Flowchart-Vue?style=social)
 
 - 甘特图
-
   - [gantt](https://github.com/frappe/gantt) [[在线演示](https://frappe.io/gantt)] - 开源的Javascript甘特图。基于SVG ![](https://img.shields.io/github/stars/frappe/gantt?style=social) ![](https://img.shields.io/github/forks/frappe/gantt?style=social)
   - [gantt-schedule-timeline-calendar](https://github.com/neuronetio/gantt-schedule-timeline-calendar) [[在线演示](https://gantt-schedule-timeline-calendar.neuronet.io/examples)] - JS甘特图，项目甘特图，时间线，调度图，甘特时间线，预订时间线，React甘特图，Angular甘特图，Vue甘特图，svelte甘特图 ![](https://img.shields.io/github/stars/neuronetio/gantt-schedule-timeline-calendar?style=social) ![](https://img.shields.io/github/forks/neuronetio/gantt-schedule-timeline-calendar?style=social)
   - [jQueryGantt](https://github.com/robicch/jQueryGantt) [[在线演示](https://gantt.twproject.com/)] - Jquery甘特图编辑器 ![](https://img.shields.io/github/stars/robicch/jQueryGantt?style=social) ![](https://img.shields.io/github/forks/robicch/jQueryGantt?style=social)
 
 - 组织图/脑图
-
   - [OrgChart](https://github.com/dabeng/OrgChart/blob/master/README.zh-cn.md) [[在线演示](https://dabeng.github.io/OrgChart/)] - 简单直接的组织图插件，任何时候你想要一个树状的图表，都可以使用OrgChart ![](https://img.shields.io/github/stars/dabeng/OrgChart?style=social) ![](https://img.shields.io/github/forks/dabeng/OrgChart?style=social)
 
 - Excel
@@ -108,8 +105,6 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
   - [sheetsee.js](https://github.com/jlord/sheetsee.js) - 可视化谷歌Spreadsheet的数据 ![](https://img.shields.io/github/stars/jlord/sheetsee.js?style=social) ![](https://img.shields.io/github/forks/jlord/sheetsee.js?style=social)
   - [SlickGrid](https://github.com/mleibman/SlickGrid) [[在线演示](http://6pac.github.io/SlickGrid/examples/example4-model.html)] - 极快的JavaScript网格/电子表格 ![](https://img.shields.io/github/stars/mleibman/SlickGrid?style=social) ![](https://img.shields.io/github/forks/mleibman/SlickGrid?style=social)
   - [handsontable](https://github.com/handsontable/handsontable) [[在线演示](https://handsontable.com/demo)] - Js带电子表格的数据网格，可以在React、Angular、Vue中使用 ![](https://img.shields.io/github/stars/handsontable/handsontable?style=social) ![](https://img.shields.io/github/forks/handsontable/handsontable?style=social)
-
-- 工业图/化工图
 
 - 截图/图片生成
   - [html2canvas](https://html2canvas.hertzen.com/) [[在线演示](https://html2canvas.hertzen.com/)] - JS截图插件 ![](https://img.shields.io/github/stars/niklasvh/html2canvas?style=social) ![](https://img.shields.io/github/forks/niklasvh/html2canvas?style=social)
@@ -122,6 +117,7 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
   - [html2pdf.js](https://github.com/eKoopmans/html2pdf.js) - 纯JS的客户端HTML生成PDF ![](https://img.shields.io/github/stars/eKoopmans/html2pdf.js?style=social) ![](https://img.shields.io/github/forks/eKoopmans/html2pdf.js?style=social)
   - [rasterizeHTML.js](https://github.com/cburgmer/rasterizeHTML.js) - 将HTML渲染到浏览器的Canvas中 ![](https://img.shields.io/github/stars/cburgmer/rasterizeHTML.js?style=social) ![](https://img.shields.io/github/forks/cburgmer/rasterizeHTML.js?style=social)
   - [JavaScript-Canvas-to-Blob](https://github.com/blueimp/JavaScript-Canvas-to-Blob) - 一个将Canvas元素转换为Blob对象的函数 ![](https://img.shields.io/github/stars/blueimp/JavaScript-Canvas-to-Blob?style=social) ![](https://img.shields.io/github/forks/blueimp/JavaScript-Canvas-to-Blob?style=social)
+  - [jsgif](https://github.com/antimatter15/jsgif) - 将HTML5 Canvas保存到GIF和动画。一个AS3GIF Gifplayer到JS的港口 ![](https://img.shields.io/github/stars/antimatter15/jsgif?style=social) ![](https://img.shields.io/github/forks/antimatter15/jsgif?style=social)
 
 - 图像处理
   - [tui.image-editor](https://github.com/nhn/tui.image-editor) [[在线演示](http://nhn.github.io/tui.image-editor/latest/tutorial-example01-includeUi)] - 基于Canvas功能完整的照片图像编辑器。 ![](https://img.shields.io/github/stars/nhn/tui.image-editor?style=social) ![](https://img.shields.io/github/forks/nhn/tui.image-editor?style=social)
@@ -154,11 +150,12 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
   - [waveform-playlist](https://github.com/naomiaro/waveform-playlist) [[在线演示](http://naomiaro.github.io/waveform-playlist/)] - 具有画布波形预览的多轨网络音频编辑器和播放器。 ![](https://img.shields.io/github/stars/naomiaro/waveform-playlist?style=social) ![](https://img.shields.io/github/forks/naomiaro/waveform-playlist?style=social)
   - [wavedrom](https://github.com/wavedrom/wavedrom) [[在线演示](https://wavedrom.com/editor.html)] - 一个免费的开源在线数字时序图（波形）渲染引擎 ![](https://img.shields.io/github/stars/wavedrom/wavedrom?style=social) ![](https://img.shields.io/github/forks/wavedrom/wavedrom?style=social)
 
-- 粒子动画
+- 粒子/路径动画
   - [Proton](https://projects.jpeer.at/proton/) [[在线演示](http://drawcall.github.io/Proton/#examples)] - Javascript粒子动画库 ![](https://img.shields.io/github/stars/drawcall/Proton?style=social) ![](https://img.shields.io/github/forks/drawcall/Proton?style=social)
   - [three.proton](https://github.com/drawcall/three.proton/) [[在线演示]()] - Three.proton 是一个神奇的 3d 粒子引擎，使用了three.js库和Proton ![](https://img.shields.io/github/stars/drawcall/three.proton?style=social) ![](https://img.shields.io/github/forks/drawcall/three.proton?style=social)
   - [bubbly-bg](https://github.com/tipsy/bubbly-bg) [[在线演示](https://tipsy.github.io/bubbly-bg/)] - 小于 1kB 的漂亮气泡背景(750 字节 gzipped) ![](https://img.shields.io/github/stars/tipsy/bubbly-bg?style=social) ![](https://img.shields.io/github/forks/tipsy/bubbly-bg?style=social)
   - [react-particle-effect-button](https://github.com/transitive-bullshit/react-particle-effect-button) [[在线演示](https://transitive-bullshit.github.io/react-particle-effect-button/)] - 基于React的爆裂粒子效果按钮 ![](https://img.shields.io/github/stars/transitive-bullshit/react-particle-effect-button?style=social) ![](https://img.shields.io/github/forks/transitive-bullshit/react-particle-effect-button?style=social)
+  - [pasition](https://github.com/dntzhang/pasition) [[在线示例](https://dntzhang.github.io/pasition/)] - 轻量级 Path 过渡库，可以渲染到任何地方 ![](https://img.shields.io/github/stars/dntzhang/pasition?style=social) ![](https://img.shields.io/github/forks/dntzhang/pasition?style=social)
 
 - 二维码
   - [qrious](https://github.com/neocotic/qrious) [[在线演示](https://github.com/neocotic/qrious#examples)] - 使用Canvas生成二维码的纯JavaScript库 ![](https://img.shields.io/github/stars/neocotic/qrious?style=social) ![](https://img.shields.io/github/forks/neocotic/qrious?style=social)
