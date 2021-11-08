@@ -127,6 +127,8 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
   - [tui.image-editor](https://github.com/nhn/tui.image-editor) [[在线演示](http://nhn.github.io/tui.image-editor/latest/tutorial-example01-includeUi)] - 基于Canvas功能完整的照片图像编辑器。 ![](https://img.shields.io/github/stars/nhn/tui.image-editor?style=social) ![](https://img.shields.io/github/forks/nhn/tui.image-editor?style=social)
   - [merge-images](https://github.com/lukechilds/merge-images) - 轻松将图像组合在一起，且不会弄脏周围的画布 ![](https://img.shields.io/github/stars/lukechilds/merge-images?style=social) ![](https://img.shields.io/github/forks/lukechilds/merge-images?style=social)
   - [we-cropper](https://we-plugin.github.io/we-cropper/#/) [[在线演示](https://unpkg.com/we-cropper@1.2.0/docs/assets/online.jpg)] - 微信小程序图片裁剪工具 ![](https://img.shields.io/github/stars/we-plugin/we-cropper?style=social) ![](https://img.shields.io/github/forks/we-plugin/we-cropper?style=social)
+  - [miniPaint](https://github.com/viliusle/miniPaint) [[在线示例](https://viliusle.github.io/miniPaint/)] - 在线图片编辑器 ![](https://img.shields.io/github/stars/viliusle/miniPaint?style=social) ![](https://img.shields.io/github/forks/viliusle/miniPaint?style=social)
+  - [animockup](https://github.com/alyssaxuu/animockup) [[在线示例](https://animockup.com/)] - 在浏览器中创建动画模型，并导出为视频或动画GIF ![](https://img.shields.io/github/stars/alyssaxuu/animockup?style=social) ![](https://img.shields.io/github/forks/alyssaxuu/animockup?style=social)
 
 - 画板
   - [jspaint](https://github.com/1j01/jspaint) [[在线演示](https://jspaint.app/#local:5ee9c6aab5992)] - Web版的经典MS Paint翻版 ![](https://img.shields.io/github/stars/1j01/jspaint?style=social) ![](https://img.shields.io/github/forks/1j01/jspaint?style=social)
