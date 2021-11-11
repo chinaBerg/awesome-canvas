@@ -87,6 +87,8 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
   - [curtainsjs](https://www.curtainsjs.com/get-started.html) [[在线演示](https://www.curtainsjs.com/get-started.html#basic-setup)] - curtains.js是一个轻量级的WebGL js库，可以将HTML DOM元素转换为交互式纹理平面 ![](https://img.shields.io/github/stars/martinlaxenaire/curtainsjs?style=social) ![](https://img.shields.io/github/forks/martinlaxenaire/curtainsjs?style=social)
   - [obelisk.js](https://github.com/nosir/obelisk.js) - 用HTML5 canvas构建立体图形库 ![](https://img.shields.io/github/stars/nosir/obelisk.js?style=social) ![](https://img.shields.io/github/forks/nosir/obelisk.js?style=social)
   - [seen](http://seenjs.io/) [[在线示例](http://seenjs.io/demo-simple-interactive.html)] - 使用SVG或Canvas渲染3D场景 ![](https://img.shields.io/github/stars/themadcreator/seen?style=social) ![](https://img.shields.io/github/forks/themadcreator/seen?style=social)
+  - [Oimo.js](https://github.com/lo-th/Oimo.js) [[在线示例](http://lo-th.github.io/Oimo.js/index.html#basic)] - 轻量级的JS 3D物理引擎 ![](https://img.shields.io/github/stars/lo-th/Oimo.js?style=social) ![](https://img.shields.io/github/forks/lo-th/Oimo.js?style=social)
+  - [troika](https://protectwise.github.io/troika/) [[在线示例]()] - 用于交互式 3D 和 2D 可视化的 JavaScript 框架 ![](https://img.shields.io/github/stars/protectwise/troika?style=social) ![](https://img.shields.io/github/forks/protectwise/troika?style=social)
 
 - 全景图
   - [Panolens.js](https://github.com/pchen66/panolens.js) [[在线演示](https://pchen66.github.io/Panolens/)] - Panolens.js基于Three.JS，主要研究领域是全景、虚拟现实和潜在的增强现实。 ![](https://img.shields.io/github/stars/pchen66/panolens.js?style=social) ![](https://img.shields.io/github/forks/pchen66/panolens.js?style=social)
