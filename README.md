@@ -211,7 +211,10 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
 
 ## 教程
 
-- [廖雪峰的Canvas教程](https://www.liaoxuefeng.com/wiki/1022910821149312/1023022423592576)
+- [廖雪峰Canvas教程](https://www.liaoxuefeng.com/wiki/1022910821149312/1023022423592576)
+- [慕课网Canvas教程](https://www.imooc.com/wiki/html5/canvas.html)
+- [HTML5 Canvas菜鸟教程](https://www.runoob.com/html/html5-canvas.html)
+- [HTML5 Canvas W3school](https://www.w3school.com.cn/html/html5_canvas.asp)
 - [CanvasStudy](https://github.com/827652549/CanvasStudy) ![](https://img.shields.io/github/stars/827652549/CanvasStudy?style=social) ![](https://img.shields.io/github/forks/827652549/CanvasStudy?style=social)
 
 ## 文章
