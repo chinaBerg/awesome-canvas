@@ -89,6 +89,7 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
   - [seen](http://seenjs.io/) [[在线示例](http://seenjs.io/demo-simple-interactive.html)] - 使用SVG或Canvas渲染3D场景 ![](https://img.shields.io/github/stars/themadcreator/seen?style=social) ![](https://img.shields.io/github/forks/themadcreator/seen?style=social)
   - [Oimo.js](https://github.com/lo-th/Oimo.js) [[在线示例](http://lo-th.github.io/Oimo.js/index.html#basic)] - 轻量级的JS 3D物理引擎 ![](https://img.shields.io/github/stars/lo-th/Oimo.js?style=social) ![](https://img.shields.io/github/forks/lo-th/Oimo.js?style=social)
   - [troika](https://protectwise.github.io/troika/) [[在线示例]()] - 用于交互式 3D 和 2D 可视化的 JavaScript 框架 ![](https://img.shields.io/github/stars/protectwise/troika?style=social) ![](https://img.shields.io/github/forks/protectwise/troika?style=social)
+  - [phoria.js](https://github.com/kevinroast/phoria.js) [[在线示例](http://www.kevs3d.co.uk/dev/phoria/index.html)] - 用于在 HTML5 画布 2D 渲染器上进行简单 3D 图形和可视化的 JavaScript 库。它不使用 WebGL。适用于所有 HTML5 浏览器，包括桌面、iOS 和 Android ![](https://img.shields.io/github/stars/kevinroast/phoria.js?style=social) ![](https://img.shields.io/github/forks/kevinroast/phoria.js?style=social)
 
 - 全景图
   - [Panolens.js](https://github.com/pchen66/panolens.js) [[在线演示](https://pchen66.github.io/Panolens/)] - Panolens.js基于Three.JS，主要研究领域是全景、虚拟现实和潜在的增强现实。 ![](https://img.shields.io/github/stars/pchen66/panolens.js?style=social) ![](https://img.shields.io/github/forks/pchen66/panolens.js?style=social)
@@ -147,6 +148,7 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
   - [miniPaint](https://github.com/viliusle/miniPaint) [[在线演示](https://viliusle.github.io/miniPaint/)] - 在线图片编辑器 ![](https://img.shields.io/github/stars/viliusle/miniPaint?style=social) ![](https://img.shields.io/github/forks/viliusle/miniPaint?style=social)
   - [animockup](https://github.com/alyssaxuu/animockup) [[在线演示](https://animockup.com/)] - 在浏览器中创建动画模型，并导出为视频或动画GIF ![](https://img.shields.io/github/stars/alyssaxuu/animockup?style=social) ![](https://img.shields.io/github/forks/alyssaxuu/animockup?style=social)
   - [vintageJS](https://github.com/rendro/vintageJS) - 使用HTML5 Canvas元素为图像添加复古/复古效果 ![](https://img.shields.io/github/stars/rendro/vintageJS?style=social) ![](https://img.shields.io/github/forks/rendro/vintageJS?style=social)
+  - [glitch-canvas](https://github.com/snorpey/glitch-canvas) [[在线示例](https://snorpey.github.io/jpg-glitch/)] - 给画布元素添加故障效果 ![](https://img.shields.io/github/stars/snorpey/glitch-canvas?style=social) ![](https://img.shields.io/github/forks/snorpey/glitch-canvas?style=social)
 
 - 画板
   - [jspaint](https://github.com/1j01/jspaint) [[在线演示](https://jspaint.app/#local:5ee9c6aab5992)] - Web版的经典MS Paint翻版 ![](https://img.shields.io/github/stars/1j01/jspaint?style=social) ![](https://img.shields.io/github/forks/1j01/jspaint?style=social)
@@ -163,6 +165,7 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
     - [phaser3-examples](https://github.com/photonstorm/phaser3-examples) - phaser3例子 ![](https://img.shields.io/github/stars/photonstorm/phaser3-examples?style=social) ![](https://img.shields.io/github/forks/photonstorm/phaser3-examples?style=social)
     - [phaser-ce](https://github.com/photonstorm/phaser-ce) - Phaser CE 是一个有趣、免费且快速的2D游戏框架，用于为桌面和移动端Web制作HTML5游戏，支持 Canvas和WebGL渲染 ![](https://img.shields.io/github/stars/photonstorm/phaser-ce?style=social) ![](https://img.shields.io/github/forks/photonstorm/phaser-ce?style=social)
     - [phaser3-project-template](https://github.com/photonstorm/phaser3-project-template) - Phaser3项目模板 ![](https://img.shields.io/github/stars/photonstorm/phaser3-project-template?style=social) ![](https://img.shields.io/github/forks/photonstorm/phaser3-project-template?style=social)
+  - [taro](https://github.com/Cloud9c/taro) [[在线示例](https://www.echou.xyz/taro/examples/#Cube)] - 轻量级3D游戏引擎。 ![](https://img.shields.io/github/stars/Cloud9c/taro?style=social) ![](https://img.shields.io/github/forks/Cloud9c/taro?style=social)
 
 - 波纹
   - [wavesurfer.js](https://wavesurfer-js.org/) [[在线演示](https://wavesurfer-js.org/examples/)] - 以Web音频和Canvas的音频波纹 ![](https://img.shields.io/github/stars/katspaugh/wavesurfer.js?style=social) ![](https://img.shields.io/github/forks/katspaugh/wavesurfer.js?style=social)
@@ -219,6 +222,7 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
 - [canvas-nest.js](https://github.com/hustcc/canvas-nest.js/blob/master/README-zh.md) - 一个基于 html5 canvas 绘制的网页背景效果。 ![](https://img.shields.io/github/stars/hustcc/canvas-nest.js?style=social) ![](https://img.shields.io/github/forks/hustcc/canvas-nest.js?style=social)
 - [canvas-special](https://github.com/bxm0927/) - 超多经典 Canvas 实例，动态离子背景、炫彩小球、贪吃蛇、坦克大战、是男人就下100层、心形文字等 ![](https://img.shields.io/github/stars/bxm0927/canvas-special?style=social) ![](https://img.shields.io/github/forks/bxm0927/canvas-special?style=social)
 - [canvas效果集合](https://github.com/sunshine940326/canvas) ![](https://img.shields.io/github/stars/sunshine940326/canvas?style=social) ![](https://img.shields.io/github/forks/sunshine940326/canvas?style=social)
+- [shape-shifter](https://github.com/kennethcachia/shape-shifter) [[在线示例](http://www.kennethcachia.com/shape-shifter/)] - 这是一个基于用户输入使用一组粒子来渲染不同形状的画布实验。它支持多种模式:文本，倒计时，时间和图标 ![](https://img.shields.io/github/stars/kennethcachia/shape-shifter?style=social) ![](https://img.shields.io/github/forks/kennethcachia/shape-shifter?style=social)
 
 ## 贡献者
 
