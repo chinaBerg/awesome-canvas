@@ -10,6 +10,7 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
   - [教程](#教程)
   - [文章](#文章)
   - [效果/案例](#效果案例)
+  - [贡献者](#贡献者)
   - [协议](#协议)
 ## 官方资源
 
@@ -209,6 +210,12 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
 - [canvas-nest.js](https://github.com/hustcc/canvas-nest.js/blob/master/README-zh.md) - 一个基于 html5 canvas 绘制的网页背景效果。 ![](https://img.shields.io/github/stars/hustcc/canvas-nest.js?style=social) ![](https://img.shields.io/github/forks/hustcc/canvas-nest.js?style=social)
 - [canvas-special](https://github.com/bxm0927/) - 超多经典 Canvas 实例，动态离子背景、炫彩小球、贪吃蛇、坦克大战、是男人就下100层、心形文字等 ![](https://img.shields.io/github/stars/bxm0927/canvas-special?style=social) ![](https://img.shields.io/github/forks/bxm0927/canvas-special?style=social)
 - [canvas效果集合](https://github.com/sunshine940326/canvas) ![](https://img.shields.io/github/stars/sunshine940326/canvas?style=social) ![](https://img.shields.io/github/forks/sunshine940326/canvas?style=social)
+
+## 贡献者
+
+感谢以下人员对项目的贡献^V^：
+
+- [zyf214329704](https://github.com/zyf214329704)
 
 ## 协议
 
