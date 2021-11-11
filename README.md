@@ -216,7 +216,6 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
 
 ## 文章
 - [JS之使用Canvas绘图](https://www.jianshu.com/p/802c3bd2df34)
-- []()
 
 - ## 效果/案例
 - [canvas-confetti](https://github.com/catdad/canvas-confetti) [[在线演示](https://www.kirilv.com/canvas-confetti/)] - 一个撒花/纸屑效果插件 ![](https://img.shields.io/github/stars/catdad/canvas-confetti?style=social) ![](https://img.shields.io/github/forks/catdad/canvas-confetti?style=social)
