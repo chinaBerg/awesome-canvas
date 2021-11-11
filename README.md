@@ -5,16 +5,11 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
 
 - [awesome-canvas](#awesome-canvas)
   - [目录](#目录)
-  - [官方资源](#官方资源)
   - [仓库](#仓库)
   - [教程](#教程)
   - [文章](#文章)
-  - [效果/案例](#效果案例)
   - [贡献者](#贡献者)
   - [协议](#协议)
-## 官方资源
-
-- [canvas - MDN官方文档](https://developer.mozilla.org/zh-CN/docs/Web/API/Canvas_API)
 
 ## 仓库
 - 图形绘制
@@ -210,17 +205,20 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
   - [paper.js](http://paperjs.org/) [[在线演示](http://paperjs.org/examples/)] - 矢量图形脚本的瑞士军刀 ![](https://img.shields.io/github/stars/paperjs/paper.js?style=social) ![](https://img.shields.io/github/forks/paperjs/paper.js?style=social)
 
 ## 教程
-
-- [廖雪峰Canvas教程](https://www.liaoxuefeng.com/wiki/1022910821149312/1023022423592576)
-- [慕课网Canvas教程](https://www.imooc.com/wiki/html5/canvas.html)
+- [HTML5 Canvas MDN教程](https://developer.mozilla.org/zh-CN/docs/Web/API/Canvas_API)
+- [Draw on the Web](https://airingursb.gitbooks.io/canvas/content/)
+- [Computer Graphics And Visualization](https://ng-tech.icu/CGDataVis-Series/#/)
 - [HTML5 Canvas菜鸟教程](https://www.runoob.com/html/html5-canvas.html)
 - [HTML5 Canvas W3school](https://www.w3school.com.cn/html/html5_canvas.asp)
+- [廖雪峰Canvas教程](https://www.liaoxuefeng.com/wiki/1022910821149312/1023022423592576)
+- [慕课网Canvas教程](https://www.imooc.com/wiki/html5/canvas.html)
 - [CanvasStudy](https://github.com/827652549/CanvasStudy) ![](https://img.shields.io/github/stars/827652549/CanvasStudy?style=social) ![](https://img.shields.io/github/forks/827652549/CanvasStudy?style=social)
 
 ## 文章
+- [JS之使用Canvas绘图](https://www.jianshu.com/p/802c3bd2df34)
+- []()
 
-## 效果/案例
-
+- ## 效果/案例
 - [canvas-confetti](https://github.com/catdad/canvas-confetti) [[在线演示](https://www.kirilv.com/canvas-confetti/)] - 一个撒花/纸屑效果插件 ![](https://img.shields.io/github/stars/catdad/canvas-confetti?style=social) ![](https://img.shields.io/github/forks/catdad/canvas-confetti?style=social)
 - [lucky-canvas](https://100px.net/) [[在线演示](https://100px.net/demo/wheel.html)] - 基于 TS + Canvas 开发的【大转盘 / 九宫格】抽奖插件，rainbow 一套源码适配多端框架 JS / Vue / React / Taro / UniApp / 微信小程序等 ![](https://img.shields.io/github/stars/buuing/lucky-canvas?style=social) ![](https://img.shields.io/github/forks/buuing/lucky-canvas?style=social)
 - [CanvasInput](https://github.com/goldfire/CanvasInput) [[在线演示](https://goldfirestudios.com/canvasinput-html5-canvas-text-input)] - HTML5 Canvas文本输入框 ![](https://img.shields.io/github/stars/goldfire/CanvasInput?style=social) ![](https://img.shields.io/github/forks/goldfire/CanvasInput?style=social)
