@@ -86,6 +86,7 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
   - [zdog](https://github.com/metafizzy/zdog) [[在线演示](https://zzz.dog/)] - 基于canvas和SVG设计师友好的伪3D引擎 ![](https://img.shields.io/github/stars/metafizzy/zdog?style=social) ![](https://img.shields.io/github/forks/metafizzy/zdog?style=social)
   - [curtainsjs](https://www.curtainsjs.com/get-started.html) [[在线演示](https://www.curtainsjs.com/get-started.html#basic-setup)] - curtains.js是一个轻量级的WebGL js库，可以将HTML DOM元素转换为交互式纹理平面 ![](https://img.shields.io/github/stars/martinlaxenaire/curtainsjs?style=social) ![](https://img.shields.io/github/forks/martinlaxenaire/curtainsjs?style=social)
   - [obelisk.js](https://github.com/nosir/obelisk.js) - 用HTML5 canvas构建立体图形库 ![](https://img.shields.io/github/stars/nosir/obelisk.js?style=social) ![](https://img.shields.io/github/forks/nosir/obelisk.js?style=social)
+  - [seen](http://seenjs.io/) [[在线示例](http://seenjs.io/demo-simple-interactive.html)] - 使用SVG或Canvas渲染3D场景 ![](https://img.shields.io/github/stars/themadcreator/seen?style=social) ![](https://img.shields.io/github/forks/themadcreator/seen?style=social)
 
 - 全景图
   - [Panolens.js](https://github.com/pchen66/panolens.js) [[在线演示](https://pchen66.github.io/Panolens/)] - Panolens.js基于Three.JS，主要研究领域是全景、虚拟现实和潜在的增强现实。 ![](https://img.shields.io/github/stars/pchen66/panolens.js?style=social) ![](https://img.shields.io/github/forks/pchen66/panolens.js?style=social)
@@ -93,6 +94,7 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
   - [Marzipano](https://github.com/google/marzipano) [[在线演示](https://www.marzipano.net/demos/sample-tour/)] 可让您轻松为您的网站创建 360 度媒体播放器。 ![](https://img.shields.io/github/stars/google/marzipano?style=social) ![](https://img.shields.io/github/forks/google/marzipano?style=social)
   - [JS-Cloudimage-360-View](https://github.com/scaleflex/js-cloudimage-360-view) [[在线演示](https://scaleflex.github.io/js-cloudimage-360-view/)] 一个简单的、交互式的资源，可以用来提供您的产品的虚拟游览。 ![](https://img.shields.io/github/stars/scaleflex/js-cloudimage-360-view?style=social) ![](https://img.shields.io/github/forks/scaleflex/js-cloudimage-360-view?style=social)
   - [A-Frame](https://github.com/aframevr/aframe) [[在线演示](https://aframe.io/)] A-Frame 除了帮助您构建 360 度媒体播放器外，它还提供了许多附加功能。其他功能可帮助您增强网站的虚拟现实体验。 ![](https://img.shields.io/github/stars/aframevr/aframe?style=social) ![](https://img.shields.io/github/forks/aframevr/aframe?style=social)
+  - [exokit](https://github.com/exokitxr/exokit) [[在线示例](https://exokit.org/)] - 基于JavaScript的原生VR / AR / XR引擎 ![](https://img.shields.io/github/stars/exokitxr/exokit?style=social) ![](https://img.shields.io/github/forks/exokitxr/exokit?style=social)
 
 - 流程图
   - [GOJS](https://gojs.net/latest/index.html) [[在线演示](https://gojs.net/latest/samples/)] - 交互式流程图、组织结构图、设计工具、规划工具、可视化语言的JavaScript图表库![](https://img.shields.io/github/stars/NorthwoodsSoftware/GoJS?style=social) ![](https://img.shields.io/github/forks/NorthwoodsSoftware/GoJS?style=social)
