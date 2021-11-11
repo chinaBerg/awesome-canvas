@@ -190,6 +190,9 @@ Canvas资源库大全中文版。An awesome Canvas packages and resources.
   - [weapp-qrcode](https://github.com/yingye/weapp-qrcode) [[在线演示](https://github.com/yingye/weapp-qrcode#demo)] - 在 微信小程序 中，快速生成二维码 ![](https://img.shields.io/github/stars/yingye/weapp-qrcode?style=social) ![](https://img.shields.io/github/forks/yingye/weapp-qrcode?style=social)
   - [qr-image](https://github.com/alexeyten/qr-image) - 另一个二维码生成器 ![](https://img.shields.io/github/stars/alexeyten/qr-image?style=social) ![](https://img.shields.io/github/forks/alexeyten/qr-image?style=social)
 
+- 运行时
+  - [skia-canvas](https://github.com/samizdatco/skia-canvas) - 关于Canvas的Node.js环境 ![](https://img.shields.io/github/stars/samizdatco/skia-canvas?style=social) ![](https://img.shields.io/github/forks/samizdatco/skia-canvas?style=social)
+
 - React
   - [react-canvas](https://github.com/Flipboard/react-canvas) - 将React组件渲染成Canvas而不是DOM ![](https://img.shields.io/github/stars/Flipboard/react-canvas?style=social) ![](https://img.shields.io/github/forks/Flipboard/react-canvas?style=social)
 
