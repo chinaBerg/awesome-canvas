@@ -26,7 +26,7 @@
   - [验证码](#验证码)
   - [运行时](#运行时)
   - [其他](#其他)
-- [教程](#教程)
+- [文档/教程](#文档教程)
 - [文章](#文章)
 - [贡献者](#贡献者)
 - [协议](#协议)
@@ -222,14 +222,17 @@
   - [paper.js](http://paperjs.org/) [[在线演示](http://paperjs.org/examples/)] - 矢量图形脚本的瑞士军刀 ![](https://img.shields.io/github/stars/paperjs/paper.js?style=social) ![](https://img.shields.io/github/forks/paperjs/paper.js?style=social)
   - [react-canvas](https://github.com/Flipboard/react-canvas) - 将React组件渲染成Canvas而不是DOM ![](https://img.shields.io/github/stars/Flipboard/react-canvas?style=social) ![](https://img.shields.io/github/forks/Flipboard/react-canvas?style=social)
 
-## 教程
+## 文档/教程
 - [HTML5 Canvas MDN教程](https://developer.mozilla.org/zh-CN/docs/Web/API/Canvas_API)
+- [Internet Explorer 9 开发人员指南：HTML5 Canvas](https://docs.microsoft.com/en-us/previous-versions/hh410106(v=msdn.10)?redirectedfrom=MSDN#_HTML5_canvas)
 - [Draw on the Web](https://airingursb.gitbooks.io/canvas/content/)
 - [Computer Graphics And Visualization](https://ng-tech.icu/CGDataVis-Series/#/)
-- [HTML5 Canvas菜鸟教程](https://www.runoob.com/html/html5-canvas.html)
-- [HTML5 Canvas W3school](https://www.w3school.com.cn/html/html5_canvas.asp)
-- [廖雪峰Canvas教程](https://www.liaoxuefeng.com/wiki/1022910821149312/1023022423592576)
-- [慕课网Canvas教程](https://www.imooc.com/wiki/html5/canvas.html)
+- [HTML5草案标准中的Canvas元素文档](https://html.spec.whatwg.org/multipage/canvas.html#the-canvas-element)
+- [HTML5 Canvas 基础教程](https://dev.opera.com/articles/html5-canvas-basics/)
+- [HTML5 Canvas 菜鸟教程](https://www.runoob.com/html/html5-canvas.html)
+- [HTML5 Canvas W3school教程](https://www.w3school.com.cn/html/html5_canvas.asp)
+- [HTML5 Canvas 廖雪峰教程](https://www.liaoxuefeng.com/wiki/1022910821149312/1023022423592576)
+- [HTML5 Canvas 慕课网教程](https://www.imooc.com/wiki/html5/canvas.html)
 - [CanvasStudy](https://github.com/827652549/CanvasStudy) ![](https://img.shields.io/github/stars/827652549/CanvasStudy?style=social) ![](https://img.shields.io/github/forks/827652549/CanvasStudy?style=social)
 
 ## 文章
