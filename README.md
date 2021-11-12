@@ -28,6 +28,7 @@
   - [其他](#其他)
 - [文档/教程](#文档教程)
 - [文章](#文章)
+- [效果/案例](#效果案例)
 - [贡献者](#贡献者)
 - [协议](#协议)
 
@@ -237,8 +238,16 @@
 
 ## 文章
 - [JS之使用Canvas绘图](https://www.jianshu.com/p/802c3bd2df34)
+- [一个少女心满满的例子带你入门 Canvas](https://juejin.cn/post/6844903490020442125)
+- [为了让她10分钟入门canvas，我熬夜写了3个小项目和这篇文章](https://juejin.cn/post/6986785259966857247)
+- [更优雅地基于 canvas 在前端画海报](https://juejin.cn/post/6844903870276206606)
+- [【🎨万物皆可动】详解Canvas路径动画](https://juejin.cn/post/6924866572972457992)
+- [产品经理：你能不能用div给我画条龙？](https://juejin.cn/post/6963476650356916254)
+- [Canvas性能优化](https://juejin.cn/post/6844903682761310216) - 掘金 @清夜
+- [为了让你们进阶Canvas，我花7小时写了3个有趣的小游戏！！！](https://juejin.cn/post/6989003710030413838) - 掘金 @Sunshine_Lin
+- [十分钟实现灭霸打响指灰飞烟灭的效果](https://juejin.cn/post/6844903840249020429) - 掘金 @wangzy2019
 
-- ## 效果/案例
+## 效果/案例
 - [canvas-confetti](https://github.com/catdad/canvas-confetti) [[在线演示](https://www.kirilv.com/canvas-confetti/)] - 一个撒花/纸屑效果插件 ![](https://img.shields.io/github/stars/catdad/canvas-confetti?style=social) ![](https://img.shields.io/github/forks/catdad/canvas-confetti?style=social)
 - [lucky-canvas](https://100px.net/) [[在线演示](https://100px.net/demo/wheel.html)] - 基于 TS + Canvas 开发的【大转盘 / 九宫格】抽奖插件，rainbow 一套源码适配多端框架 JS / Vue / React / Taro / UniApp / 微信小程序等 ![](https://img.shields.io/github/stars/buuing/lucky-canvas?style=social) ![](https://img.shields.io/github/forks/buuing/lucky-canvas?style=social)
 - [CanvasInput](https://github.com/goldfire/CanvasInput) [[在线演示](https://goldfirestudios.com/canvasinput-html5-canvas-text-input)] - HTML5 Canvas文本输入框 ![](https://img.shields.io/github/stars/goldfire/CanvasInput?style=social) ![](https://img.shields.io/github/forks/goldfire/CanvasInput?style=social)
