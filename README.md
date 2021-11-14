@@ -26,9 +26,10 @@
   - [验证码](#验证码)
   - [运行时](#运行时)
   - [其他](#其他)
+- [插件资源网站](#插件资源网站)
+- [效果/案例](#效果案例)
 - [文档/教程](#文档教程)
 - [文章](#文章)
-- [效果/案例](#效果案例)
 - [贡献者](#贡献者)
 - [协议](#协议)
 
@@ -223,6 +224,22 @@
   - [paper.js](http://paperjs.org/) [[在线演示](http://paperjs.org/examples/)] - 矢量图形脚本的瑞士军刀 ![](https://img.shields.io/github/stars/paperjs/paper.js?style=social) ![](https://img.shields.io/github/forks/paperjs/paper.js?style=social)
   - [react-canvas](https://github.com/Flipboard/react-canvas) - 将React组件渲染成Canvas而不是DOM ![](https://img.shields.io/github/stars/Flipboard/react-canvas?style=social) ![](https://img.shields.io/github/forks/Flipboard/react-canvas?style=social)
 
+## 插件资源网站
+- [CodePen Canvas特效资源](https://codepen.io/search/pens?q=canvas)
+- [ANIMPEN 码笔网 Canvas特效资源](https://animpen.com/search/pens?q=canvas)
+- [JQuery之家 Canvas特效资源](http://www.htmleaf.com/html5/html5-canvas/)
+- [JQuery插件库 Canvas特效资源](https://www.jq22.com/search?seo=canvas)
+
+## 效果/案例
+- [canvas-confetti](https://github.com/catdad/canvas-confetti) [[在线演示](https://www.kirilv.com/canvas-confetti/)] - 一个撒花/纸屑效果插件 ![](https://img.shields.io/github/stars/catdad/canvas-confetti?style=social) ![](https://img.shields.io/github/forks/catdad/canvas-confetti?style=social)
+- [lucky-canvas](https://100px.net/) [[在线演示](https://100px.net/demo/wheel.html)] - 基于 TS + Canvas 开发的【大转盘 / 九宫格】抽奖插件，rainbow 一套源码适配多端框架 JS / Vue / React / Taro / UniApp / 微信小程序等 ![](https://img.shields.io/github/stars/buuing/lucky-canvas?style=social) ![](https://img.shields.io/github/forks/buuing/lucky-canvas?style=social)
+- [CanvasInput](https://github.com/goldfire/CanvasInput) [[在线演示](https://goldfirestudios.com/canvasinput-html5-canvas-text-input)] - HTML5 Canvas文本输入框 ![](https://img.shields.io/github/stars/goldfire/CanvasInput?style=social) ![](https://img.shields.io/github/forks/goldfire/CanvasInput?style=social)
+- [curvejs](https://github.com/AlloyTeam/curvejs) [[在线演示](https://github.com/AlloyTeam/curvejs#demos)] - 魔幻线条 ![](https://img.shields.io/github/stars/AlloyTeam/curvejs?style=social) ![](https://img.shields.io/github/forks/AlloyTeam/curvejs?style=social)
+- [canvas-nest.js](https://github.com/hustcc/canvas-nest.js/blob/master/README-zh.md) - 一个基于 html5 canvas 绘制的网页背景效果。 ![](https://img.shields.io/github/stars/hustcc/canvas-nest.js?style=social) ![](https://img.shields.io/github/forks/hustcc/canvas-nest.js?style=social)
+- [canvas-special](https://github.com/bxm0927/) - 超多经典 Canvas 实例，动态离子背景、炫彩小球、贪吃蛇、坦克大战、是男人就下100层、心形文字等 ![](https://img.shields.io/github/stars/bxm0927/canvas-special?style=social) ![](https://img.shields.io/github/forks/bxm0927/canvas-special?style=social)
+- [canvas效果集合](https://github.com/sunshine940326/canvas) ![](https://img.shields.io/github/stars/sunshine940326/canvas?style=social) ![](https://img.shields.io/github/forks/sunshine940326/canvas?style=social)
+- [shape-shifter](https://github.com/kennethcachia/shape-shifter) [[在线示例](http://www.kennethcachia.com/shape-shifter/)] - 这是一个基于用户输入使用一组粒子来渲染不同形状的画布实验。它支持多种模式:文本，倒计时，时间和图标 ![](https://img.shields.io/github/stars/kennethcachia/shape-shifter?style=social) ![](https://img.shields.io/github/forks/kennethcachia/shape-shifter?style=social)
+
 ## 文档/教程
 - [HTML5 Canvas MDN教程](https://developer.mozilla.org/zh-CN/docs/Web/API/Canvas_API)
 - [Internet Explorer 9 开发人员指南：HTML5 Canvas](https://docs.microsoft.com/en-us/previous-versions/hh410106(v=msdn.10)?redirectedfrom=MSDN#_HTML5_canvas)
@@ -248,15 +265,6 @@
 - [为了让你们进阶Canvas，我花7小时写了3个有趣的小游戏！！！](https://juejin.cn/post/6989003710030413838) - 掘金 @Sunshine_Lin
 - [十分钟实现灭霸打响指灰飞烟灭的效果](https://juejin.cn/post/6844903840249020429) - 掘金 @wangzy2019
 
-## 效果/案例
-- [canvas-confetti](https://github.com/catdad/canvas-confetti) [[在线演示](https://www.kirilv.com/canvas-confetti/)] - 一个撒花/纸屑效果插件 ![](https://img.shields.io/github/stars/catdad/canvas-confetti?style=social) ![](https://img.shields.io/github/forks/catdad/canvas-confetti?style=social)
-- [lucky-canvas](https://100px.net/) [[在线演示](https://100px.net/demo/wheel.html)] - 基于 TS + Canvas 开发的【大转盘 / 九宫格】抽奖插件，rainbow 一套源码适配多端框架 JS / Vue / React / Taro / UniApp / 微信小程序等 ![](https://img.shields.io/github/stars/buuing/lucky-canvas?style=social) ![](https://img.shields.io/github/forks/buuing/lucky-canvas?style=social)
-- [CanvasInput](https://github.com/goldfire/CanvasInput) [[在线演示](https://goldfirestudios.com/canvasinput-html5-canvas-text-input)] - HTML5 Canvas文本输入框 ![](https://img.shields.io/github/stars/goldfire/CanvasInput?style=social) ![](https://img.shields.io/github/forks/goldfire/CanvasInput?style=social)
-- [curvejs](https://github.com/AlloyTeam/curvejs) [[在线演示](https://github.com/AlloyTeam/curvejs#demos)] - 魔幻线条 ![](https://img.shields.io/github/stars/AlloyTeam/curvejs?style=social) ![](https://img.shields.io/github/forks/AlloyTeam/curvejs?style=social)
-- [canvas-nest.js](https://github.com/hustcc/canvas-nest.js/blob/master/README-zh.md) - 一个基于 html5 canvas 绘制的网页背景效果。 ![](https://img.shields.io/github/stars/hustcc/canvas-nest.js?style=social) ![](https://img.shields.io/github/forks/hustcc/canvas-nest.js?style=social)
-- [canvas-special](https://github.com/bxm0927/) - 超多经典 Canvas 实例，动态离子背景、炫彩小球、贪吃蛇、坦克大战、是男人就下100层、心形文字等 ![](https://img.shields.io/github/stars/bxm0927/canvas-special?style=social) ![](https://img.shields.io/github/forks/bxm0927/canvas-special?style=social)
-- [canvas效果集合](https://github.com/sunshine940326/canvas) ![](https://img.shields.io/github/stars/sunshine940326/canvas?style=social) ![](https://img.shields.io/github/forks/sunshine940326/canvas?style=social)
-- [shape-shifter](https://github.com/kennethcachia/shape-shifter) [[在线示例](http://www.kennethcachia.com/shape-shifter/)] - 这是一个基于用户输入使用一组粒子来渲染不同形状的画布实验。它支持多种模式:文本，倒计时，时间和图标 ![](https://img.shields.io/github/stars/kennethcachia/shape-shifter?style=social) ![](https://img.shields.io/github/forks/kennethcachia/shape-shifter?style=social)
 
 ## 贡献者
 
