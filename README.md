@@ -216,6 +216,9 @@
 
 ### 验证码
   - [jigsaw](https://github.com/yeild/jigsaw) [[在线示例](https://yeild.github.io/jigsaw/demo.html)] - canvas滑动验证码 ![](https://img.shields.io/github/stars/yeild/jigsaw?style=social) ![](https://img.shields.io/github/forks/yeild/jigsaw?style=social)
+  - [jq_slideImage](https://www.jq22.com/jquery-info21017) [[在线示例](https://www.jq22.com/yanshi21017)] - jQuery滑动拼图验证插件
+  - [jigsaw](https://www.jq22.com/jquery-info19009) [[在线示例](https://www.jq22.com/yanshi19009)] - canvas滑动验证插件jigsaw
+  - [JQuery插件库验证码资源地址](https://www.jq22.com/search?seo=%E9%AA%8C%E8%AF%81%E7%A0%81)
 
 ### 运行时
   - [skia-canvas](https://github.com/samizdatco/skia-canvas) - 关于Canvas的Node.js环境 ![](https://img.shields.io/github/stars/samizdatco/skia-canvas?style=social) ![](https://img.shields.io/github/forks/samizdatco/skia-canvas?style=social)
