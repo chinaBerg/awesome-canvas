@@ -53,7 +53,7 @@
   - [atrament.js](https://github.com/jakubfiala/atrament.js) - 一个小型 JS 库，用于在 HTML Canvas 上进行漂亮的绘图和手绘 ![](https://img.shields.io/github/stars/jakubfiala/atrament.js?style=social) ![](https://img.shields.io/github/forks/jakubfiala/atrament.js?style=social)
 
 ### 图表库
-  - [D3](https://github.com/d3/d3) [[在线演示](https://observablehq.com/@d3/gallery)] - D3(或D3.js)是一个用于web标准可视化数据的JS库。 ![](https://img.shields.io/github/stars/d3/d3?style=social) ![](https://img.shields.io/github/forks/d3/d3?style=social)
+  - [D3](https://github.com/d3/d3) [[在线演示](https://observablehq.com/@d3/gallery)] - D3(或D3.js)是一个用于web标准可视化数据的JS库 ![](https://img.shields.io/github/stars/d3/d3?style=social) ![](https://img.shields.io/github/forks/d3/d3?style=social)
     - [awesome-d3](https://github.com/wbkd/awesome-d3) ![](https://img.shields.io/github/stars/wbkd/awesome-d3?style=social) ![](https://img.shields.io/github/forks/wbkd/awesome-d3?style=social)
     - [angular-charts](https://github.com/chinmaymk/angular-charts) - 基于D3创建Angular创建图表的指令库 ![](https://img.shields.io/github/stars/chinmaymk/angular-charts?style=social) ![](https://img.shields.io/github/forks/chinmaymk/angular-charts?style=social)
     - [nvd3](http://nvd3-community.github.io/nvd3/examples/documentation.html) [[在线演示](http://nvd3-community.github.io/nvd3/)] - 一个用d3.js编写的可重用图表库 ![](https://img.shields.io/github/stars/novus/nvd3?style=social) ![](https://img.shields.io/github/forks/novus/nvd3?style=social)
@@ -127,9 +127,15 @@
   - [X-Flowchart-Vue](https://github.com/OXOYO/X-Flowchart-Vue) [[在线演示](http://oxoyo.co/X-Flowchart-Vue/)] - 基于G6和Vue的可视化图形编辑器 ![](https://img.shields.io/github/stars/OXOYO/X-Flowchart-Vue?style=social) ![](https://img.shields.io/github/forks/OXOYO/X-Flowchart-Vue?style=social)
 
 ### 甘特图
-  - [gantt](https://github.com/frappe/gantt) [[在线演示](https://frappe.io/gantt)] - 开源的Javascript甘特图。基于SVG ![](https://img.shields.io/github/stars/frappe/gantt?style=social) ![](https://img.shields.io/github/forks/frappe/gantt?style=social)
-  - [gantt-schedule-timeline-calendar](https://github.com/neuronetio/gantt-schedule-timeline-calendar) [[在线演示](https://gantt-schedule-timeline-calendar.neuronet.io/examples)] - JS甘特图，项目甘特图，时间线，调度图，甘特时间线，预订时间线，React甘特图，Angular甘特图，Vue甘特图，svelte甘特图 ![](https://img.shields.io/github/stars/neuronetio/gantt-schedule-timeline-calendar?style=social) ![](https://img.shields.io/github/forks/neuronetio/gantt-schedule-timeline-calendar?style=social)
-  - [jQueryGantt](https://github.com/robicch/jQueryGantt) [[在线演示](https://gantt.twproject.com/)] - Jquery甘特图编辑器 ![](https://img.shields.io/github/stars/robicch/jQueryGantt?style=social) ![](https://img.shields.io/github/forks/robicch/jQueryGantt?style=social)
+  - 以下甘特图不基于Canvas实现
+    - [gantt](https://github.com/frappe/gantt) [[在线演示](https://frappe.io/gantt)] - 开源的Javascript甘特图。基于SVG ![](https://img.shields.io/github/stars/frappe/gantt?style=social) ![](https://img.shields.io/github/forks/frappe/gantt?style=social)
+    - [jQueryGantt](https://github.com/robicch/jQueryGantt) [[在线演示](https://gantt.twproject.com/)] - Jquery甘特图编辑器 ![](https://img.shields.io/github/stars/robicch/jQueryGantt?style=social) ![](https://img.shields.io/github/forks/robicch/jQueryGantt?style=social)
+    - [Gantt-Chart](https://github.com/dk8996/Gantt-Chart) [[在线演示](http://bl.ocks.org/dk8996/5534835)] - 基于D3的甘特图库 ![](https://img.shields.io/github/stars/dk8996/Gantt-Chart?style=social) ![](https://img.shields.io/github/forks/dk8996/Gantt-Chart?style=social)
+    - [gantt-schedule-timeline-calendar](https://github.com/neuronetio/gantt-schedule-timeline-calendar) [[在线演示](https://gantt-schedule-timeline-calendar.neuronet.io/examples)] - JS甘特图，项目甘特图，时间线，调度图，甘特时间线，预订时间线，React甘特图，Angular甘特图，Vue甘特图，svelte甘特图 ![](https://img.shields.io/github/stars/neuronetio/gantt-schedule-timeline-calendar?style=social) ![](https://img.shields.io/github/forks/neuronetio/gantt-schedule-timeline-calendar?style=social)
+    - [dhtmlxGantt](https://github.com/DHTMLX/gantt) [[在线演示](https://docs.dhtmlx.com/gantt/samples/01_initialization/08_explicit_time_range.html)] - GPL版的JS甘特图 ![](https://img.shields.io/github/stars/DHTMLX/gantt?style=social) ![](https://img.shields.io/github/forks/DHTMLX/gantt?style=social)
+    - [gantt-for-react](https://github.com/hustcc/gantt-for-react) [[在线演示](https://git.hust.cc/gantt-for-react/)] - 一个简单的React甘特图组件 ![](https://img.shields.io/github/stars/hustcc/gantt-for-react?style=social) ![](https://img.shields.io/github/forks/hustcc/gantt-for-react?style=social)
+    - [jquery.ganttView](https://github.com/thegrubbsian/jquery.ganttView) [[在线演示](http://thegrubbsian.github.io/jquery.ganttView/example/index.html)] - 一个可编辑的 jQuery 甘特图插件 ![](https://img.shields.io/github/stars/thegrubbsian/jquery.ganttView?style=social) ![](https://img.shields.io/github/forks/thegrubbsian/jquery.ganttView?style=social)
+    - [wl-gantt](https://github.com/hql7/wl-gantt) - 简单易用且高度可配置的甘特图、进度计划项目管理插件 ![](https://img.shields.io/github/stars/hql7/wl-gantt?style=social) ![](https://img.shields.io/github/forks/hql7/wl-gantt?style=social)
 
 ### 组织图/脑图
   - [OrgChart](https://github.com/dabeng/OrgChart/blob/master/README.zh-cn.md) [[在线演示](https://dabeng.github.io/OrgChart/)] - 简单直接的组织图插件 ![](https://img.shields.io/github/stars/dabeng/OrgChart?style=social) ![](https://img.shields.io/github/forks/dabeng/OrgChart?style=social)
