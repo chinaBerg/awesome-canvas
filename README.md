@@ -35,7 +35,7 @@
 
 ## 仓库
 ### 图形绘制
-  - [fabric.js](http://fabricjs.com/) [[在线演示](http://fabricjs.com/demos/)] - 轻松处理Canvas元素的框架、SVG-to-Canvas和Canvas-to-SVG的解析器 ![](https://img.shields.io/github/stars/fabricjs/fabric.js?style=social) ![](https://img.shields.io/github/forks/fabricjs/fabric.js?style=social)
+  - [fabric.js](http://fabricjs.com/) [[在线演示](http://fabricjs.com/demos/)] - 轻松处理Canvas元素的框架、Canvas和SVG的转换解析器 ![](https://img.shields.io/github/stars/fabricjs/fabric.js?style=social) ![](https://img.shields.io/github/forks/fabricjs/fabric.js?style=social)
     - [vue-fabric](https://github.com/purestart/vue-fabric) - 基于Fabric.js的Vue组件，定制画板，图片组合绘制 ![](https://img.shields.io/github/stars/purestart/vue-fabric?style=social) ![](https://img.shields.io/github/forks/purestart/vue-fabric?style=social)
     - [fabric-js-editor](https://github.com/danielktaylor/fabric-js-editor) - 基于Fabric.js的HTML5矢量图像编辑器 ![](https://img.shields.io/github/stars/danielktaylor/fabric-js-editor?style=social) ![](https://img.shields.io/github/forks/danielktaylor/fabric-js-editor?style=social)
     - [fabric-brush](https://github.com/tennisonchan/fabric-brush) [[在线示例](https://tennisonchan.github.io/fabric-brush/)] - 基于Fabric.js的Canvas笔刷工具 ![](https://img.shields.io/github/stars/tennisonchan/fabric-brush?style=social) ![](https://img.shields.io/github/forks/tennisonchan/fabric-brush?style=social)
