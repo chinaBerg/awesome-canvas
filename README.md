@@ -57,6 +57,7 @@
   - [cax](https://github.com/dntzhang/cax/blob/master/README.CN.md) [[在线演示](https://github.com/dntzhang/cax/blob/master/README.CN.md)] - 小程序、小游戏以及 Web 通用 Canvas 渲染引擎 ![](https://img.shields.io/github/stars/dntzhang/cax?style=social) ![](https://img.shields.io/github/forks/dntzhang/cax?style=social)
   - [wxDraw](https://bobiscool.github.io/wxDrawDocs/#/) [[在线演示](https://github.com/bobiscool/wxDraw#wxdraw%E5%88%9B%E4%BD%9C%E7%9A%84%E5%8A%A8%E7%94%BB%E6%BC%94%E7%A4%BA)] - 微信小程序2d动画库 ![](https://img.shields.io/github/stars/bobiscool/wxDraw?style=social) ![](https://img.shields.io/github/forks/bobiscool/wxDraw?style=social)
   - [atrament.js](https://github.com/jakubfiala/atrament.js) - 一个小型 JS 库，用于在 HTML Canvas 上进行漂亮的绘图和手绘 ![](https://img.shields.io/github/stars/jakubfiala/atrament.js?style=social) ![](https://img.shields.io/github/forks/jakubfiala/atrament.js?style=social)
+  - [origami.js](https://raphamorim.io/origamijs/docs/) - 强大且轻量的Canvas库 ![](https://img.shields.io/github/stars/raphamorim/origami.js?style=social) ![](https://img.shields.io/github/forks/raphamorim/origami.js?style=social)
 
 ### 图表库
   - [D3](https://github.com/d3/d3) [[在线演示](https://observablehq.com/@d3/gallery)] - D3(或D3.js)是一个用于web标准可视化数据的JS库 ![](https://img.shields.io/github/stars/d3/d3?style=social) ![](https://img.shields.io/github/forks/d3/d3?style=social)
@@ -169,6 +170,7 @@
   - [JavaScript-Canvas-to-Blob](https://github.com/blueimp/JavaScript-Canvas-to-Blob) - 一个将Canvas元素转换为Blob对象的函数 ![](https://img.shields.io/github/stars/blueimp/JavaScript-Canvas-to-Blob?style=social) ![](https://img.shields.io/github/forks/blueimp/JavaScript-Canvas-to-Blob?style=social)
   - [jsgif](https://github.com/antimatter15/jsgif) - 将HTML5 Canvas保存到GIF和动画。一个AS3GIF Gifplayer到JS的港口 ![](https://img.shields.io/github/stars/antimatter15/jsgif?style=social) ![](https://img.shields.io/github/forks/antimatter15/jsgif?style=social)
   - [whammy](https://github.com/antimatter15/whammy) - 基于Canvas来Hack的实时JS webm编码器 ![](https://img.shields.io/github/stars/antimatter15/whammy?style=social) ![](https://img.shields.io/github/forks/antimatter15/whammy?style=social)
+  - [js-imagediff](https://github.com/HumbleSoftware/js-imagediff) - 带有Jasmine匹配器的Canvas图像差异比对程序，用于测试Canvas ![](https://img.shields.io/github/stars/HumbleSoftware/js-imagediff?style=social) ![](https://img.shields.io/github/forks/HumbleSoftware/js-imagediff?style=social)
 
 ### 图像处理
   - [tui.image-editor](https://github.com/nhn/tui.image-editor) [[在线演示](http://nhn.github.io/tui.image-editor/latest/tutorial-example01-includeUi)] - 基于Canvas功能完整的照片图像编辑器。 ![](https://img.shields.io/github/stars/nhn/tui.image-editor?style=social) ![](https://img.shields.io/github/forks/nhn/tui.image-editor?style=social)
@@ -241,6 +243,7 @@
 ### 其他
   - [paper.js](http://paperjs.org/) [[在线演示](http://paperjs.org/examples/)] - 矢量图形脚本的瑞士军刀 ![](https://img.shields.io/github/stars/paperjs/paper.js?style=social) ![](https://img.shields.io/github/forks/paperjs/paper.js?style=social)
   - [react-canvas](https://github.com/Flipboard/react-canvas) - 将React组件渲染成Canvas而不是DOM ![](https://img.shields.io/github/stars/Flipboard/react-canvas?style=social) ![](https://img.shields.io/github/forks/Flipboard/react-canvas?style=social)
+  - [react-native-canvas](https://github.com/iddan/react-native-canvas) - React Native Canvas组件  ![](https://img.shields.io/github/stars/iddan/react-native-canvas?style=social) ![](https://img.shields.io/github/forks/iddan/react-native-canvas?style=social)
 
 ## 插件资源网站
 - [CodePen Canvas特效资源](https://codepen.io/search/pens?q=canvas)
