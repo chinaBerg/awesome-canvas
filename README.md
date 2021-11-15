@@ -19,6 +19,7 @@
   - [数据处理](#数据处理)
   - [图像处理](#图像处理)
   - [画板](#画板)
+  - [签名](#签名)
   - [游戏引擎/物理引擎](#游戏引擎物理引擎)
   - [波纹](#波纹)
   - [粒子/路径动画](#粒子路径动画)
@@ -187,6 +188,13 @@
   - [drawingboard.js](https://github.com/Leimi/drawingboard.js) [[在线演示](http://leimi.github.io/drawingboard.js/)] ![](https://img.shields.io/github/stars/Leimi/drawingboard.js?style=social) ![](https://img.shields.io/github/forks/Leimi/drawingboard.js?style=social)
   - [drawingboard](https://github.com/vipstone/drawingboard) [[在线演示](https://vipstone.github.io/drawingboard/drawingboard/index.html)] - 高级画板—自由绘、直/虚线、箭头、所有几何图形
 
+### 签名
+  - [signature_pad](https://github.com/szimek/signature_pad) [[在线示例](http://szimek.github.io/signature_pad/)] -  ![](https://img.shields.io/github/stars/szimek/signature_pad?style=social) ![](https://img.shields.io/github/forks/szimek/signature_pad?style=social)
+    - [vue-signature-pad](https://github.com/neighborhood999/vue-signature-pad) [[在线示例](https://codesandbox.io/s/n5qjp3oqv4)] - Vue版本的签名板 ![](https://img.shields.io/github/stars/neighborhood999/vue-signature-pad?style=social) ![](https://img.shields.io/github/forks/neighborhood999/vue-signature-pad?style=social)
+    - [react-signature-pad](https://github.com/blackjk3/react-signature-pad) - React版的签名板 ![](https://img.shields.io/github/stars/blackjk3/react-signature-pad?style=social) ![](https://img.shields.io/github/forks/blackjk3/react-signature-pad?style=social)
+    - [angular-signature](https://github.com/legalthings/angular-signature) - Angular版的签名板 ![](https://img.shields.io/github/stars/legalthings/angular-signature?style=social) ![](https://img.shields.io/github/forks/legalthings/angular-signature?style=social)
+    - [react-native-signature-pad](https://github.com/kevinstumpf/react-native-signature-pad) - React-Native版的签名板 ![](https://img.shields.io/github/stars/kevinstumpf/react-native-signature-pad?style=social) ![](https://img.shields.io/github/forks/kevinstumpf/react-native-signature-pad?style=social)
+  - [signature-pad](https://github.com/thread-pond/signature-pad) [[在线示例](https://thread-pond.github.io/signature-pad/examples/require-drawn-signature.html)] - JQ插件，创建基于Canvas的签名板 ![](https://img.shields.io/github/stars/thread-pond/signature-pad?style=social) ![](https://img.shields.io/github/forks/thread-pond/signature-pad?style=social)
 ### 游戏引擎/物理引擎
   - [matter-js](https://brm.io/matter-js/) [[在线演示](https://brm.io/matter-js/demo/#mixed)] - 用于web的2D刚体物理引擎 ![](https://img.shields.io/github/stars/liabru/matter-js?style=social) ![](https://img.shields.io/github/forks/liabru/matter-js?style=social)
   - [Hilo](https://github.com/hiloteam/Hilo/blob/dev/README_ZH.md) [[在线演示](https://hiloteam.github.io/examples/index.html)] - 阿里巴巴集团开发的跨平台HTML5游戏开发解决方案 ![](https://img.shields.io/github/stars/hiloteam/Hilo?style=social) ![](https://img.shields.io/github/forks/hiloteam/Hilo?style=social)
