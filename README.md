@@ -195,6 +195,7 @@
     - [angular-signature](https://github.com/legalthings/angular-signature) - Angular版的签名板 ![](https://img.shields.io/github/stars/legalthings/angular-signature?style=social) ![](https://img.shields.io/github/forks/legalthings/angular-signature?style=social)
     - [react-native-signature-pad](https://github.com/kevinstumpf/react-native-signature-pad) - React-Native版的签名板 ![](https://img.shields.io/github/stars/kevinstumpf/react-native-signature-pad?style=social) ![](https://img.shields.io/github/forks/kevinstumpf/react-native-signature-pad?style=social)
   - [signature-pad](https://github.com/thread-pond/signature-pad) [[在线示例](https://thread-pond.github.io/signature-pad/examples/require-drawn-signature.html)] - JQ插件，创建基于Canvas的签名板 ![](https://img.shields.io/github/stars/thread-pond/signature-pad?style=social) ![](https://img.shields.io/github/forks/thread-pond/signature-pad?style=social)
+  - [canvas-draw](https://github.com/Louiszhai/canvas-draw) [[在线示例](http://louiszhai.github.io/res/canvasDraw/#/sign)] - 使用Canvas手写签名或绘图，支持PC、Mobile和横屏 ![](https://img.shields.io/github/stars/Louiszhai/canvas-draw?style=social) ![](https://img.shields.io/github/forks/Louiszhai/canvas-draw?style=social)
 ### 游戏引擎/物理引擎
   - [matter-js](https://brm.io/matter-js/) [[在线演示](https://brm.io/matter-js/demo/#mixed)] - 用于web的2D刚体物理引擎 ![](https://img.shields.io/github/stars/liabru/matter-js?style=social) ![](https://img.shields.io/github/forks/liabru/matter-js?style=social)
   - [Hilo](https://github.com/hiloteam/Hilo/blob/dev/README_ZH.md) [[在线演示](https://hiloteam.github.io/examples/index.html)] - 阿里巴巴集团开发的跨平台HTML5游戏开发解决方案 ![](https://img.shields.io/github/stars/hiloteam/Hilo?style=social) ![](https://img.shields.io/github/forks/hiloteam/Hilo?style=social)
@@ -293,7 +294,7 @@
 - [Canvas性能优化](https://juejin.cn/post/6844903682761310216) - 掘金 @清夜
 - [为了让你们进阶Canvas，我花7小时写了3个有趣的小游戏！！！](https://juejin.cn/post/6989003710030413838) - 掘金 @Sunshine_Lin
 - [十分钟实现灭霸打响指灰飞烟灭的效果](https://juejin.cn/post/6844903840249020429) - 掘金 @wangzy2019
-
+- [匠心打造canvas签名组件](http://louiszhai.github.io/2017/07/07/canvas-draw/) - @路易斯
 
 ## 贡献者
 
