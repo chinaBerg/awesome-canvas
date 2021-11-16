@@ -184,6 +184,8 @@
   - [vintageJS](https://github.com/rendro/vintageJS) - 使用HTML5 Canvas元素为图像添加复古/复古效果 ![](https://img.shields.io/github/stars/rendro/vintageJS?style=social) ![](https://img.shields.io/github/forks/rendro/vintageJS?style=social)
   - [glitch-canvas](https://github.com/snorpey/glitch-canvas) [[在线示例](https://snorpey.github.io/jpg-glitch/)] - 给画布元素添加故障效果 ![](https://img.shields.io/github/stars/snorpey/glitch-canvas?style=social) ![](https://img.shields.io/github/forks/snorpey/glitch-canvas?style=social)
   - [JIC](https://github.com/brunobar79/J-I-C) [[在线示例](http://makeitsolutions.com/labs/jic/)] - 使用Canvas和文件API的JS图像压缩器 ![](https://img.shields.io/github/stars/brunobar79/J-I-C?style=social) ![](https://img.shields.io/github/forks/brunobar79/J-I-C?style=social)
+  - [context-blender](https://github.com/Phrogz/context-blender) - 与Photoshop混合模式功能相同的Canvas上下文 ![](https://img.shields.io/github/stars/Phrogz/context-blender?style=social) ![](https://img.shields.io/github/forks/Phrogz/context-blender?style=social)
+  - [ios-imagefile-megapixel](https://github.com/stomita/ios-imagefile-megapixel) - 修复iOS6 Safari的大尺寸图像（超过百万像素）的渲染问题 ![](https://img.shields.io/github/stars/stomita/ios-imagefile-megapixel?style=social) ![](https://img.shields.io/github/forks/stomita/ios-imagefile-megapixel?style=social)
 
 ### 画板
   - [jspaint](https://github.com/1j01/jspaint) [[在线演示](https://jspaint.app/#local:5ee9c6aab5992)] - Web版的经典MS Paint翻版 ![](https://img.shields.io/github/stars/1j01/jspaint?style=social) ![](https://img.shields.io/github/forks/1j01/jspaint?style=social)
