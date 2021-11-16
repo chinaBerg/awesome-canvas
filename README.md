@@ -45,6 +45,7 @@
     - [fabric-js-editor](https://github.com/danielktaylor/fabric-js-editor) - 基于Fabric.js的HTML5矢量图像编辑器 ![](https://img.shields.io/github/stars/danielktaylor/fabric-js-editor?style=social) ![](https://img.shields.io/github/forks/danielktaylor/fabric-js-editor?style=social)
     - [fabric-brush](https://github.com/tennisonchan/fabric-brush) [[在线示例](https://tennisonchan.github.io/fabric-brush/)] - 基于Fabric.js的Canvas笔刷工具 ![](https://img.shields.io/github/stars/tennisonchan/fabric-brush?style=social) ![](https://img.shields.io/github/forks/tennisonchan/fabric-brush?style=social)
     - [fabricjs-image-editor-origin](https://github.com/pegasus1982/fabricjs-image-editor-origin) [[在线示例](https://fabricjs-image-editor-f62330.netlify.app/)] - Fabricjs图像编辑器 ![](https://img.shields.io/github/stars/pegasus1982/fabricjs-image-editor-origin?style=social) ![](https://img.shields.io/github/forks/pegasus1982/fabricjs-image-editor-origin?style=social)
+    - [DrawerJs](https://github.com/carstenschaefer/DrawerJs) [[在线示例](https://carstenschaefer.github.io/DrawerJs/examples/standalone/)] - 可定制的所见即所得的HTML Canvas编辑器 ![](https://img.shields.io/github/stars/carstenschaefer/DrawerJs?style=social) ![](https://img.shields.io/github/forks/carstenschaefer/DrawerJs?style=social)
     - [myvision](https://github.com/OvidijusParsiunas/myvision) - 免费的在线图像注释工具，用于生成基于计算机视觉的 ML 训练数据 ![](https://img.shields.io/github/stars/OvidijusParsiunas/myvision?style=social) ![](https://img.shields.io/github/forks/OvidijusParsiunas/myvision?style=social)
   - [konva](https://konvajs.org/) [[在线演示](https://konvajs.org/docs/sandbox/index.html)] - 通过扩展2D Context让桌面和移动端Canvas支持交互特性 ![](https://img.shields.io/github/stars/konvajs/konva?style=social) ![](https://img.shields.io/github/forks/konvajs/konva?style=social)
     - [konva中文文档](http://konvajs-doc.bluehymn.com/docs/)
@@ -187,6 +188,7 @@
   - [jspaint](https://github.com/1j01/jspaint) [[在线演示](https://jspaint.app/#local:5ee9c6aab5992)] - Web版的经典MS Paint翻版 ![](https://img.shields.io/github/stars/1j01/jspaint?style=social) ![](https://img.shields.io/github/forks/1j01/jspaint?style=social)
   - [drawingboard.js](https://github.com/Leimi/drawingboard.js) [[在线演示](http://leimi.github.io/drawingboard.js/)] ![](https://img.shields.io/github/stars/Leimi/drawingboard.js?style=social) ![](https://img.shields.io/github/forks/Leimi/drawingboard.js?style=social)
   - [drawingboard](https://github.com/vipstone/drawingboard) [[在线演示](https://vipstone.github.io/drawingboard/drawingboard/index.html)] - 高级画板—自由绘、直/虚线、箭头、所有几何图形
+  - [draw](https://github.com/amoshydra/draw) [[在线示例](https://amoshydra.github.io/draw/)] - 支持钢笔和触摸的Web端Canvas ![](https://img.shields.io/github/stars/amoshydra/draw?style=social) ![](https://img.shields.io/github/forks/amoshydra/draw?style=social)
 
 ### 签名
   - [signature_pad](https://github.com/szimek/signature_pad) [[在线示例](http://szimek.github.io/signature_pad/)] -  ![](https://img.shields.io/github/stars/szimek/signature_pad?style=social) ![](https://img.shields.io/github/forks/szimek/signature_pad?style=social)
@@ -196,6 +198,7 @@
     - [react-native-signature-pad](https://github.com/kevinstumpf/react-native-signature-pad) - React-Native版的签名板 ![](https://img.shields.io/github/stars/kevinstumpf/react-native-signature-pad?style=social) ![](https://img.shields.io/github/forks/kevinstumpf/react-native-signature-pad?style=social)
   - [signature-pad](https://github.com/thread-pond/signature-pad) [[在线示例](https://thread-pond.github.io/signature-pad/examples/require-drawn-signature.html)] - JQ插件，创建基于Canvas的签名板 ![](https://img.shields.io/github/stars/thread-pond/signature-pad?style=social) ![](https://img.shields.io/github/forks/thread-pond/signature-pad?style=social)
   - [canvas-draw](https://github.com/Louiszhai/canvas-draw) [[在线示例](http://louiszhai.github.io/res/canvasDraw/#/sign)] - 使用Canvas手写签名或绘图，支持PC、Mobile和横屏 ![](https://img.shields.io/github/stars/Louiszhai/canvas-draw?style=social) ![](https://img.shields.io/github/forks/Louiszhai/canvas-draw?style=social)
+
 ### 游戏引擎/物理引擎
   - [matter-js](https://brm.io/matter-js/) [[在线演示](https://brm.io/matter-js/demo/#mixed)] - 用于web的2D刚体物理引擎 ![](https://img.shields.io/github/stars/liabru/matter-js?style=social) ![](https://img.shields.io/github/forks/liabru/matter-js?style=social)
   - [Hilo](https://github.com/hiloteam/Hilo/blob/dev/README_ZH.md) [[在线演示](https://hiloteam.github.io/examples/index.html)] - 阿里巴巴集团开发的跨平台HTML5游戏开发解决方案 ![](https://img.shields.io/github/stars/hiloteam/Hilo?style=social) ![](https://img.shields.io/github/forks/hiloteam/Hilo?style=social)
