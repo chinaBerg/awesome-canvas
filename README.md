@@ -15,7 +15,7 @@
   - [甘特图](#甘特图)
   - [组织图/脑图](#组织图脑图)
   - [Excel/电子表格](#excel电子表格)
-  - [截图/图片生成](#截图图片生成)
+  - [海报/截图](#海报截图)
   - [数据处理](#数据处理)
   - [图像处理](#图像处理)
   - [画板](#画板)
@@ -159,12 +159,13 @@
   - [Jspreadsheet CE](https://github.com/jspreadsheet/ce) [[在线示例](https://bossanova.uk/jspreadsheet/v4/examples)] - 创建与其他软件兼容的web端交互式表格和电子表格 ![](https://img.shields.io/github/stars/jspreadsheet/ce?style=social) ![](https://img.shields.io/github/forks/jspreadsheet/ce?style=social)
   - [canvas-datagrid](https://github.com/TonyGermaneri/canvas-datagrid) [[在线示例](https://canvas-datagrid.js.org/demo.html)] - 基于Canvas的数据网格web组件。能够在单个画布元素上显示数百万连续的分层行和列，而无需分页或加载 ![](https://img.shields.io/github/stars/TonyGermaneri/canvas-datagrid?style=social) ![](https://img.shields.io/github/forks/TonyGermaneri/canvas-datagrid?style=social)
 
-### 截图/图片生成
+### 海报/截图
   - [html2canvas](https://html2canvas.hertzen.com/) [[在线演示](https://html2canvas.hertzen.com/)] - JS截图插件 ![](https://img.shields.io/github/stars/niklasvh/html2canvas?style=social) ![](https://img.shields.io/github/forks/niklasvh/html2canvas?style=social)
   - [dom-to-image](https://github.com/tsayen/dom-to-image) - 使用HTML5 Canvas从DOM节点生成图像 ![](https://img.shields.io/github/stars/tsayen/dom-to-image?style=social) ![](https://img.shields.io/github/forks/tsayen/dom-to-image?style=social)
   - [html-to-image](https://github.com/bubkoo/html-to-image) - 使用HTML5 Canvas和SVG从DOM节点生成图像。 ![](https://img.shields.io/github/stars/bubkoo/html-to-image?style=social) ![](https://img.shields.io/github/forks/bubkoo/html-to-image?style=social)
   - [canvas2image](https://github.com/hongru/canvas2image) [[在线演示](https://github.com/hongru/canvas2image/blob/master/index.html)] - 用于保存或转换Canvas为图片的工具 ![](https://img.shields.io/github/stars/hongru/canvas2image?style=social) ![](https://img.shields.io/github/forks/hongru/canvas2image?style=social)
   - [mp_canvas_drawer](https://github.com/kuckboy1994/mp_canvas_drawer) [[在线演示](https://github.com/kuckboy1994/mp_canvas_drawer#%E6%BC%94%E7%A4%BA)] - 微信小程序上canvas绘制图片助手，一个json就制作分享朋友圈图片 ![](https://img.shields.io/github/stars/kuckboy1994/mp_canvas_drawer?style=social) ![](https://img.shields.io/github/forks/kuckboy1994/mp_canvas_drawer?style=social)
+  - [vue-canvas-poster](https://github.com/sunniejs/vue-canvas-poster) [[在线示例](https://www.sunniejs.cn/vant-demo/#/example/poster)] - vue生成海报图，通过CSS属性画Canvas图片的轻量级组件 ![](https://img.shields.io/github/stars/sunniejs/vue-canvas-poster?style=social) ![](https://img.shields.io/github/forks/sunniejs/vue-canvas-poster?style=social)
 
 ### 数据处理
   - [html2pdf.js](https://github.com/eKoopmans/html2pdf.js) - 纯JS的客户端HTML生成PDF ![](https://img.shields.io/github/stars/eKoopmans/html2pdf.js?style=social) ![](https://img.shields.io/github/forks/eKoopmans/html2pdf.js?style=social)
