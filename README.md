@@ -265,11 +265,13 @@
 - [ANIMPEN 码笔网 Canvas特效资源](https://animpen.com/search/pens?q=canvas)
 - [JQuery之家 Canvas特效资源](http://www.htmleaf.com/html5/html5-canvas/)
 - [JQuery插件库 Canvas特效资源](https://www.jq22.com/search?seo=canvas)
+- [CodePen上Canvas相关的你应该关注的人](https://github.com/nucliweb/People-You-Should-Follow-on-CodePen)
 
 ## 效果/案例
 - [canvas-confetti](https://github.com/catdad/canvas-confetti) [[在线演示](https://www.kirilv.com/canvas-confetti/)] - 一个撒花/纸屑效果插件 ![](https://img.shields.io/github/stars/catdad/canvas-confetti?style=social) ![](https://img.shields.io/github/forks/catdad/canvas-confetti?style=social)
 - [lucky-canvas](https://100px.net/) [[在线演示](https://100px.net/demo/wheel.html)] - 基于 TS + Canvas 开发的【大转盘 / 九宫格】抽奖插件，rainbow 一套源码适配多端框架 JS / Vue / React / Taro / UniApp / 微信小程序等 ![](https://img.shields.io/github/stars/buuing/lucky-canvas?style=social) ![](https://img.shields.io/github/forks/buuing/lucky-canvas?style=social)
 - [CanvasInput](https://github.com/goldfire/CanvasInput) [[在线演示](https://goldfirestudios.com/canvasinput-html5-canvas-text-input)] - HTML5 Canvas文本输入框 ![](https://img.shields.io/github/stars/goldfire/CanvasInput?style=social) ![](https://img.shields.io/github/forks/goldfire/CanvasInput?style=social)
+- [wind-js](https://github.com/Esri/wind-js) [[在线演示](http://esri.github.io/wind-js/)] - 使用JS API在Canvas中模拟风的演示动画 ![](https://img.shields.io/github/stars/Esri/wind-js?style=social) ![](https://img.shields.io/github/forks/Esri/wind-js?style=social)
 - [curvejs](https://github.com/AlloyTeam/curvejs) [[在线演示](https://github.com/AlloyTeam/curvejs#demos)] - 魔幻线条 ![](https://img.shields.io/github/stars/AlloyTeam/curvejs?style=social) ![](https://img.shields.io/github/forks/AlloyTeam/curvejs?style=social)
 - [canvas-nest.js](https://github.com/hustcc/canvas-nest.js/blob/master/README-zh.md) - 一个基于 html5 canvas 绘制的网页背景效果。 ![](https://img.shields.io/github/stars/hustcc/canvas-nest.js?style=social) ![](https://img.shields.io/github/forks/hustcc/canvas-nest.js?style=social)
 - [canvas-special](https://github.com/bxm0927/) - 超多经典 Canvas 实例，动态离子背景、炫彩小球、贪吃蛇、坦克大战、是男人就下100层、心形文字等 ![](https://img.shields.io/github/stars/bxm0927/canvas-special?style=social) ![](https://img.shields.io/github/forks/bxm0927/canvas-special?style=social)
