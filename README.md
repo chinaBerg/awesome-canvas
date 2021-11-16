@@ -254,6 +254,7 @@
 
 ### 运行时
   - [skia-canvas](https://github.com/samizdatco/skia-canvas) - 关于Canvas的Node.js环境 ![](https://img.shields.io/github/stars/samizdatco/skia-canvas?style=social) ![](https://img.shields.io/github/forks/samizdatco/skia-canvas?style=social)
+  - [ExplorerCanvas](https://github.com/arv/ExplorerCanvas) - IE8以前的Canvas环境 ![](https://img.shields.io/github/stars/arv/ExplorerCanvas?style=social) ![](https://img.shields.io/github/forks/arv/ExplorerCanvas?style=social)
 
 ### 其他
   - [paper.js](http://paperjs.org/) [[在线演示](http://paperjs.org/examples/)] - 矢量图形脚本的瑞士军刀 ![](https://img.shields.io/github/stars/paperjs/paper.js?style=social) ![](https://img.shields.io/github/forks/paperjs/paper.js?style=social)
