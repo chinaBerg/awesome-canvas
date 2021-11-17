@@ -60,7 +60,7 @@
   - [wxDraw](https://bobiscool.github.io/wxDrawDocs/#/) [[在线演示](https://github.com/bobiscool/wxDraw#wxdraw%E5%88%9B%E4%BD%9C%E7%9A%84%E5%8A%A8%E7%94%BB%E6%BC%94%E7%A4%BA)] - 微信小程序2d动画库 ![](https://img.shields.io/github/stars/bobiscool/wxDraw?style=social) ![](https://img.shields.io/github/forks/bobiscool/wxDraw?style=social)
   - [atrament.js](https://github.com/jakubfiala/atrament.js) - 一个小型 JS 库，用于在 HTML Canvas 上进行漂亮的绘图和手绘 ![](https://img.shields.io/github/stars/jakubfiala/atrament.js?style=social) ![](https://img.shields.io/github/forks/jakubfiala/atrament.js?style=social)
   - [origami.js](https://raphamorim.io/origamijs/docs/) - 强大且轻量的Canvas库 ![](https://img.shields.io/github/stars/raphamorim/origami.js?style=social) ![](https://img.shields.io/github/forks/raphamorim/origami.js?style=social)
-
+  - [react-native-sketch-canvas](https://github.com/terrylinla/react-native-sketch-canvas) [[在线示例]()] - 支持在iOS和Android上触摸绘图React Native组件 ![](https://img.shields.io/github/stars/terrylinla/react-native-sketch-canvas?style=social) ![](https://img.shields.io/github/forks/terrylinla/react-native-sketch-canvas?style=social)
 ### 图表库
   - [D3](https://github.com/d3/d3) [[在线演示](https://observablehq.com/@d3/gallery)] - D3(或D3.js)是一个用于web标准可视化数据的JS库 ![](https://img.shields.io/github/stars/d3/d3?style=social) ![](https://img.shields.io/github/forks/d3/d3?style=social)
     - [awesome-d3](https://github.com/wbkd/awesome-d3) ![](https://img.shields.io/github/stars/wbkd/awesome-d3?style=social) ![](https://img.shields.io/github/forks/wbkd/awesome-d3?style=social)
