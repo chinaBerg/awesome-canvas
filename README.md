@@ -293,13 +293,13 @@
 - [CanvasStudy](https://github.com/827652549/CanvasStudy) ![](https://img.shields.io/github/stars/827652549/CanvasStudy?style=social) ![](https://img.shields.io/github/forks/827652549/CanvasStudy?style=social)
 
 ## 文章
-- [玩转「Canvas」](https://www.bianchengquan.com/article/140323.html)
-- [JS之使用Canvas绘图](https://www.jianshu.com/p/802c3bd2df34)
-- [一个少女心满满的例子带你入门 Canvas](https://juejin.cn/post/6844903490020442125)
-- [为了让她10分钟入门canvas，我熬夜写了3个小项目和这篇文章](https://juejin.cn/post/6986785259966857247)
-- [更优雅地基于 canvas 在前端画海报](https://juejin.cn/post/6844903870276206606)
-- [【🎨万物皆可动】详解Canvas路径动画](https://juejin.cn/post/6924866572972457992)
-- [产品经理：你能不能用div给我画条龙？](https://juejin.cn/post/6963476650356916254)
+- [玩转「Canvas」](https://www.bianchengquan.com/article/140323.html) - 编程圈 @糖少
+- [JS之使用Canvas绘图](https://www.jianshu.com/p/802c3bd2df34) - 简书 @LemonnYan
+- [一个少女心满满的例子带你入门 Canvas](https://juejin.cn/post/6844903490020442125) - 掘金 @sunshine小小倩
+- [为了让她10分钟入门canvas，我熬夜写了3个小项目和这篇文章](https://juejin.cn/post/6986785259966857247) - 掘金 @Sunshine_Lin
+- [更优雅地基于 canvas 在前端画海报](https://juejin.cn/post/6844903870276206606) - 掘金 @2dunn
+- [【🎨万物皆可动】详解Canvas路径动画](https://juejin.cn/post/6924866572972457992)- 掘金 @ChanningHyl
+- [产品经理：你能不能用div给我画条龙？](https://juejin.cn/post/6963476650356916254) - 掘金 @大帅老猿
 - [Canvas性能优化](https://juejin.cn/post/6844903682761310216) - 掘金 @清夜
 - [为了让你们进阶Canvas，我花7小时写了3个有趣的小游戏！！！](https://juejin.cn/post/6989003710030413838) - 掘金 @Sunshine_Lin
 - [十分钟实现灭霸打响指灰飞烟灭的效果](https://juejin.cn/post/6844903840249020429) - 掘金 @wangzy2019
