@@ -32,6 +32,7 @@
 - [插件资源网站](#插件资源网站)
 - [效果/案例](#效果案例)
 - [文档/教程](#文档教程)
+- [书籍](#书籍)
 - [文章](#文章)
 - [贡献者](#贡献者)
 - [协议](#协议)
@@ -298,6 +299,15 @@
 - [HTML5 Canvas 廖雪峰教程](https://www.liaoxuefeng.com/wiki/1022910821149312/1023022423592576)
 - [HTML5 Canvas 慕课网教程](https://www.imooc.com/wiki/html5/canvas.html)
 - [CanvasStudy](https://github.com/827652549/CanvasStudy) ![](https://img.shields.io/github/stars/827652549/CanvasStudy?style=social) ![](https://img.shields.io/github/forks/827652549/CanvasStudy?style=social)
+
+## 书籍
+- 《HTML5 Canvas开发详解》 作者: Steve Fulton,Jeff Fulton [当当链接🔗](http://product.dangdang.com/11012245144.html)
+- 《TypeScript图形渲染实战：2D架构设计与实现》 作者: 步磊峰 [当当链接🔗](http://product.dangdang.com/28499406.html)
+- 《HTML5 Canvas游戏开发实战》 作者: 张路斌 [当当链接🔗](http://e.dangdang.com/products/1900396102.html)
+- 《从0到1 HTML5 Canvas动画开发》 作者: 莫振杰 [当当链接🔗](http://product.dangdang.com/28549249.html)
+- 《HTML5 Canvas核心技术: 图形、动画与游戏开发》 作者: 美基瑞 [当当链接🔗](http://product.dangdang.com/1798930436.html)
+- 《快学熟用D3》 作者: 菲利普·K.贾纳特 [当当链接🔗](http://product.dangdang.com/28556039.html)
+- 《如何使用 Canvas 制作出炫酷的网页背景特效》 作者: sunshine小小倩 [掘金小册链接🔗](https://juejin.cn/book/6844723714655780871)
 
 ## 文章
 - [玩转「Canvas」](https://www.bianchengquan.com/article/140323.html) - 编程圈 @糖少
