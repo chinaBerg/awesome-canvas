@@ -13,16 +13,18 @@
   - [全景图](#全景图)
   - [流程图](#流程图)
   - [甘特图](#甘特图)
-  - [组织图/脑图](#组织图脑图)
+  - [组织图](#组织图)
   - [Excel/电子表格](#excel电子表格)
   - [海报/截图](#海报截图)
   - [数据处理](#数据处理)
   - [图像处理](#图像处理)
   - [画板](#画板)
   - [签名](#签名)
-  - [游戏引擎/物理引擎](#游戏引擎物理引擎)
-  - [波纹](#波纹)
-  - [粒子/路径动画](#粒子路径动画)
+  - [物理引擎](#物理引擎)
+  - [游戏引擎](#游戏引擎)
+  - [波纹动画](#波纹动画)
+  - [粒子动画](#粒子动画)
+  - [路径动画](#路径动画)
   - [二维码](#二维码)
   - [验证码](#验证码)
   - [运行时](#运行时)
@@ -61,6 +63,7 @@
   - [atrament.js](https://github.com/jakubfiala/atrament.js) - 一个小型 JS 库，用于在 HTML Canvas 上进行漂亮的绘图和手绘 ![](https://img.shields.io/github/stars/jakubfiala/atrament.js?style=social) ![](https://img.shields.io/github/forks/jakubfiala/atrament.js?style=social)
   - [origami.js](https://raphamorim.io/origamijs/docs/) - 强大且轻量的Canvas库 ![](https://img.shields.io/github/stars/raphamorim/origami.js?style=social) ![](https://img.shields.io/github/forks/raphamorim/origami.js?style=social)
   - [react-native-sketch-canvas](https://github.com/terrylinla/react-native-sketch-canvas) [[在线示例]()] - 支持在iOS和Android上触摸绘图React Native组件 ![](https://img.shields.io/github/stars/terrylinla/react-native-sketch-canvas?style=social) ![](https://img.shields.io/github/forks/terrylinla/react-native-sketch-canvas?style=social)
+
 ### 图表库
   - [D3](https://github.com/d3/d3) [[在线演示](https://observablehq.com/@d3/gallery)] - D3(或D3.js)是一个用于web标准可视化数据的JS库 ![](https://img.shields.io/github/stars/d3/d3?style=social) ![](https://img.shields.io/github/forks/d3/d3?style=social)
     - [awesome-d3](https://github.com/wbkd/awesome-d3) ![](https://img.shields.io/github/stars/wbkd/awesome-d3?style=social) ![](https://img.shields.io/github/forks/wbkd/awesome-d3?style=social)
@@ -146,7 +149,7 @@
     - [jquery.ganttView](https://github.com/thegrubbsian/jquery.ganttView) [[在线演示](http://thegrubbsian.github.io/jquery.ganttView/example/index.html)] - 一个可编辑的 jQuery 甘特图插件 ![](https://img.shields.io/github/stars/thegrubbsian/jquery.ganttView?style=social) ![](https://img.shields.io/github/forks/thegrubbsian/jquery.ganttView?style=social)
     - [wl-gantt](https://github.com/hql7/wl-gantt) - 简单易用且高度可配置的甘特图、进度计划项目管理插件 ![](https://img.shields.io/github/stars/hql7/wl-gantt?style=social) ![](https://img.shields.io/github/forks/hql7/wl-gantt?style=social)
 
-### 组织图/脑图
+### 组织图
   - [OrgChart](https://github.com/dabeng/OrgChart/blob/master/README.zh-cn.md) [[在线演示](https://dabeng.github.io/OrgChart/)] - 简单直接的组织图插件 ![](https://img.shields.io/github/stars/dabeng/OrgChart?style=social) ![](https://img.shields.io/github/forks/dabeng/OrgChart?style=social)
 
 ### Excel/电子表格
@@ -202,8 +205,10 @@
   - [signature-pad](https://github.com/thread-pond/signature-pad) [[在线示例](https://thread-pond.github.io/signature-pad/examples/require-drawn-signature.html)] - JQ插件，创建基于Canvas的签名板 ![](https://img.shields.io/github/stars/thread-pond/signature-pad?style=social) ![](https://img.shields.io/github/forks/thread-pond/signature-pad?style=social)
   - [canvas-draw](https://github.com/Louiszhai/canvas-draw) [[在线示例](http://louiszhai.github.io/res/canvasDraw/#/sign)] - 使用Canvas手写签名或绘图，支持PC、Mobile和横屏 ![](https://img.shields.io/github/stars/Louiszhai/canvas-draw?style=social) ![](https://img.shields.io/github/forks/Louiszhai/canvas-draw?style=social)
 
-### 游戏引擎/物理引擎
+### 物理引擎
   - [matter-js](https://brm.io/matter-js/) [[在线演示](https://brm.io/matter-js/demo/#mixed)] - 用于web的2D刚体物理引擎 ![](https://img.shields.io/github/stars/liabru/matter-js?style=social) ![](https://img.shields.io/github/forks/liabru/matter-js?style=social)
+
+### 游戏引擎
   - [Hilo](https://github.com/hiloteam/Hilo/blob/dev/README_ZH.md) [[在线演示](https://hiloteam.github.io/examples/index.html)] - 阿里巴巴集团开发的跨平台HTML5游戏开发解决方案 ![](https://img.shields.io/github/stars/hiloteam/Hilo?style=social) ![](https://img.shields.io/github/forks/hiloteam/Hilo?style=social)
   - [melonJS](https://melonjs.org/) [[在线演示](https://www.melongaming.com/)] - 一个全新的轻量级javascript游戏引擎 ![](https://img.shields.io/github/stars/melonjs/melonJS?style=social) ![](https://img.shields.io/github/forks/melonjs/melonJS?style=social)
   - [Babylon.js](https://github.com/BabylonJS/Babylon.js) [[在线演示](https://www.babylonjs.com/community/)] - 功能强大、美观、简单、开源、封装友好的游戏渲染引擎 ![](https://img.shields.io/github/stars/BabylonJS/Babylon.js?style=social) ![](https://img.shields.io/github/forks/BabylonJS/Babylon.js?style=social)
@@ -214,9 +219,9 @@
     - [phaser-ce](https://github.com/photonstorm/phaser-ce) - Phaser CE 是一个有趣、免费且快速的2D游戏框架，用于为桌面和移动端Web制作HTML5游戏，支持 Canvas和WebGL渲染 ![](https://img.shields.io/github/stars/photonstorm/phaser-ce?style=social) ![](https://img.shields.io/github/forks/photonstorm/phaser-ce?style=social)
     - [phaser3-project-template](https://github.com/photonstorm/phaser3-project-template) - Phaser3项目模板 ![](https://img.shields.io/github/stars/photonstorm/phaser3-project-template?style=social) ![](https://img.shields.io/github/forks/photonstorm/phaser3-project-template?style=social)
   - [taro](https://github.com/Cloud9c/taro) [[在线示例](https://www.echou.xyz/taro/examples/#Cube)] - 轻量级3D游戏引擎。 ![](https://img.shields.io/github/stars/Cloud9c/taro?style=social) ![](https://img.shields.io/github/forks/Cloud9c/taro?style=social)
-  - [turbulenz_engine](https://github.com/turbulenz/turbulenz_engine) [[在线示例](http://biz.turbulenz.com/samples)] - Turbulenz 是一个模块化的 3D 和 2D 游戏框架，用于为浏览器、桌面端和移动端设备制作 HTML5 驱动的游戏。 ![](https://img.shields.io/github/stars/turbulenz/turbulenz_engine?style=social) ![](https://img.shields.io/github/forks/turbulenz/turbulenz_engine?style=social)
+  - [turbulenz_engine](https://github.com/turbulenz/turbulenz_engine) [[在线示例](http://biz.turbulenz.com/samples)] - 模块化的3D和2D游戏框架，用于为浏览器、桌面端和移动端设备制作 HTML5 驱动的游戏。 ![](https://img.shields.io/github/stars/turbulenz/turbulenz_engine?style=social) ![](https://img.shields.io/github/forks/turbulenz/turbulenz_engine?style=social)
 
-### 波纹
+### 波纹动画
   - [wavesurfer.js](https://wavesurfer-js.org/) [[在线演示](https://wavesurfer-js.org/examples/)] - 以Web音频和Canvas的音频波纹 ![](https://img.shields.io/github/stars/katspaugh/wavesurfer.js?style=social) ![](https://img.shields.io/github/forks/katspaugh/wavesurfer.js?style=social)
   - [waveforms](https://github.com/joshwcomeau/waveforms) - 一个互动的、可探索的声波纹描绘特效 ![](https://img.shields.io/github/stars/joshwcomeau/waveforms?style=social) [[在线演示](https://pudding.cool/2018/02/waveforms/)] ![](https://img.shields.io/github/forks/joshwcomeau/waveforms?style=social)
   - [siriwave](https://github.com/kopiro/siriwave) [[在线演示](http://kopiro.github.io/siriwave/)] - JS实现的Apple® Siri 波纹特效 ![](https://img.shields.io/github/stars/kopiro/siriwave?style=social) ![](https://img.shields.io/github/forks/kopiro/siriwave?style=social)
@@ -224,11 +229,13 @@
   - [waveform-playlist](https://github.com/naomiaro/waveform-playlist) [[在线演示](http://naomiaro.github.io/waveform-playlist/)] - 具有画布波形预览的多轨网络音频编辑器和播放器。 ![](https://img.shields.io/github/stars/naomiaro/waveform-playlist?style=social) ![](https://img.shields.io/github/forks/naomiaro/waveform-playlist?style=social)
   - [wavedrom](https://github.com/wavedrom/wavedrom) [[在线演示](https://wavedrom.com/editor.html)] - 一个免费的开源在线数字时序图（波形）渲染引擎 ![](https://img.shields.io/github/stars/wavedrom/wavedrom?style=social) ![](https://img.shields.io/github/forks/wavedrom/wavedrom?style=social)
 
-### 粒子/路径动画
+### 粒子动画
   - [Proton](https://projects.jpeer.at/proton/) [[在线演示](http://drawcall.github.io/Proton/#examples)] - Javascript粒子动画库 ![](https://img.shields.io/github/stars/drawcall/Proton?style=social) ![](https://img.shields.io/github/forks/drawcall/Proton?style=social)
-  - [three.proton](https://github.com/drawcall/three.proton/) [[在线演示]()] - Three.proton 是一个神奇的 3d 粒子引擎，使用了three.js库和Proton ![](https://img.shields.io/github/stars/drawcall/three.proton?style=social) ![](https://img.shields.io/github/forks/drawcall/three.proton?style=social)
+  - [three.proton](https://github.com/drawcall/three.proton/) [[在线演示]()] - 神奇的3D粒子引擎，使用了three.js库和Proton ![](https://img.shields.io/github/stars/drawcall/three.proton?style=social) ![](https://img.shields.io/github/forks/drawcall/three.proton?style=social)
   - [bubbly-bg](https://github.com/tipsy/bubbly-bg) [[在线演示](https://tipsy.github.io/bubbly-bg/)] - 小于 1kB 的漂亮气泡背景(750 字节 gzipped) ![](https://img.shields.io/github/stars/tipsy/bubbly-bg?style=social) ![](https://img.shields.io/github/forks/tipsy/bubbly-bg?style=social)
   - [react-particle-effect-button](https://github.com/transitive-bullshit/react-particle-effect-button) [[在线演示](https://transitive-bullshit.github.io/react-particle-effect-button/)] - 基于React的爆裂粒子效果按钮 ![](https://img.shields.io/github/stars/transitive-bullshit/react-particle-effect-button?style=social) ![](https://img.shields.io/github/forks/transitive-bullshit/react-particle-effect-button?style=social)
+
+### 路径动画
   - [pasition](https://github.com/dntzhang/pasition) [[在线演示](https://dntzhang.github.io/pasition/)] - 轻量级 Path 过渡库，可以渲染到任何地方 ![](https://img.shields.io/github/stars/dntzhang/pasition?style=social) ![](https://img.shields.io/github/forks/dntzhang/pasition?style=social)
 
 ### 二维码
