@@ -82,7 +82,7 @@
     - [echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin) - Apache ECharts (incubating) 的微信小程序版本 ![](https://img.shields.io/github/stars/ecomfe/echarts-for-weixin?style=social) ![](https://img.shields.io/github/forks/ecomfe/echarts-for-weixin?style=social)
 
   - [Chart.js](https://github.com/chartjs/Chart.js) [[在线演示](https://www.chartjs.org/docs/latest/samples/bar/vertical.html)] - 给开发和设计人员的简单而灵活的js图表 ![](https://img.shields.io/github/stars/chartjs/Chart.js?style=social) ![](https://img.shields.io/github/forks/chartjs/Chart.js?style=social)
-    - [vue-chartjs](https://vue-chartjs.org/zh-cn/) [[在线演示](http://demo.vue-chartjs.org/)] - 基于Chart.js的Vue图表组件 ![]() ![]()
+    - [vue-chartjs](https://vue-chartjs.org/zh-cn/) [[在线演示](http://demo.vue-chartjs.org/)] - 基于Chart.js的Vue图表组件 ![](https://img.shields.io/github/stars/apertureless/vue-chartjs?style=social) ![](https://img.shields.io/github/forks/apertureless/vue-chartjs?style=social)
     - [react-chartjs](https://github.com/reactjs/react-chartjs) [[在线演示]()] - 基于chart.js的React图表组件 ![](https://img.shields.io/github/stars/reactjs/react-chartjs?style=social) ![](https://img.shields.io/github/forks/reactjs/react-chartjs?style=social)
     - [angular-chart.js](http://jtblin.github.io/angular-chart.js/) [[在线演示](http://jtblin.github.io/angular-chart.js/#top)] - 基于Chart.js的AngularJS响应式、漂亮的图表库 ![](https://img.shields.io/github/stars/jtblin/angular-chart.js?style=social) ![](https://img.shields.io/github/forks/jtblin/angular-chart.js?style=social)
 
