@@ -150,7 +150,7 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
     - [wl-gantt](https://github.com/hql7/wl-gantt) - An easy-to-use gantt plug-in for the vue framework. ![](https://img.shields.io/github/stars/hql7/wl-gantt?style=social) ![](https://img.shields.io/github/forks/hql7/wl-gantt?style=social)
 
 ### Organization charts
-  - [OrgChart](https://github.com/dabeng/OrgChart/blob/master/README.zh-cn.md) [[Online Demo](https://dabeng.github.io/OrgChart/)] - 简单直接的组织图插件 ![](https://img.shields.io/github/stars/dabeng/OrgChart?style=social) ![](https://img.shields.io/github/forks/dabeng/OrgChart?style=social)
+  - [OrgChart](https://github.com/dabeng/OrgChart/blob/master/README.zh-cn.md) [[Online Demo](https://dabeng.github.io/OrgChart/)] - It's a simple and direct organization chart plugin. Anytime you want a tree-like chart, you can turn to OrgChart. ![](https://img.shields.io/github/stars/dabeng/OrgChart?style=social) ![](https://img.shields.io/github/forks/dabeng/OrgChart?style=social)
 
 ### Excel and Spreadsheet
   - [x-spreadsheet](https://hondrytravis.com/x-spreadsheet-doc/) [[Online Demo](https://myliang.github.io/x-spreadsheet/)] - 基于webJavaScript(canvas)Excel表格 ![](https://img.shields.io/github/stars/myliang/x-spreadsheet?style=social) ![](https://img.shields.io/github/forks/myliang/x-spreadsheet?style=social)
