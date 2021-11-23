@@ -254,10 +254,10 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
   - [qr-image](https://github.com/alexeyten/qr-image) - 另一个二维码生成器 ![](https://img.shields.io/github/stars/alexeyten/qr-image?style=social) ![](https://img.shields.io/github/forks/alexeyten/qr-image?style=social)
 
 ### Verification code
-  - [jigsaw](https://github.com/yeild/jigsaw) [[Online Demo](https://yeild.github.io/jigsaw/demo.html)] - canvas滑动验证码 ![](https://img.shields.io/github/stars/yeild/jigsaw?style=social) ![](https://img.shields.io/github/forks/yeild/jigsaw?style=social)
-  - [jq_slideImage](https://www.jq22.com/jquery-info21017) [[Online Demo](https://www.jq22.com/yanshi21017)] - jQuery滑动拼图验证插件
-  - [jigsaw](https://www.jq22.com/jquery-info19009) [[Online Demo](https://www.jq22.com/yanshi19009)] - canvas滑动验证插件jigsaw
-  - [JQuery插件库验证码资源地址](https://www.jq22.com/search?seo=%E9%AA%8C%E8%AF%81%E7%A0%81)
+  - [jigsaw](https://github.com/yeild/jigsaw) [[Online Demo](https://yeild.github.io/jigsaw/demo.html)] - Canvas sliding verification code. ![](https://img.shields.io/github/stars/yeild/jigsaw?style=social) ![](https://img.shields.io/github/forks/yeild/jigsaw?style=social)
+  - [jq_slideImage](https://www.jq22.com/jquery-info21017) [[Online Demo](https://www.jq22.com/yanshi21017)] - JQuery Slide Puzzle verification plugin.
+  - [jigsaw](https://www.jq22.com/jquery-info19009) [[Online Demo](https://www.jq22.com/yanshi19009)] - Canvas sliding verification plugin - Jigsaw.
+  - [JQuery verification-code resources](https://www.jq22.com/search?seo=%E9%AA%8C%E8%AF%81%E7%A0%81)
 
 ### Runtime
   - [skia-canvas](https://github.com/samizdatco/skia-canvas) - 关于Canvas的Node.js环境 ![](https://img.shields.io/github/stars/samizdatco/skia-canvas?style=social) ![](https://img.shields.io/github/forks/samizdatco/skia-canvas?style=social)
