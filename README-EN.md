@@ -236,7 +236,7 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
   - [react-particle-effect-button](https://github.com/transitive-bullshit/react-particle-effect-button) [[Online Demo](https://transitive-bullshit.github.io/react-particle-effect-button/)] - Bursting particle effect buttons for React 🎉 ![](https://img.shields.io/github/stars/transitive-bullshit/react-particle-effect-button?style=social) ![](https://img.shields.io/github/forks/transitive-bullshit/react-particle-effect-button?style=social)
 
 ### Path animation
-  - [pasition](https://github.com/dntzhang/pasition) [[Online Demo](https://dntzhang.github.io/pasition/)] - 轻量级 Path 过渡库，可以渲染到任何地方 ![](https://img.shields.io/github/stars/dntzhang/pasition?style=social) ![](https://img.shields.io/github/forks/dntzhang/pasition?style=social)
+  - [pasition](https://github.com/dntzhang/pasition) [[Online Demo](https://dntzhang.github.io/pasition/)] - Path Transition with little JS code, render to anywhere. ![](https://img.shields.io/github/stars/dntzhang/pasition?style=social) ![](https://img.shields.io/github/forks/dntzhang/pasition?style=social)
 
 ### QR code
   - [qrious](https://github.com/neocotic/qrious) [[Online Demo](https://github.com/neocotic/qrious#examples)] - 使用Canvas生成二维码的纯JavaScript库 ![](https://img.shields.io/github/stars/neocotic/qrious?style=social) ![](https://img.shields.io/github/forks/neocotic/qrious?style=social)
