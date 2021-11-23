@@ -195,12 +195,12 @@
 
 ### 画板
   - [jspaint](https://github.com/1j01/jspaint) [[在线演示](https://jspaint.app/#local:5ee9c6aab5992)] - Web版的经典MS Paint翻版 ![](https://img.shields.io/github/stars/1j01/jspaint?style=social) ![](https://img.shields.io/github/forks/1j01/jspaint?style=social)
-  - [drawingboard.js](https://github.com/Leimi/drawingboard.js) [[在线演示](http://leimi.github.io/drawingboard.js/)] ![](https://img.shields.io/github/stars/Leimi/drawingboard.js?style=social) ![](https://img.shields.io/github/forks/Leimi/drawingboard.js?style=social)
-  - [drawingboard](https://github.com/vipstone/drawingboard) [[在线演示](https://vipstone.github.io/drawingboard/drawingboard/index.html)] - 高级画板—自由绘、直/虚线、箭头、所有几何图形
+  - [drawingboard.js](https://github.com/Leimi/drawingboard.js) [[在线演示](http://leimi.github.io/drawingboard.js/)] - 一个基于画布的绘图应用程序，您可以轻松集成到您的网站上。 ![](https://img.shields.io/github/stars/Leimi/drawingboard.js?style=social) ![](https://img.shields.io/github/forks/Leimi/drawingboard.js?style=social)
+  - [drawingboard](https://github.com/vipstone/drawingboard) [[在线演示](https://vipstone.github.io/drawingboard/drawingboard/index.html)] - 高级画板—自由绘、直/虚线、箭头、所有几何图形 ![](https://img.shields.io/github/stars/vipstone/drawingboard?style=social) ![](https://img.shields.io/github/forks/vipstone/drawingboard?style=social)
   - [draw](https://github.com/amoshydra/draw) [[在线演示](https://amoshydra.github.io/draw/)] - 支持钢笔和触摸的Web端Canvas ![](https://img.shields.io/github/stars/amoshydra/draw?style=social) ![](https://img.shields.io/github/forks/amoshydra/draw?style=social)
 
 ### 签名
-  - [signature_pad](https://github.com/szimek/signature_pad) [[在线演示](http://szimek.github.io/signature_pad/)] -  ![](https://img.shields.io/github/stars/szimek/signature_pad?style=social) ![](https://img.shields.io/github/forks/szimek/signature_pad?style=social)
+  - [signature_pad](https://github.com/szimek/signature_pad) [[在线演示](http://szimek.github.io/signature_pad/)] - 基于HTML5画布的平滑签名绘图 ![](https://img.shields.io/github/stars/szimek/signature_pad?style=social) ![](https://img.shields.io/github/forks/szimek/signature_pad?style=social)
     - [vue-signature-pad](https://github.com/neighborhood999/vue-signature-pad) [[在线演示](https://codesandbox.io/s/n5qjp3oqv4)] - Vue版本的签名板 ![](https://img.shields.io/github/stars/neighborhood999/vue-signature-pad?style=social) ![](https://img.shields.io/github/forks/neighborhood999/vue-signature-pad?style=social)
     - [react-signature-pad](https://github.com/blackjk3/react-signature-pad) - React版的签名板 ![](https://img.shields.io/github/stars/blackjk3/react-signature-pad?style=social) ![](https://img.shields.io/github/forks/blackjk3/react-signature-pad?style=social)
     - [angular-signature](https://github.com/legalthings/angular-signature) - Angular版的签名板 ![](https://img.shields.io/github/stars/legalthings/angular-signature?style=social) ![](https://img.shields.io/github/forks/legalthings/angular-signature?style=social)
