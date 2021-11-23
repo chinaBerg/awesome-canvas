@@ -206,7 +206,7 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
   - [canvas-draw](https://github.com/Louiszhai/canvas-draw) [[Online Demo](http://louiszhai.github.io/res/canvasDraw/#/sign)] - Handwritten signature or drawing with canvas -- supports PC and mobile terminals and horizontal screen. ![](https://img.shields.io/github/stars/Louiszhai/canvas-draw?style=social) ![](https://img.shields.io/github/forks/Louiszhai/canvas-draw?style=social)
 
 ### Physics engine
-  - [matter-js](https://brm.io/matter-js/) [[Online Demo](https://brm.io/matter-js/demo/#mixed)] - 用于web的2D刚体物理引擎 ![](https://img.shields.io/github/stars/liabru/matter-js?style=social) ![](https://img.shields.io/github/forks/liabru/matter-js?style=social)
+  - [matter-js](https://brm.io/matter-js/) [[Online Demo](https://brm.io/matter-js/demo/#mixed)] - a 2D rigid body physics engine for the web ▲● ■ ![](https://img.shields.io/github/stars/liabru/matter-js?style=social) ![](https://img.shields.io/github/forks/liabru/matter-js?style=social)
 
 ### Game engine
   - [Hilo](https://github.com/hiloteam/Hilo/blob/dev/README_ZH.md) [[Online Demo](https://hiloteam.github.io/examples/index.html)] - 阿里巴巴集团开发的跨平台HTML5游戏开发解决方案 ![](https://img.shields.io/github/stars/hiloteam/Hilo?style=social) ![](https://img.shields.io/github/forks/hiloteam/Hilo?style=social)
