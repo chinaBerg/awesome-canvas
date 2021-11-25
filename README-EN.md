@@ -270,11 +270,11 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
   - [react-native-canvas](https://github.com/iddan/react-native-canvas) - A Canvas component for React Native. ![](https://img.shields.io/github/stars/iddan/react-native-canvas?style=social) ![](https://img.shields.io/github/forks/iddan/react-native-canvas?style=social)
 
 ## Resources Website
-- [CodePen Canvas特效资源](https://codepen.io/search/pens?q=canvas)
-- [ANIMPEN 码笔网 Canvas特效资源](https://animpen.com/search/pens?q=canvas)
-- [JQuery之家 Canvas特效资源](http://www.htmleaf.com/html5/html5-canvas/)
-- [JQuery插件库 Canvas特效资源](https://www.jq22.com/search?seo=canvas)
-- [CodePen上Canvas相关的你应该关注的人](https://github.com/nucliweb/People-You-Should-Follow-on-CodePen)
+- [CodePen Canvas Resources](https://codepen.io/search/pens?q=canvas)
+- [ANIMPEN Canvas Resources](https://animpen.com/search/pens?q=canvas)
+- [JQuery之家 Canvas Resources](http://www.htmleaf.com/html5/html5-canvas/)
+- [jq22 Canvas Resources](https://www.jq22.com/search?seo=canvas)
+- [People You Should Follow on CodePen](https://github.com/nucliweb/People-You-Should-Follow-on-CodePen)
 
 ## Plugins
 - [canvas-confetti](https://github.com/catdad/canvas-confetti) [[Online Demo](https://www.kirilv.com/canvas-confetti/)] - 一个撒花/纸屑效果插件 ![](https://img.shields.io/github/stars/catdad/canvas-confetti?style=social) ![](https://img.shields.io/github/forks/catdad/canvas-confetti?style=social)
