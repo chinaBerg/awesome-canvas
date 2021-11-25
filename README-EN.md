@@ -288,16 +288,16 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
 - [shape-shifter](https://github.com/kennethcachia/shape-shifter) [[Online Demo](http://www.kennethcachia.com/shape-shifter/)] - A canvas experiment in which a set of particles is used to render different shapes based on the user's input. It supports multiple modes: text, countdown, time and icons. ![](https://img.shields.io/github/stars/kennethcachia/shape-shifter?style=social) ![](https://img.shields.io/github/forks/kennethcachia/shape-shifter?style=social)
 
 ## Documents / Courses
-- [HTML5 Canvas MDN教程](https://developer.mozilla.org/zh-CN/docs/Web/API/Canvas_API)
-- [Internet Explorer 9 开发人员指南：HTML5 Canvas](https://docs.microsoft.com/en-us/previous-versions/hh410106(v=msdn.10)?redirectedfrom=MSDN#_HTML5_canvas)
+- [Mozilla Developer Network Canvas Tutorial](https://developer.mozilla.org/zh-CN/docs/Web/API/Canvas_API)
+- [Internet Explorer 9 Guide for Developers: HTML5 canvas element](https://docs.microsoft.com/en-us/previous-versions/hh410106(v=msdn.10)?redirectedfrom=MSDN#_HTML5_canvas)
 - [Draw on the Web](https://airingursb.gitbooks.io/canvas/content/)
 - [Computer Graphics And Visualization](https://ng-tech.icu/CGDataVis-Series/#/)
-- [HTML5草案标准中的Canvas元素文档](https://html.spec.whatwg.org/multipage/canvas.html#the-canvas-element)
-- [HTML5 Canvas 基础教程](https://dev.opera.com/articles/html5-canvas-basics/)
-- [HTML5 Canvas 菜鸟教程](https://www.runoob.com/html/html5-canvas.html)
-- [HTML5 Canvas W3school教程](https://www.w3school.com.cn/html/html5_canvas.asp)
-- [HTML5 Canvas 廖雪峰教程](https://www.liaoxuefeng.com/wiki/1022910821149312/1023022423592576)
-- [HTML5 Canvas 慕课网教程](https://www.imooc.com/wiki/html5/canvas.html)
+- [The canvas element in the HTML5 draft standard](https://html.spec.whatwg.org/multipage/canvas.html#the-canvas-element)
+- [HTML5 Canvas — the Basics](https://dev.opera.com/articles/html5-canvas-basics/)
+- [HTML5 Canvas - RUNOOB Tutorial](https://www.runoob.com/html/html5-canvas.html)
+- [HTML5 Canvas - W3school Tutorial](https://www.w3school.com.cn/html/html5_canvas.asp)
+- [HTML5 Canvas - 廖雪峰 Tutorial](https://www.liaoxuefeng.com/wiki/1022910821149312/1023022423592576)
+- [HTML5 Canvas - IMOOC Tutorial](https://www.imooc.com/wiki/html5/canvas.html)
 - [CanvasStudy](https://github.com/827652549/CanvasStudy) ![](https://img.shields.io/github/stars/827652549/CanvasStudy?style=social) ![](https://img.shields.io/github/forks/827652549/CanvasStudy?style=social)
 
 ## Books
