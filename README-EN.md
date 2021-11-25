@@ -260,8 +260,8 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
   - [JQuery verification-code resources](https://www.jq22.com/search?seo=%E9%AA%8C%E8%AF%81%E7%A0%81)
 
 ### Runtime
-  - [skia-canvas](https://github.com/samizdatco/skia-canvas) - 关于Canvas的Node.js环境 ![](https://img.shields.io/github/stars/samizdatco/skia-canvas?style=social) ![](https://img.shields.io/github/forks/samizdatco/skia-canvas?style=social)
-  - [ExplorerCanvas](https://github.com/arv/ExplorerCanvas) - IE8以前的Canvas环境 ![](https://img.shields.io/github/stars/arv/ExplorerCanvas?style=social) ![](https://img.shields.io/github/forks/arv/ExplorerCanvas?style=social)
+  - [skia-canvas](https://github.com/samizdatco/skia-canvas) - A canvas environment for Node.js ![](https://img.shields.io/github/stars/samizdatco/skia-canvas?style=social) ![](https://img.shields.io/github/forks/samizdatco/skia-canvas?style=social)
+  - [ExplorerCanvas](https://github.com/arv/ExplorerCanvas) - Canvas for IE8 and older. ![](https://img.shields.io/github/stars/arv/ExplorerCanvas?style=social) ![](https://img.shields.io/github/forks/arv/ExplorerCanvas?style=social)
 
 ### Others
   - [paper.js](http://paperjs.org/) [[Online Demo](http://paperjs.org/examples/)] - 矢量图形脚本的瑞士军刀 ![](https://img.shields.io/github/stars/paperjs/paper.js?style=social) ![](https://img.shields.io/github/forks/paperjs/paper.js?style=social)
