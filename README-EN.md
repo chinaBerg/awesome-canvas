@@ -301,13 +301,13 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
 - [CanvasStudy](https://github.com/827652549/CanvasStudy) ![](https://img.shields.io/github/stars/827652549/CanvasStudy?style=social) ![](https://img.shields.io/github/forks/827652549/CanvasStudy?style=social)
 
 ## Books
-- 《HTML5 Canvas开发详解》 作者: Steve Fulton,Jeff Fulton [当当链接🔗](http://product.dangdang.com/11012245144.html)
-- 《TypeScript图形渲染实战：2D架构设计与实现》 作者: 步磊峰 [当当链接🔗](http://product.dangdang.com/28499406.html)
-- 《HTML5 Canvas游戏开发实战》 作者: 张路斌 [当当链接🔗](http://e.dangdang.com/products/1900396102.html)
-- 《从0到1 HTML5 Canvas动画开发》 作者: 莫振杰 [当当链接🔗](http://product.dangdang.com/28549249.html)
-- 《HTML5 Canvas核心技术: 图形、动画与游戏开发》 作者: 美基瑞 [当当链接🔗](http://product.dangdang.com/1798930436.html)
-- 《快学熟用D3》 作者: 菲利普·K.贾纳特 [当当链接🔗](http://product.dangdang.com/28556039.html)
-- 《如何使用 Canvas 制作出炫酷的网页背景特效》 作者: sunshine小小倩 [掘金小册链接🔗](https://juejin.cn/book/6844723714655780871)
+- 《HTML5 Canvas开发详解》 Author: Steve Fulton, Jeff Fulton [Dangdang Link🔗](http://product.dangdang.com/11012245144.html)
+- 《TypeScript图形渲染实战：2D架构设计与实现》 Author: 步磊峰 [Dangdang Link🔗](http://product.dangdang.com/28499406.html)
+- 《HTML5 Canvas游戏开发实战》 Author: 张路斌 [Dangdang Link🔗](http://e.dangdang.com/products/1900396102.html)
+- 《从0到1 HTML5 Canvas动画开发》 Author: 莫振杰 [Dangdang Link🔗](http://product.dangdang.com/28549249.html)
+- 《HTML5 Canvas核心技术: 图形、动画与游戏开发》 Author: Geary [Dangdang Link🔗](http://product.dangdang.com/1798930436.html)
+- 《D3 for impatient: interactive Graphics for Programmers and Scientists》 Author: Philipp K. Janert [Dangdang Link🔗](http://product.dangdang.com/28556039.html)
+- 《如何使用 Canvas 制作出炫酷的网页背景特效》 Author: sunshine小小倩 [Juejin Link🔗](https://juejin.cn/book/6844723714655780871)
 
 ## Articles
 - [玩转「Canvas」](https://www.bianchengquan.com/article/140323.html) - 编程圈 @糖少
