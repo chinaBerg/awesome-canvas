@@ -260,6 +260,7 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
   - [JQuery verification-code resources](https://www.jq22.com/search?seo=%E9%AA%8C%E8%AF%81%E7%A0%81)
 
 ### Runtime
+  - [node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS. ![](https://img.shields.io/github/stars/Automattic/node-canvas?style=social) ![](https://img.shields.io/github/forks/Automattic/node-canvas?style=social)
   - [skia-canvas](https://github.com/samizdatco/skia-canvas) - A canvas environment for Node.js ![](https://img.shields.io/github/stars/samizdatco/skia-canvas?style=social) ![](https://img.shields.io/github/forks/samizdatco/skia-canvas?style=social)
   - [ExplorerCanvas](https://github.com/arv/ExplorerCanvas) - Canvas for IE8 and older. ![](https://img.shields.io/github/stars/arv/ExplorerCanvas?style=social) ![](https://img.shields.io/github/forks/arv/ExplorerCanvas?style=social)
 

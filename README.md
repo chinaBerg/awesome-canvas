@@ -263,6 +263,7 @@
   - [JQuery插件库验证码资源地址](https://www.jq22.com/search?seo=%E9%AA%8C%E8%AF%81%E7%A0%81)
 
 ### 运行时
+  - [node-canvas](https://github.com/Automattic/node-canvas) - 由Cairo支持的Node.js画布实现。 ![](https://img.shields.io/github/stars/Automattic/node-canvas?style=social) ![](https://img.shields.io/github/forks/Automattic/node-canvas?style=social)
   - [skia-canvas](https://github.com/samizdatco/skia-canvas) - 关于Canvas的Node.js环境 ![](https://img.shields.io/github/stars/samizdatco/skia-canvas?style=social) ![](https://img.shields.io/github/forks/samizdatco/skia-canvas?style=social)
   - [ExplorerCanvas](https://github.com/arv/ExplorerCanvas) - IE8以前的Canvas环境 ![](https://img.shields.io/github/stars/arv/ExplorerCanvas?style=social) ![](https://img.shields.io/github/forks/arv/ExplorerCanvas?style=social)
 
