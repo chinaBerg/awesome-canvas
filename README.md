@@ -316,6 +316,7 @@
 ## 文章
 - [可视化私房菜](https://www.yuque.com/antv/blog/2021s2)
 - [体系化建设 BI 业务定制图表](https://www.yuque.com/antv/vis-library)
+- [图可视化知多少](https://www.yuque.com/antv/g6-blog) - 图可视化、图分析及图编辑知识库。
 - [G2Plot 可视化圈子](https://www.yuque.com/antv/g2plot)
 - [G2：图形、交互语法](https://www.yuque.com/antv/g2-docs)
 - [可视化小讲堂](https://www.yuque.com/antv/gvvtcf)
