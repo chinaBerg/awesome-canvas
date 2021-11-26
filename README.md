@@ -314,6 +314,11 @@
 - 《可视化入门：从 0 到 1 开发一个图表库》 作者: AntV [掘金小册链接🔗](https://juejin.cn/book/7031893648145186824)
 
 ## 文章
+- [可视化私房菜](https://www.yuque.com/antv/blog/2021s2)
+- [体系化建设 BI 业务定制图表](https://www.yuque.com/antv/vis-library)
+- [G2Plot 可视化圈子](https://www.yuque.com/antv/g2plot)
+- [G2：图形、交互语法](https://www.yuque.com/antv/g2-docs)
+- [可视化小讲堂](https://www.yuque.com/antv/gvvtcf)
 - [玩转「Canvas」](https://www.bianchengquan.com/article/140323.html) - 编程圈 @糖少
 - [JS之使用Canvas绘图](https://www.jianshu.com/p/802c3bd2df34) - 简书 @LemonnYan
 - [一个少女心满满的例子带你入门 Canvas](https://juejin.cn/post/6844903490020442125) - 掘金 @sunshine小小倩
