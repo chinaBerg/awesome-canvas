@@ -86,6 +86,11 @@
     - [react-chartjs](https://github.com/reactjs/react-chartjs) [[在线演示]()] - 基于chart.js的React图表组件 ![](https://img.shields.io/github/stars/reactjs/react-chartjs?style=social) ![](https://img.shields.io/github/forks/reactjs/react-chartjs?style=social)
     - [angular-chart.js](http://jtblin.github.io/angular-chart.js/) [[在线演示](http://jtblin.github.io/angular-chart.js/#top)] - 基于Chart.js的AngularJS响应式、漂亮的图表库 ![](https://img.shields.io/github/stars/jtblin/angular-chart.js?style=social) ![](https://img.shields.io/github/forks/jtblin/angular-chart.js?style=social)
 
+  - [AntV](https://antv.vision/)
+    - [G2](https://github.com/antvis/g2) [[在线演示](https://g2.antv.vision/zh/examples/gallery)] - 一套面向常规统计图表，以数据驱动的高交互可视化图形语法。 ![](https://img.shields.io/github/stars/antvis/g2?style=social) ![](https://img.shields.io/github/forks/antvis/g2?style=social)
+    - [G2Plot](https://github.com/antvis/g2plot) [[在线演示](https://antv-g2plot.gitee.io/zh/examples/gallery/)] - 基于图形语法（the Grammar of Graphics）的图表库。 ![](https://img.shields.io/github/forks/antvis/g2plot?style=social)
+    - [S2](https://github.com/antvis/s2) [[在线演示](https://antv-s2.gitee.io/zh/examples/gallery/)] - 数据驱动的多维分析表格。 ![](https://img.shields.io/github/stars/antvis/s2?style=social) ![](https://img.shields.io/github/forks/antvis/s2?style=social)
+
   - [highcharts](https://github.com/highcharts/highcharts) [[在线演示](https://www.highcharts.com/demo)] - 基于SVG的JavaScript图表库,支持旧浏览器 ![](https://img.shields.io/github/stars/highcharts/highcharts?style=social) ![](https://img.shields.io/github/forks/highcharts/highcharts?style=social)
 
   - [F2](https://antv-f2.gitee.io/zh/docs/tutorial/getting-started) [[在线演示](https://antv-f2.gitee.io/zh/examples/gallery)] - 一个专注于移动，开箱即用的可视化解决方案，完美支持 H5 环境同时兼容多种环境（node, 小程序，weex） ![](https://img.shields.io/github/stars/antvis/F2?style=social) ![](https://img.shields.io/github/forks/antvis/F2?style=social)
@@ -314,7 +319,7 @@
 - 《可视化入门：从 0 到 1 开发一个图表库》 作者: AntV [掘金小册链接🔗](https://juejin.cn/book/7031893648145186824)
 
 ## 文章
-- [可视化私房菜](https://www.yuque.com/antv/blog/2021s2)
+- [可视化私房菜](https://www.yuque.com/antv/blog/2021s2) - 可视化国家队的私房菜，用心烹调，以飨读者。
 - [体系化建设 BI 业务定制图表](https://www.yuque.com/antv/vis-library)
 - [图可视化知多少](https://www.yuque.com/antv/g6-blog) - 图可视化、图分析及图编辑知识库。
 - [G2Plot 可视化圈子](https://www.yuque.com/antv/g2plot)

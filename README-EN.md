@@ -83,6 +83,14 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
     - [react-chartjs](https://github.com/reactjs/react-chartjs) [[Online Demo]()] - common react charting components using chart.js ![](https://img.shields.io/github/stars/reactjs/react-chartjs?style=social) ![](https://img.shields.io/github/forks/reactjs/react-chartjs?style=social)
     - [angular-chart.js](http://jtblin.github.io/angular-chart.js/) [[Online Demo](http://jtblin.github.io/angular-chart.js/#top)] - Reactive, responsive, beautiful charts for AngularJS using Chart.js ![](https://img.shields.io/github/stars/jtblin/angular-chart.js?style=social) ![](https://img.shields.io/github/forks/jtblin/angular-chart.js?style=social)
 
+
+
+
+  - [AntV](https://antv.vision/)
+    - [G2](https://github.com/antvis/g2) [[Online Demo](https://g2.antv.vision/zh/examples/gallery)] - 📊 A highly interactive data-driven visualization grammar for statistical charts. ![](https://img.shields.io/github/stars/antvis/g2?style=social) ![](https://img.shields.io/github/forks/antvis/g2?style=social)
+    - [G2Plot](https://github.com/antvis/g2plot) [[Online Demo](https://g2plot.antv.vision/zh/examples/gallery)] - 🍡 An interactive and responsive charting library. ![](https://img.shields.io/github/stars/antvis/g2plot?style=social) ![](https://img.shields.io/github/forks/antvis/g2plot?style=social)
+    - [S2](https://github.com/antvis/s2) [[Online Demo](https://s2.antv.vision/zh/examples/gallery)] - ⚡️ Practical analytical Table rendering core lib. ![](https://img.shields.io/github/stars/antvis/s2?style=social) ![](https://img.shields.io/github/forks/antvis/s2?style=social)
+
   - [highcharts](https://github.com/highcharts/highcharts) [[Online Demo](https://www.highcharts.com/demo)] - Highcharts JS, the JavaScript charting framework. ![](https://img.shields.io/github/stars/highcharts/highcharts?style=social) ![](https://img.shields.io/github/forks/highcharts/highcharts?style=social)
 
   - [F2](https://antv-f2.gitee.io/zh/docs/tutorial/getting-started) [[Online Demo](https://antv-f2.gitee.io/zh/examples/gallery)] - 📱📈An elegant, interactive and flexible charting library for mobile. ![](https://img.shields.io/github/stars/antvis/F2?style=social) ![](https://img.shields.io/github/forks/antvis/F2?style=social)
@@ -311,7 +319,7 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
 - 《可视化入门：从 0 到 1 开发一个图表库》 Author: AntV [Juejin Link🔗](https://juejin.cn/book/7031893648145186824)
 
 ## Articles
-- [可视化私房菜](https://www.yuque.com/antv/blog/2021s2)
+- [可视化私房菜](https://www.yuque.com/antv/blog/2021s2) - 可视化国家队的私房菜，用心烹调，以飨读者。
 - [体系化建设 BI 业务定制图表](https://www.yuque.com/antv/vis-library)
 - [图可视化知多少](https://www.yuque.com/antv/g6-blog) - 图可视化、图分析及图编辑知识库。
 - [G2Plot 可视化圈子](https://www.yuque.com/antv/g2plot)
