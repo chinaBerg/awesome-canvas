@@ -308,6 +308,7 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
 - 《HTML5 Canvas核心技术: 图形、动画与游戏开发》 Author: Geary [Dangdang Link🔗](http://product.dangdang.com/1798930436.html)
 - 《D3 for impatient: interactive Graphics for Programmers and Scientists》 Author: Philipp K. Janert [Dangdang Link🔗](http://product.dangdang.com/28556039.html)
 - 《如何使用 Canvas 制作出炫酷的网页背景特效》 Author: sunshine小小倩 [Juejin Link🔗](https://juejin.cn/book/6844723714655780871)
+- 《可视化入门：从 0 到 1 开发一个图表库》 Author: AntV [Juejin Link🔗](https://juejin.cn/book/7031893648145186824)
 
 ## Articles
 - [玩转「Canvas」](https://www.bianchengquan.com/article/140323.html) - 编程圈 @糖少

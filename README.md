@@ -311,6 +311,7 @@
 - 《HTML5 Canvas核心技术: 图形、动画与游戏开发》 作者: 美基瑞 [当当链接🔗](http://product.dangdang.com/1798930436.html)
 - 《快学熟用D3》 作者: 菲利普·K.贾纳特 [当当链接🔗](http://product.dangdang.com/28556039.html)
 - 《如何使用 Canvas 制作出炫酷的网页背景特效》 作者: sunshine小小倩 [掘金小册链接🔗](https://juejin.cn/book/6844723714655780871)
+- 《可视化入门：从 0 到 1 开发一个图表库》 作者: AntV [掘金小册链接🔗](https://juejin.cn/book/7031893648145186824)
 
 ## 文章
 - [玩转「Canvas」](https://www.bianchengquan.com/article/140323.html) - 编程圈 @糖少
