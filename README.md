@@ -89,6 +89,7 @@
   - [AntV](https://antv.gitee.io/zh) - 蚂蚁集团全新一代数据可视化解决方案
     - [G2](https://github.com/antvis/g2) [[在线演示](https://g2.antv.vision/zh/examples/gallery)] - 一套面向常规统计图表，以数据驱动的高交互可视化图形语法。 ![](https://img.shields.io/github/stars/antvis/g2?style=social) ![](https://img.shields.io/github/forks/antvis/g2?style=social)
     - [G6](https://antv-g6.gitee.io/zh/) [[在线演示](https://antv-g6.gitee.io/zh/examples/gallery)] - ♾ G6 是一个简单、易用、完备的图可视化引擎 ![](https://img.shields.io/github/stars/antvis/g6?style=social) ![](https://img.shields.io/github/forks/antvis/g6?style=social)
+    - [X6](https://antv-x6.gitee.io/zh/) [[在线演示](https://antv-x6.gitee.io/zh/examples/gallery)] - 🚀 X6 是 AntV 旗下的图编辑引擎。 ![](https://img.shields.io/github/stars/antvis/x6?style=social) ![](https://img.shields.io/github/forks/antvis/x6?style=social)
     - [G2Plot](https://github.com/antvis/g2plot) [[在线演示](https://antv-g2plot.gitee.io/zh/examples/gallery/)] - 基于图形语法（the Grammar of Graphics）的图表库。 ![](https://img.shields.io/github/forks/antvis/g2plot?style=social)
     - [S2](https://github.com/antvis/s2) [[在线演示](https://antv-s2.gitee.io/zh/examples/gallery/)] - 数据驱动的多维分析表格。 ![](https://img.shields.io/github/stars/antvis/s2?style=social) ![](https://img.shields.io/github/forks/antvis/s2?style=social)
 
