@@ -86,7 +86,7 @@
     - [react-chartjs](https://github.com/reactjs/react-chartjs) [[在线演示]()] - 基于chart.js的React图表组件 ![](https://img.shields.io/github/stars/reactjs/react-chartjs?style=social) ![](https://img.shields.io/github/forks/reactjs/react-chartjs?style=social)
     - [angular-chart.js](http://jtblin.github.io/angular-chart.js/) [[在线演示](http://jtblin.github.io/angular-chart.js/#top)] - 基于Chart.js的AngularJS响应式、漂亮的图表库 ![](https://img.shields.io/github/stars/jtblin/angular-chart.js?style=social) ![](https://img.shields.io/github/forks/jtblin/angular-chart.js?style=social)
 
-  - [AntV](https://antv.vision/)
+  - [AntV](https://antv.gitee.io/zh) - 蚂蚁集团全新一代数据可视化解决方案
     - [G2](https://github.com/antvis/g2) [[在线演示](https://g2.antv.vision/zh/examples/gallery)] - 一套面向常规统计图表，以数据驱动的高交互可视化图形语法。 ![](https://img.shields.io/github/stars/antvis/g2?style=social) ![](https://img.shields.io/github/forks/antvis/g2?style=social)
     - [G2Plot](https://github.com/antvis/g2plot) [[在线演示](https://antv-g2plot.gitee.io/zh/examples/gallery/)] - 基于图形语法（the Grammar of Graphics）的图表库。 ![](https://img.shields.io/github/forks/antvis/g2plot?style=social)
     - [S2](https://github.com/antvis/s2) [[在线演示](https://antv-s2.gitee.io/zh/examples/gallery/)] - 数据驱动的多维分析表格。 ![](https://img.shields.io/github/stars/antvis/s2?style=social) ![](https://img.shields.io/github/forks/antvis/s2?style=social)
