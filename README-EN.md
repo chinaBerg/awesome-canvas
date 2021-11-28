@@ -88,6 +88,7 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
 
   - [AntV](https://antv.vision/) - A new generation of data visualization solution from Ant Group.
     - [G2](https://github.com/antvis/g2) [[Online Demo](https://g2.antv.vision/zh/examples/gallery)] - 📊 A highly interactive data-driven visualization grammar for statistical charts. ![](https://img.shields.io/github/stars/antvis/g2?style=social) ![](https://img.shields.io/github/forks/antvis/g2?style=social)
+    - [G6](https://g6.antv.vision/zh) [[Online Demo](https://g6.antv.vision/zh/examples/gallery)] - ♾ A Graph Visualization Framework in JavaScript. ![](https://img.shields.io/github/stars/antvis/g6?style=social) ![](https://img.shields.io/github/forks/antvis/g6?style=social)
     - [G2Plot](https://github.com/antvis/g2plot) [[Online Demo](https://g2plot.antv.vision/zh/examples/gallery)] - 🍡 An interactive and responsive charting library. ![](https://img.shields.io/github/stars/antvis/g2plot?style=social) ![](https://img.shields.io/github/forks/antvis/g2plot?style=social)
     - [S2](https://github.com/antvis/s2) [[Online Demo](https://s2.antv.vision/zh/examples/gallery)] - ⚡️ Practical analytical Table rendering core lib. ![](https://img.shields.io/github/stars/antvis/s2?style=social) ![](https://img.shields.io/github/forks/antvis/s2?style=social)
 
