@@ -311,6 +311,11 @@
 - [HTML5 Canvas 廖雪峰教程](https://www.liaoxuefeng.com/wiki/1022910821149312/1023022423592576)
 - [HTML5 Canvas 慕课网教程](https://www.imooc.com/wiki/html5/canvas.html)
 - [CanvasStudy](https://github.com/827652549/CanvasStudy) ![](https://img.shields.io/github/stars/827652549/CanvasStudy?style=social) ![](https://img.shields.io/github/forks/827652549/CanvasStudy?style=social)
+- [AntV Graphin可视化解决方案]
+  - [图数据库解决方案](https://graphin.antv.vision/solution/database/graph-database)
+  - [知识图谱解决方案](https://graphin.antv.vision/solution/knowledge-graph)
+  - [网络安全解决方案](https://graphin.antv.vision/solution/security)
+  - [企业风控解决方案](https://graphin.antv.vision/solution/enterprise/enterprise-risk-control)
 
 ## 书籍
 - 《HTML5 Canvas开发详解》 作者: Steve Fulton,Jeff Fulton [当当链接🔗](http://product.dangdang.com/11012245144.html)

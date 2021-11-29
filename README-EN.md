@@ -312,6 +312,11 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
 - [HTML5 Canvas - 廖雪峰 Tutorial](https://www.liaoxuefeng.com/wiki/1022910821149312/1023022423592576)
 - [HTML5 Canvas - IMOOC Tutorial](https://www.imooc.com/wiki/html5/canvas.html)
 - [CanvasStudy](https://github.com/827652549/CanvasStudy) ![](https://img.shields.io/github/stars/827652549/CanvasStudy?style=social) ![](https://img.shields.io/github/forks/827652549/CanvasStudy?style=social)
+- [AntV Graphin Visualization Solutions]
+  - [Graph Database White Paper](https://graphin.antv.vision/solution/database/graph-database)
+  - [Knowledge Graph White Paper](https://graphin.antv.vision/solution/knowledge-graph)
+  - [Network Security White Paper](https://graphin.antv.vision/solution/security)
+  - [Enterprise Risk Control White Paper](https://graphin.antv.vision/solution/enterprise/enterprise-risk-control)
 
 ## Books
 - 《HTML5 Canvas开发详解》 Author: Steve Fulton, Jeff Fulton [Dangdang Link🔗](http://product.dangdang.com/11012245144.html)
