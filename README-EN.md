@@ -83,9 +83,6 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
     - [react-chartjs](https://github.com/reactjs/react-chartjs) [[Online Demo]()] - common react charting components using chart.js ![](https://img.shields.io/github/stars/reactjs/react-chartjs?style=social) ![](https://img.shields.io/github/forks/reactjs/react-chartjs?style=social)
     - [angular-chart.js](http://jtblin.github.io/angular-chart.js/) [[Online Demo](http://jtblin.github.io/angular-chart.js/#top)] - Reactive, responsive, beautiful charts for AngularJS using Chart.js ![](https://img.shields.io/github/stars/jtblin/angular-chart.js?style=social) ![](https://img.shields.io/github/forks/jtblin/angular-chart.js?style=social)
 
-
-
-
   - [AntV](https://antv.vision/) - A new generation of data visualization solution from Ant Group.
     - [G2](https://github.com/antvis/g2) [[Online Demo](https://g2.antv.vision/zh/examples/gallery)] - 📊 A highly interactive data-driven visualization grammar for statistical charts. ![](https://img.shields.io/github/stars/antvis/g2?style=social) ![](https://img.shields.io/github/forks/antvis/g2?style=social)
     - [G6](https://g6.antv.vision/zh) [[Online Demo](https://g6.antv.vision/zh/examples/gallery)] - ♾ A Graph Visualization Framework in JavaScript. ![](https://img.shields.io/github/stars/antvis/g6?style=social) ![](https://img.shields.io/github/forks/antvis/g6?style=social)
@@ -95,6 +92,7 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
     - [L7](https://l7.antv.vision/zh) [[Online Demo](https://l7.antv.vision/en/examples/gallery)] - 🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis framework which relies on Mapbox GL or AMap to render basemaps. ![](https://img.shields.io/github/stars/antvis/l7?style=social) ![](https://img.shields.io/github/forks/antvis/l7?style=social)
     - [G2Plot](https://github.com/antvis/g2plot) [[Online Demo](https://g2plot.antv.vision/zh/examples/gallery)] - 🍡 An interactive and responsive charting library. ![](https://img.shields.io/github/stars/antvis/g2plot?style=social) ![](https://img.shields.io/github/forks/antvis/g2plot?style=social)
     - [Graphin](https://graphin.antv.vision/) [[Online Demo](https://graphin.antv.vision/components/interaction/context-menu)] - A React toolkit for graph visualization based on G6. ![](https://img.shields.io/github/stars/antvis/graphin?style=social) ![](https://img.shields.io/github/forks/antvis/graphin?style=social)
+    - [XFlow](https://xflow.antv.vision/en-US) [[Online Demo](https://xflow.antv.vision/en-US/docs/tutorial/intro/getting-started)] - Based on X6 & React, professional solution for graph editing engine. ![](https://img.shields.io/github/stars/antvis/XFlow?style=social) ![](https://img.shields.io/github/forks/antvis/XFlow?style=social)
 
   - [highcharts](https://github.com/highcharts/highcharts) [[Online Demo](https://www.highcharts.com/demo)] - Highcharts JS, the JavaScript charting framework. ![](https://img.shields.io/github/stars/highcharts/highcharts?style=social) ![](https://img.shields.io/github/forks/highcharts/highcharts?style=social)
 
