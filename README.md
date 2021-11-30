@@ -324,14 +324,14 @@
   - [企业风控解决方案](https://graphin.antv.vision/solution/enterprise/enterprise-risk-control)
 - [图可视化美学](https://www.researchgate.net/publication/220795329_The_Aesthetics_of_Graph_Visualization) @Chris Bennett, Jody Ryall, Leo Spalteholz and Amy Gooch1
 ## 书籍
-- 《HTML5 Canvas开发详解》 作者: Steve Fulton,Jeff Fulton [当当链接🔗](http://product.dangdang.com/11012245144.html)
-- 《TypeScript图形渲染实战：2D架构设计与实现》 作者: 步磊峰 [当当链接🔗](http://product.dangdang.com/28499406.html)
-- 《HTML5 Canvas游戏开发实战》 作者: 张路斌 [当当链接🔗](http://e.dangdang.com/products/1900396102.html)
-- 《从0到1 HTML5 Canvas动画开发》 作者: 莫振杰 [当当链接🔗](http://product.dangdang.com/28549249.html)
-- 《HTML5 Canvas核心技术: 图形、动画与游戏开发》 作者: 美基瑞 [当当链接🔗](http://product.dangdang.com/1798930436.html)
-- 《快学熟用D3》 作者: 菲利普·K.贾纳特 [当当链接🔗](http://product.dangdang.com/28556039.html)
-- 《如何使用 Canvas 制作出炫酷的网页背景特效》 作者: sunshine小小倩 [掘金小册链接🔗](https://juejin.cn/book/6844723714655780871)
-- 《可视化入门：从 0 到 1 开发一个图表库》 作者: AntV [掘金小册链接🔗](https://juejin.cn/book/7031893648145186824)
+- 《[HTML5 Canvas开发详解](http://product.dangdang.com/11012245144.html)》 作者: Steve Fulton,Jeff Fulton [链接地址🔗](http://product.dangdang.com/11012245144.html)
+- 《[TypeScript图形渲染实战：2D架构设计与实现](http://product.dangdang.com/28499406.html)》 作者: 步磊峰 [链接地址🔗](http://product.dangdang.com/28499406.html)
+- 《[HTML5 Canvas游戏开发实战](http://e.dangdang.com/products/1900396102.html)》 作者: 张路斌 [链接地址🔗](http://e.dangdang.com/products/1900396102.html)
+- 《[从0到1 HTML5 Canvas动画开发](http://product.dangdang.com/28549249.html)》 作者: 莫振杰 [链接地址🔗](http://product.dangdang.com/28549249.html)
+- 《[HTML5 Canvas核心技术: 图形、动画与游戏开发](http://product.dangdang.com/1798930436.html)》 作者: 美基瑞 [链接地址🔗](http://product.dangdang.com/1798930436.html)
+- 《[快学熟用D3](http://product.dangdang.com/28556039.html)》 作者: 菲利普·K.贾纳特 [链接地址🔗](http://product.dangdang.com/28556039.html)
+- 《[如何使用 Canvas 制作出炫酷的网页背景特效](https://juejin.cn/book/6844723714655780871)》 作者: sunshine小小倩 [链接地址🔗](https://juejin.cn/book/6844723714655780871)
+- 《[可视化入门：从 0 到 1 开发一个图表库](https://juejin.cn/book/7031893648145186824)》 作者: AntV [链接地址🔗](https://juejin.cn/book/7031893648145186824)
 - 《[图分析与可视化](https://book.douban.com/subject/26756024/)》 作者: 理查德·布莱斯 / 大卫·琼克 [链接地址🔗](https://book.douban.com/subject/26756024/)
 - 《[视觉繁美 - 信息可视化方法与案例解析](https://book.douban.com/subject/25665238/)》 作者: Manuel Lima [链接地址🔗](https://book.douban.com/subject/25665238/)
 
