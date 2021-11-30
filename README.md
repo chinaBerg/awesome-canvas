@@ -175,6 +175,8 @@
   - [vue-g6-editor](https://github.com/caoyu48/vue-g6-editor) [[在线示例](https://github.com/caoyu48/vue-g6-editor/blob/master/1.gif)] - 基于 G6 和 Vue 的可视化编辑器。 ![](https://img.shields.io/github/stars/caoyu48/vue-g6-editor?style=social) ![](https://img.shields.io/github/forks/caoyu48/vue-g6-editor?style=social)
   - [X-Flowchart-Vue](https://github.com/OXOYO/X-Flowchart-Vue) [[在线演示](http://oxoyo.co/X-Flowchart-Vue/)] - 基于G6和Vue的可视化图形编辑器 ![](https://img.shields.io/github/stars/OXOYO/X-Flowchart-Vue?style=social) ![](https://img.shields.io/github/forks/OXOYO/X-Flowchart-Vue?style=social)
   - [web-pdm](https://erd.zyking.xyz/) [[在线示例](https://erd.zyking.xyz/demo)] - 用G6做的ER图工具，最终目标是想做成在线版的powerdesigner. ![](https://img.shields.io/github/stars/lusess123/web-pdm?style=social) ![](https://img.shields.io/github/forks/lusess123/web-pdm?style=social)
+  - [ng-antv](https://github.com/dappsnation/ng-antv) - 基于G6和Angular实现的编辑器。 ![](https://img.shields.io/github/stars/dappsnation/ng-antv?style=social) ![](https://img.shields.io/github/forks/dappsnation/ng-antv?style=social)
+  - [welabx-g6](https://github.com/claudewowo/welabx-g6) [[在线示例](https://claudewowo.github.io/welabx-g6/dist/?_blank)] - 基于G6和Vue的流程图编辑器。 ![](https://img.shields.io/github/stars/claudewowo/welabx-g6?style=social) ![](https://img.shields.io/github/forks/claudewowo/welabx-g6?style=social)
 
 ### Excel/电子表格
   - [x-spreadsheet](https://github.com/myliang/x-spreadsheet) [[在线演示](https://myliang.github.io/x-spreadsheet/)] - 基于webJavaScript(canvas)Excel表格 ![](https://img.shields.io/github/stars/myliang/x-spreadsheet?style=social) ![](https://img.shields.io/github/forks/myliang/x-spreadsheet?style=social)
