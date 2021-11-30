@@ -332,6 +332,7 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
 - 《[可视化入门：从 0 到 1 开发一个图表库](https://juejin.cn/book/7031893648145186824)》 Author: AntV [Link🔗](https://juejin.cn/book/7031893648145186824)
 - 《[Graph Analysis and Visualization](https://book.douban.com/subject/26756024/)》 Author: Richard Brath  / David Jonker [Link🔗](https://book.douban.com/subject/26756024/)
 - 《[Visual Complexity: Mapping Patterns of Information](https://book.douban.com/subject/25665238/)》 Author: Manuel Lima [Link🔗](https://book.douban.com/subject/25665238/)
+- 《[Data visualization](https://book.douban.com/subject/25760272/)》 Author: 陈为 / 沈则潜 [Link🔗](https://book.douban.com/subject/25760272/)
 
 ## Articles
 - [可视化私房菜](https://www.yuque.com/antv/blog/2021s2) - 可视化国家队的私房菜，用心烹调，以飨读者。
