@@ -319,6 +319,7 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
   - [Knowledge Graph White Paper](https://graphin.antv.vision/solution/knowledge-graph)
   - [Network Security White Paper](https://graphin.antv.vision/solution/security)
   - [Enterprise Risk Control White Paper](https://graphin.antv.vision/solution/enterprise/enterprise-risk-control)
+- [The Aesthetics of Graph Visualization](https://www.researchgate.net/publication/220795329_The_Aesthetics_of_Graph_Visualization)  @Chris Bennett, Jody Ryall, Leo Spalteholz and Amy Gooch1
 
 ## Books
 - 《HTML5 Canvas开发详解》 Author: Steve Fulton, Jeff Fulton [Dangdang Link🔗](http://product.dangdang.com/11012245144.html)
@@ -329,6 +330,8 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
 - 《D3 for impatient: interactive Graphics for Programmers and Scientists》 Author: Philipp K. Janert [Dangdang Link🔗](http://product.dangdang.com/28556039.html)
 - 《如何使用 Canvas 制作出炫酷的网页背景特效》 Author: sunshine小小倩 [Juejin Link🔗](https://juejin.cn/book/6844723714655780871)
 - 《可视化入门：从 0 到 1 开发一个图表库》 Author: AntV [Juejin Link🔗](https://juejin.cn/book/7031893648145186824)
+- 《[Graph Analysis and Visualization](https://book.douban.com/subject/26756024/)》 Author: Richard Brath  / David Jonker [Link🔗](https://book.douban.com/subject/26756024/)
+- 《[Visual Complexity: Mapping Patterns of Information](https://book.douban.com/subject/25665238/)》 Author: Manuel Lima [Link🔗](https://book.douban.com/subject/25665238/)
 
 ## Articles
 - [可视化私房菜](https://www.yuque.com/antv/blog/2021s2) - 可视化国家队的私房菜，用心烹调，以飨读者。

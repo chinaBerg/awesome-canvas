@@ -322,7 +322,7 @@
   - [知识图谱解决方案](https://graphin.antv.vision/solution/knowledge-graph)
   - [网络安全解决方案](https://graphin.antv.vision/solution/security)
   - [企业风控解决方案](https://graphin.antv.vision/solution/enterprise/enterprise-risk-control)
-
+- [图可视化美学](https://www.researchgate.net/publication/220795329_The_Aesthetics_of_Graph_Visualization) @Chris Bennett, Jody Ryall, Leo Spalteholz and Amy Gooch1
 ## 书籍
 - 《HTML5 Canvas开发详解》 作者: Steve Fulton,Jeff Fulton [当当链接🔗](http://product.dangdang.com/11012245144.html)
 - 《TypeScript图形渲染实战：2D架构设计与实现》 作者: 步磊峰 [当当链接🔗](http://product.dangdang.com/28499406.html)
@@ -332,6 +332,8 @@
 - 《快学熟用D3》 作者: 菲利普·K.贾纳特 [当当链接🔗](http://product.dangdang.com/28556039.html)
 - 《如何使用 Canvas 制作出炫酷的网页背景特效》 作者: sunshine小小倩 [掘金小册链接🔗](https://juejin.cn/book/6844723714655780871)
 - 《可视化入门：从 0 到 1 开发一个图表库》 作者: AntV [掘金小册链接🔗](https://juejin.cn/book/7031893648145186824)
+- 《[图分析与可视化](https://book.douban.com/subject/26756024/)》 作者: 理查德·布莱斯 / 大卫·琼克 [链接地址🔗](https://book.douban.com/subject/26756024/)
+- 《[视觉繁美 - 信息可视化方法与案例解析](https://book.douban.com/subject/25665238/)》 作者: Manuel Lima [链接地址🔗](https://book.douban.com/subject/25665238/)
 
 ## 文章
 - [可视化私房菜](https://www.yuque.com/antv/blog/2021s2) - 可视化国家队的私房菜，用心烹调，以飨读者。
