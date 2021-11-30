@@ -152,7 +152,6 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
   - [mermaid](https://github.com/mermaid-js/mermaid) [[Online Demo](https://mermaidjs.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggVERcbiAgICBBW0hhcmRdIC0tPnxUZXh0fCBCKFJvdW5kKVxuICAgIEIgLS0-IEN7RGVjaXNpb259XG4gICAgQyAtLT58T25lfCBEW1Jlc3VsdCAxXVxuICAgIEMgLS0-fFR3b3wgRVtSZXN1bHQgMl0iLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCJ9fQ)] - Generation of diagram and flowchart from text in a similar manner as markdown. ![](https://img.shields.io/github/stars/mermaid-js/mermaid?style=social) ![](https://img.shields.io/github/forks/mermaid-js/mermaid?style=social)
   - [wireflow](https://github.com/vanila-io/wireflow) [[Online Demo](https://app.wireflow.co/)] - Wireflow - user flow chart real-time collaborative tool. ![](https://img.shields.io/github/stars/vanila-io/wireflow?style=social) ![](https://img.shields.io/github/forks/vanila-io/wireflow?style=social)
   - [butterfly](https://github.com/alibaba/butterfly) [[Online Demo](https://butterfly-dag.gitee.io/butterfly-dag/demo/analysis)] - 🦋Butterfly，A JavaScript/React/Vue2 Diagramming library which concentrate on flow layout field.  ![](https://img.shields.io/github/stars/alibaba/butterfly?style=social) ![](https://img.shields.io/github/forks/alibaba/butterfly?style=social)
-  - [X-Flowchart-Vue](https://github.com/OXOYO/X-Flowchart-Vue) [[Online Demo](http://oxoyo.co/X-Flowchart-Vue/)] - A visual graph editor based on G6 and Vue. ![](https://img.shields.io/github/stars/OXOYO/X-Flowchart-Vue?style=social) ![](https://img.shields.io/github/forks/OXOYO/X-Flowchart-Vue?style=social)
 
 ### Gantt
   - The following Gantt chart is not implemented based on canvas:
@@ -170,6 +169,8 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
 
 ### Visual Graph Editing
   - [Workflow Designer](https://github.com/guozhaolong/wfd) [[Online Demo](https://guozhaolong.github.io/wfd/)] - flowable workflow designer base on @antv/g6。 ![](https://img.shields.io/github/stars/guozhaolong/wfd?style=social) ![](https://img.shields.io/github/forks/guozhaolong/wfd?style=social)
+  - [vue-g6-editor](https://github.com/caoyu48/vue-g6-editor) [[Online Demo](https://github.com/caoyu48/vue-g6-editor/blob/master/1.gif)] - Visual graph editor based on vue ande g6. ![](https://img.shields.io/github/stars/caoyu48/vue-g6-editor?style=social) ![](https://img.shields.io/github/forks/caoyu48/vue-g6-editor?style=social)
+  - [X-Flowchart-Vue](https://github.com/OXOYO/X-Flowchart-Vue) [[Online Demo](http://oxoyo.co/X-Flowchart-Vue/)] - A visual graph editor based on G6 and Vue. ![](https://img.shields.io/github/stars/OXOYO/X-Flowchart-Vue?style=social) ![](https://img.shields.io/github/forks/OXOYO/X-Flowchart-Vue?style=social)
 
 ### Excel and Spreadsheet
   - [x-spreadsheet](https://github.com/myliang/x-spreadsheet) [[Online Demo](https://myliang.github.io/x-spreadsheet/)] - A web-based JavaScript（canvas） spreadsheet. ![](https://img.shields.io/github/stars/myliang/x-spreadsheet?style=social) ![](https://img.shields.io/github/forks/myliang/x-spreadsheet?style=social)
