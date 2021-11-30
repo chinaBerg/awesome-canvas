@@ -174,6 +174,7 @@
   - [Workflow Designer](https://github.com/guozhaolong/wfd) [[在线示例](https://guozhaolong.github.io/wfd/)] - 基于G6和React的可视化流程编辑器。 ![](https://img.shields.io/github/stars/guozhaolong/wfd?style=social) ![](https://img.shields.io/github/forks/guozhaolong/wfd?style=social)
   - [vue-g6-editor](https://github.com/caoyu48/vue-g6-editor) [[在线示例](https://github.com/caoyu48/vue-g6-editor/blob/master/1.gif)] - 基于 G6 和 Vue 的可视化编辑器。 ![](https://img.shields.io/github/stars/caoyu48/vue-g6-editor?style=social) ![](https://img.shields.io/github/forks/caoyu48/vue-g6-editor?style=social)
   - [X-Flowchart-Vue](https://github.com/OXOYO/X-Flowchart-Vue) [[在线演示](http://oxoyo.co/X-Flowchart-Vue/)] - 基于G6和Vue的可视化图形编辑器 ![](https://img.shields.io/github/stars/OXOYO/X-Flowchart-Vue?style=social) ![](https://img.shields.io/github/forks/OXOYO/X-Flowchart-Vue?style=social)
+  - [web-pdm](https://erd.zyking.xyz/) [[在线示例](https://erd.zyking.xyz/demo)] - 用G6做的ER图工具，最终目标是想做成在线版的powerdesigner. ![](https://img.shields.io/github/stars/lusess123/web-pdm?style=social) ![](https://img.shields.io/github/forks/lusess123/web-pdm?style=social)
 
 ### Excel/电子表格
   - [x-spreadsheet](https://github.com/myliang/x-spreadsheet) [[在线演示](https://myliang.github.io/x-spreadsheet/)] - 基于webJavaScript(canvas)Excel表格 ![](https://img.shields.io/github/stars/myliang/x-spreadsheet?style=social) ![](https://img.shields.io/github/forks/myliang/x-spreadsheet?style=social)
