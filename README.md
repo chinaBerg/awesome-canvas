@@ -16,6 +16,7 @@
   - [流程图](#流程图)
   - [甘特图](#甘特图)
   - [组织图](#组织图)
+  - [可视化图编辑](#可视化图编辑)
   - [Excel/电子表格](#excel电子表格)
   - [海报/截图](#海报截图)
   - [数据处理](#数据处理)
@@ -169,6 +170,9 @@
 
 ### 组织图
   - [OrgChart](https://github.com/dabeng/OrgChart/blob/master/README.zh-cn.md) [[在线演示](https://dabeng.github.io/OrgChart/)] - 简单直接的组织图插件 ![](https://img.shields.io/github/stars/dabeng/OrgChart?style=social) ![](https://img.shields.io/github/forks/dabeng/OrgChart?style=social)
+
+### 可视化图编辑
+  - [Workflow Designer](https://github.com/guozhaolong/wfd) [[在线示例](https://guozhaolong.github.io/wfd/)] - 基于G6和React的可视化流程编辑器。 ![](https://img.shields.io/github/stars/guozhaolong/wfd?style=social) ![](https://img.shields.io/github/forks/guozhaolong/wfd?style=social)
 
 ### Excel/电子表格
   - [x-spreadsheet](https://github.com/myliang/x-spreadsheet) [[在线演示](https://myliang.github.io/x-spreadsheet/)] - 基于webJavaScript(canvas)Excel表格 ![](https://img.shields.io/github/stars/myliang/x-spreadsheet?style=social) ![](https://img.shields.io/github/forks/myliang/x-spreadsheet?style=social)

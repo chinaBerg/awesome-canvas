@@ -13,6 +13,7 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
   - [Flowchart](#flowchart)
   - [Gantt](#gantt)
   - [Organization charts](#organization-charts)
+  - [Visual Graph Editing](#visual-graph-editing)
   - [Excel and Spreadsheet](#excel-and-spreadsheet)
   - [Poster and Screenshot](#poster-and-screenshot)
   - [Data processing](#data-processing)
@@ -166,6 +167,9 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
 
 ### Organization charts
   - [OrgChart](https://github.com/dabeng/OrgChart/blob/master/README.zh-cn.md) [[Online Demo](https://dabeng.github.io/OrgChart/)] - It's a simple and direct organization chart plugin. Anytime you want a tree-like chart, you can turn to OrgChart. ![](https://img.shields.io/github/stars/dabeng/OrgChart?style=social) ![](https://img.shields.io/github/forks/dabeng/OrgChart?style=social)
+
+### Visual Graph Editing
+  - [Workflow Designer](https://github.com/guozhaolong/wfd) [[Online Demo](https://guozhaolong.github.io/wfd/)] - flowable workflow designer base on @antv/g6。 ![](https://img.shields.io/github/stars/guozhaolong/wfd?style=social) ![](https://img.shields.io/github/forks/guozhaolong/wfd?style=social)
 
 ### Excel and Spreadsheet
   - [x-spreadsheet](https://github.com/myliang/x-spreadsheet) [[Online Demo](https://myliang.github.io/x-spreadsheet/)] - A web-based JavaScript（canvas） spreadsheet. ![](https://img.shields.io/github/stars/myliang/x-spreadsheet?style=social) ![](https://img.shields.io/github/forks/myliang/x-spreadsheet?style=social)
