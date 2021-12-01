@@ -230,6 +230,7 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
 
 ### Physics engine
   - [matter-js](https://brm.io/matter-js/) [[Online Demo](https://brm.io/matter-js/demo/#mixed)] - a 2D rigid body physics engine for the web ▲● ■ ![](https://img.shields.io/github/stars/liabru/matter-js?style=social) ![](https://img.shields.io/github/forks/liabru/matter-js?style=social)
+  - [box2d.js](https://github.com/kripken/box2d.js) [[Online Demo](http://kripken.github.io/box2d.js/demo/webgl/box2d.html)] - Port of Box2D to JavaScript using Emscripten. ![](https://img.shields.io/github/stars/kripken/box2d.js?style=social) ![](https://img.shields.io/github/forks/kripken/box2d.js?style=social)
 
 ### Game engine
   - [Hilo](https://github.com/hiloteam/Hilo/blob/dev/README_ZH.md) [[Online Demo](https://hiloteam.github.io/examples/index.html)] - A Cross-end HTML5 Game development solution developed by Alibaba Group. ![](https://img.shields.io/github/stars/hiloteam/Hilo?style=social) ![](https://img.shields.io/github/forks/hiloteam/Hilo?style=social)
