@@ -138,6 +138,7 @@
   - [Oimo.js](https://github.com/lo-th/Oimo.js) [[在线演示](http://lo-th.github.io/Oimo.js/index.html#basic)] - 轻量级的JS 3D物理引擎 ![](https://img.shields.io/github/stars/lo-th/Oimo.js?style=social) ![](https://img.shields.io/github/forks/lo-th/Oimo.js?style=social)
   - [troika](https://protectwise.github.io/troika/) [[在线演示]()] - 用于交互式 3D 和 2D 可视化的 JavaScript 框架 ![](https://img.shields.io/github/stars/protectwise/troika?style=social) ![](https://img.shields.io/github/forks/protectwise/troika?style=social)
   - [phoria.js](https://github.com/kevinroast/phoria.js) [[在线演示](http://www.kevs3d.co.uk/dev/phoria/index.html)] - 用于在 HTML5 画布 2D 渲染器上进行简单 3D 图形和可视化的 JavaScript 库。它不使用 WebGL。适用于所有 HTML5 浏览器，包括桌面、iOS 和 Android ![](https://img.shields.io/github/stars/kevinroast/phoria.js?style=social) ![](https://img.shields.io/github/forks/kevinroast/phoria.js?style=social)
+  - [isomer](https://github.com/jdan/isomer) [[在线示例](http://jdan.github.io/isomer/)] - 基于HTML5 Canvas的简单等距图形库。 ![](https://img.shields.io/github/stars/jdan/isomer?style=social) ![](https://img.shields.io/github/forks/jdan/isomer?style=social)
 
 ### 全景图
   - [Panolens.js](https://github.com/pchen66/panolens.js) [[在线演示](https://pchen66.github.io/Panolens/)] - Panolens.js基于Three.JS，主要研究领域是全景、虚拟现实和潜在的增强现实。 ![](https://img.shields.io/github/stars/pchen66/panolens.js?style=social) ![](https://img.shields.io/github/forks/pchen66/panolens.js?style=social)
