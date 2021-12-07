@@ -147,6 +147,7 @@
   - [JS-Cloudimage-360-View](https://github.com/scaleflex/js-cloudimage-360-view) [[在线演示](https://scaleflex.github.io/js-cloudimage-360-view/)] 一个简单的、交互式的资源，可以用来提供您的产品的虚拟游览。 ![](https://img.shields.io/github/stars/scaleflex/js-cloudimage-360-view?style=social) ![](https://img.shields.io/github/forks/scaleflex/js-cloudimage-360-view?style=social)
   - [A-Frame](https://github.com/aframevr/aframe) [[在线演示](https://aframe.io/)] A-Frame 除了帮助您构建 360 度媒体播放器外，它还提供了许多附加功能。其他功能可帮助您增强网站的虚拟现实体验。 ![](https://img.shields.io/github/stars/aframevr/aframe?style=social) ![](https://img.shields.io/github/forks/aframevr/aframe?style=social)
   - [exokit](https://github.com/exokitxr/exokit) [[在线演示](https://exokit.org/)] - 基于JavaScript的原生VR / AR / XR引擎 ![](https://img.shields.io/github/stars/exokitxr/exokit?style=social) ![](https://img.shields.io/github/forks/exokitxr/exokit?style=social)
+  - [webvr-boilerplate](https://github.com/borismus/webvr-boilerplate) [[在线演示](https://borismus.github.io/webvr-boilerplate/#)] - 工作在VR头戴设备的基于Web的VR虚拟体验 ![](https://img.shields.io/github/stars/borismus/webvr-boilerplate?style=social) ![](https://img.shields.io/github/forks/borismus/webvr-boilerplate?style=social)
 
 ### 流程图
   - [GOJS](https://gojs.net/latest/index.html) [[在线演示](https://gojs.net/latest/samples/)] - 交互式流程图、组织结构图、设计工具、规划工具、可视化语言的JavaScript图表库![](https://img.shields.io/github/stars/NorthwoodsSoftware/GoJS?style=social) ![](https://img.shields.io/github/forks/NorthwoodsSoftware/GoJS?style=social)
