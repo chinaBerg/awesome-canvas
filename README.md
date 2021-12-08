@@ -8,7 +8,8 @@
 
 - [awesome-canvas](#awesome-canvas)
 - [目录](#目录)
-- [文档/教程](#文档教程)
+- [教程](#教程)
+- [书籍](#书籍)
 - [仓库](#仓库)
   - [图形绘制](#图形绘制)
   - [图表库](#图表库)
@@ -35,12 +36,11 @@
   - [其他](#其他)
 - [插件资源网站](#插件资源网站)
 - [效果/案例](#效果案例)
-- [书籍](#书籍)
 - [文章](#文章)
 - [贡献者](#贡献者)
 - [协议](#协议)
 
-## 文档/教程
+## 教程
 - [HTML5 Canvas MDN教程](https://developer.mozilla.org/zh-CN/docs/Web/API/Canvas_API)
 - [Internet Explorer 9 开发人员指南：HTML5 Canvas](https://docs.microsoft.com/en-us/previous-versions/hh410106(v=msdn.10)?redirectedfrom=MSDN#_HTML5_canvas)
 - [Draw on the Web](https://airingursb.gitbooks.io/canvas/content/)
@@ -51,13 +51,26 @@
 - [HTML5 Canvas W3school教程](https://www.w3school.com.cn/html/html5_canvas.asp)
 - [HTML5 Canvas 廖雪峰教程](https://www.liaoxuefeng.com/wiki/1022910821149312/1023022423592576)
 - [HTML5 Canvas 慕课网教程](https://www.imooc.com/wiki/html5/canvas.html)
-- [CanvasStudy](https://github.com/827652549/CanvasStudy) ![](https://img.shields.io/github/stars/827652549/CanvasStudy?style=social) ![](https://img.shields.io/github/forks/827652549/CanvasStudy?style=social)
-- [AntV Graphin可视化解决方案]
+- [HTML5 Canvas的中文系列学习教程](https://github.com/827652549/CanvasStudy)
+- [图可视化美学](https://www.researchgate.net/publication/220795329_The_Aesthetics_of_Graph_Visualization) @Chris Bennett, Jody Ryall, Leo Spalteholz and Amy Gooch1
+- AntV Graphin可视化解决方案:
   - [图数据库解决方案](https://graphin.antv.vision/solution/database/graph-database)
   - [知识图谱解决方案](https://graphin.antv.vision/solution/knowledge-graph)
   - [网络安全解决方案](https://graphin.antv.vision/solution/security)
   - [企业风控解决方案](https://graphin.antv.vision/solution/enterprise/enterprise-risk-control)
-- [图可视化美学](https://www.researchgate.net/publication/220795329_The_Aesthetics_of_Graph_Visualization) @Chris Bennett, Jody Ryall, Leo Spalteholz and Amy Gooch1
+
+## 书籍
+- 《[HTML5 Canvas开发详解](http://product.dangdang.com/11012245144.html)》 作者: Steve Fulton,Jeff Fulton [链接地址🔗](http://product.dangdang.com/11012245144.html)
+- 《[TypeScript图形渲染实战：2D架构设计与实现](http://product.dangdang.com/28499406.html)》 作者: 步磊峰 [链接地址🔗](http://product.dangdang.com/28499406.html)
+- 《[HTML5 Canvas游戏开发实战](http://e.dangdang.com/products/1900396102.html)》 作者: 张路斌 [链接地址🔗](http://e.dangdang.com/products/1900396102.html)
+- 《[从0到1 HTML5 Canvas动画开发](http://product.dangdang.com/28549249.html)》 作者: 莫振杰 [链接地址🔗](http://product.dangdang.com/28549249.html)
+- 《[HTML5 Canvas核心技术: 图形、动画与游戏开发](http://product.dangdang.com/1798930436.html)》 作者: 美基瑞 [链接地址🔗](http://product.dangdang.com/1798930436.html)
+- 《[快学熟用D3](http://product.dangdang.com/28556039.html)》 作者: 菲利普·K.贾纳特 [链接地址🔗](http://product.dangdang.com/28556039.html)
+- 《[如何使用 Canvas 制作出炫酷的网页背景特效](https://juejin.cn/book/6844723714655780871)》 作者: sunshine小小倩 [链接地址🔗](https://juejin.cn/book/6844723714655780871)
+- 《[可视化入门：从 0 到 1 开发一个图表库](https://juejin.cn/book/7031893648145186824)》 作者: AntV [链接地址🔗](https://juejin.cn/book/7031893648145186824)
+- 《[图分析与可视化](https://book.douban.com/subject/26756024/)》 作者: 理查德·布莱斯 / 大卫·琼克 [链接地址🔗](https://book.douban.com/subject/26756024/)
+- 《[视觉繁美 - 信息可视化方法与案例解析](https://book.douban.com/subject/25665238/)》 作者: Manuel Lima [链接地址🔗](https://book.douban.com/subject/25665238/)
+- 《[数据可视化](https://book.douban.com/subject/25760272/)》 作者: 陈为 / 沈则潜 [链接地址🔗](https://book.douban.com/subject/25760272/)
 
 ## 仓库
 ### 图形绘制
@@ -335,19 +348,6 @@
 - [canvas-special](https://github.com/bxm0927/) - 超多经典 Canvas 实例，动态离子背景、炫彩小球、贪吃蛇、坦克大战、是男人就下100层、心形文字等 ![](https://img.shields.io/github/stars/bxm0927/canvas-special?style=social) ![](https://img.shields.io/github/forks/bxm0927/canvas-special?style=social)
 - [canvas效果集合](https://github.com/sunshine940326/canvas) ![](https://img.shields.io/github/stars/sunshine940326/canvas?style=social) ![](https://img.shields.io/github/forks/sunshine940326/canvas?style=social)
 - [shape-shifter](https://github.com/kennethcachia/shape-shifter) [[在线演示](http://www.kennethcachia.com/shape-shifter/)] - 这是一个基于用户输入使用一组粒子来渲染不同形状的画布实验。它支持多种模式:文本，倒计时，时间和图标 ![](https://img.shields.io/github/stars/kennethcachia/shape-shifter?style=social) ![](https://img.shields.io/github/forks/kennethcachia/shape-shifter?style=social)
-
-## 书籍
-- 《[HTML5 Canvas开发详解](http://product.dangdang.com/11012245144.html)》 作者: Steve Fulton,Jeff Fulton [链接地址🔗](http://product.dangdang.com/11012245144.html)
-- 《[TypeScript图形渲染实战：2D架构设计与实现](http://product.dangdang.com/28499406.html)》 作者: 步磊峰 [链接地址🔗](http://product.dangdang.com/28499406.html)
-- 《[HTML5 Canvas游戏开发实战](http://e.dangdang.com/products/1900396102.html)》 作者: 张路斌 [链接地址🔗](http://e.dangdang.com/products/1900396102.html)
-- 《[从0到1 HTML5 Canvas动画开发](http://product.dangdang.com/28549249.html)》 作者: 莫振杰 [链接地址🔗](http://product.dangdang.com/28549249.html)
-- 《[HTML5 Canvas核心技术: 图形、动画与游戏开发](http://product.dangdang.com/1798930436.html)》 作者: 美基瑞 [链接地址🔗](http://product.dangdang.com/1798930436.html)
-- 《[快学熟用D3](http://product.dangdang.com/28556039.html)》 作者: 菲利普·K.贾纳特 [链接地址🔗](http://product.dangdang.com/28556039.html)
-- 《[如何使用 Canvas 制作出炫酷的网页背景特效](https://juejin.cn/book/6844723714655780871)》 作者: sunshine小小倩 [链接地址🔗](https://juejin.cn/book/6844723714655780871)
-- 《[可视化入门：从 0 到 1 开发一个图表库](https://juejin.cn/book/7031893648145186824)》 作者: AntV [链接地址🔗](https://juejin.cn/book/7031893648145186824)
-- 《[图分析与可视化](https://book.douban.com/subject/26756024/)》 作者: 理查德·布莱斯 / 大卫·琼克 [链接地址🔗](https://book.douban.com/subject/26756024/)
-- 《[视觉繁美 - 信息可视化方法与案例解析](https://book.douban.com/subject/25665238/)》 作者: Manuel Lima [链接地址🔗](https://book.douban.com/subject/25665238/)
-- 《[数据可视化](https://book.douban.com/subject/25760272/)》 作者: 陈为 / 沈则潜 [链接地址🔗](https://book.douban.com/subject/25760272/)
 
 ## 文章
 - [可视化私房菜](https://www.yuque.com/antv/blog/2021s2) - 可视化国家队的私房菜，用心烹调，以飨读者。

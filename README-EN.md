@@ -6,6 +6,7 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
 - [awesome-canvas](#awesome-canvas)
 - [Summary](#summary)
 - [Documents / Courses](#documents--courses)
+- [Books](#books)
 - [Libraries](#libraries)
   - [Canvas draw](#canvas-draw)
   - [Charts](#charts)
@@ -32,7 +33,6 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
   - [Others](#others)
 - [Resources Website](#resources-website)
 - [Plugins](#plugins)
-- [Books](#books)
 - [Articles](#articles)
 - [Contributor](#contributor)
 - [License](#license)
@@ -48,13 +48,26 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
 - [HTML5 Canvas - W3school Tutorial](https://www.w3school.com.cn/html/html5_canvas.asp)
 - [HTML5 Canvas - 廖雪峰 Tutorial](https://www.liaoxuefeng.com/wiki/1022910821149312/1023022423592576)
 - [HTML5 Canvas - IMOOC Tutorial](https://www.imooc.com/wiki/html5/canvas.html)
-- [CanvasStudy](https://github.com/827652549/CanvasStudy) ![](https://img.shields.io/github/stars/827652549/CanvasStudy?style=social) ![](https://img.shields.io/github/forks/827652549/CanvasStudy?style=social)
-- [AntV Graphin Visualization Solutions]
+- [The Chinese series of learning tutorials of HTML5 canvas](https://github.com/827652549/CanvasStudy)
+- [The Aesthetics of Graph Visualization](https://www.researchgate.net/publication/220795329_The_Aesthetics_of_Graph_Visualization)  @Chris Bennett, Jody Ryall, Leo Spalteholz and Amy Gooch1
+- AntV Graphin Visualization Solutions:
   - [Graph Database White Paper](https://graphin.antv.vision/solution/database/graph-database)
   - [Knowledge Graph White Paper](https://graphin.antv.vision/solution/knowledge-graph)
   - [Network Security White Paper](https://graphin.antv.vision/solution/security)
   - [Enterprise Risk Control White Paper](https://graphin.antv.vision/solution/enterprise/enterprise-risk-control)
-- [The Aesthetics of Graph Visualization](https://www.researchgate.net/publication/220795329_The_Aesthetics_of_Graph_Visualization)  @Chris Bennett, Jody Ryall, Leo Spalteholz and Amy Gooch1
+
+## Books
+- 《[HTML5 Canvas开发详解](http://product.dangdang.com/11012245144.html)》 Author: Steve Fulton, Jeff Fulton [Link🔗](http://product.dangdang.com/11012245144.html)
+- 《[TypeScript图形渲染实战：2D架构设计与实现](http://product.dangdang.com/28499406.html)》 Author: 步磊峰 [Link🔗](http://product.dangdang.com/28499406.html)
+- 《[HTML5 Canvas游戏开发实战](http://e.dangdang.com/products/1900396102.html)》 Author: 张路斌 [Link🔗](http://e.dangdang.com/products/1900396102.html)
+- 《[从0到1 HTML5 Canvas动画开发](http://product.dangdang.com/28549249.html)》 Author: 莫振杰 [Link🔗](http://product.dangdang.com/28549249.html)
+- 《[HTML5 Canvas核心技术: 图形、动画与游戏开发](http://product.dangdang.com/1798930436.html)》 Author: Geary [Link🔗](http://product.dangdang.com/1798930436.html)
+- 《[D3 for impatient: interactive Graphics for Programmers and Scientists](http://product.dangdang.com/28556039.html)》 Author: Philipp K. Janert [Link🔗](http://product.dangdang.com/28556039.html)
+- 《[如何使用 Canvas 制作出炫酷的网页背景特效](https://juejin.cn/book/6844723714655780871)》 Author: sunshine小小倩 [Link🔗](https://juejin.cn/book/6844723714655780871)
+- 《[可视化入门：从 0 到 1 开发一个图表库](https://juejin.cn/book/7031893648145186824)》 Author: AntV [Link🔗](https://juejin.cn/book/7031893648145186824)
+- 《[Graph Analysis and Visualization](https://book.douban.com/subject/26756024/)》 Author: Richard Brath  / David Jonker [Link🔗](https://book.douban.com/subject/26756024/)
+- 《[Visual Complexity: Mapping Patterns of Information](https://book.douban.com/subject/25665238/)》 Author: Manuel Lima [Link🔗](https://book.douban.com/subject/25665238/)
+- 《[Data visualization](https://book.douban.com/subject/25760272/)》 Author: 陈为 / 沈则潜 [Link🔗](https://book.douban.com/subject/25760272/)
 
 ## Libraries
 ### Canvas draw
@@ -332,19 +345,6 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
 - [canvas-special](https://github.com/bxm0927/) - There are many classic canvas examples, such as dynamic ion background, colorful small ball, greedy snake, tank war, 100 floors down for men, heart-shaped text, etc. ![](https://img.shields.io/github/stars/bxm0927/canvas-special?style=social) ![](https://img.shields.io/github/forks/bxm0927/canvas-special?style=social)
 - [canvas demos](https://github.com/sunshine940326/canvas) ![](https://img.shields.io/github/stars/sunshine940326/canvas?style=social) ![](https://img.shields.io/github/forks/sunshine940326/canvas?style=social)
 - [shape-shifter](https://github.com/kennethcachia/shape-shifter) [[Online Demo](http://www.kennethcachia.com/shape-shifter/)] - A canvas experiment in which a set of particles is used to render different shapes based on the user's input. It supports multiple modes: text, countdown, time and icons. ![](https://img.shields.io/github/stars/kennethcachia/shape-shifter?style=social) ![](https://img.shields.io/github/forks/kennethcachia/shape-shifter?style=social)
-
-## Books
-- 《[HTML5 Canvas开发详解](http://product.dangdang.com/11012245144.html)》 Author: Steve Fulton, Jeff Fulton [Link🔗](http://product.dangdang.com/11012245144.html)
-- 《[TypeScript图形渲染实战：2D架构设计与实现](http://product.dangdang.com/28499406.html)》 Author: 步磊峰 [Link🔗](http://product.dangdang.com/28499406.html)
-- 《[HTML5 Canvas游戏开发实战](http://e.dangdang.com/products/1900396102.html)》 Author: 张路斌 [Link🔗](http://e.dangdang.com/products/1900396102.html)
-- 《[从0到1 HTML5 Canvas动画开发](http://product.dangdang.com/28549249.html)》 Author: 莫振杰 [Link🔗](http://product.dangdang.com/28549249.html)
-- 《[HTML5 Canvas核心技术: 图形、动画与游戏开发](http://product.dangdang.com/1798930436.html)》 Author: Geary [Link🔗](http://product.dangdang.com/1798930436.html)
-- 《[D3 for impatient: interactive Graphics for Programmers and Scientists](http://product.dangdang.com/28556039.html)》 Author: Philipp K. Janert [Link🔗](http://product.dangdang.com/28556039.html)
-- 《[如何使用 Canvas 制作出炫酷的网页背景特效](https://juejin.cn/book/6844723714655780871)》 Author: sunshine小小倩 [Link🔗](https://juejin.cn/book/6844723714655780871)
-- 《[可视化入门：从 0 到 1 开发一个图表库](https://juejin.cn/book/7031893648145186824)》 Author: AntV [Link🔗](https://juejin.cn/book/7031893648145186824)
-- 《[Graph Analysis and Visualization](https://book.douban.com/subject/26756024/)》 Author: Richard Brath  / David Jonker [Link🔗](https://book.douban.com/subject/26756024/)
-- 《[Visual Complexity: Mapping Patterns of Information](https://book.douban.com/subject/25665238/)》 Author: Manuel Lima [Link🔗](https://book.douban.com/subject/25665238/)
-- 《[Data visualization](https://book.douban.com/subject/25760272/)》 Author: 陈为 / 沈则潜 [Link🔗](https://book.douban.com/subject/25760272/)
 
 ## Articles
 - [可视化私房菜](https://www.yuque.com/antv/blog/2021s2) - 可视化国家队的私房菜，用心烹调，以飨读者。
