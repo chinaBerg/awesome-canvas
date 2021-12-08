@@ -15,7 +15,7 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
   - [Gantt](#gantt)
   - [Organization charts](#organization-charts)
   - [Graph Editing](#graph-editing)
-  - [Excel and Spreadsheet](#excel-and-spreadsheet)
+  - [Spreadsheet](#spreadsheet)
   - [Charts Libraries](#charts-libraries)
   - [Poster and Screenshot](#poster-and-screenshot)
   - [Data processing](#data-processing)
@@ -147,7 +147,7 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
   - [ng-antv](https://github.com/dappsnation/ng-antv) - Angular wrapper around the antv libraries. ![](https://img.shields.io/github/stars/dappsnation/ng-antv?style=social) ![](https://img.shields.io/github/forks/dappsnation/ng-antv?style=social)
   - [welabx-g6](https://github.com/claudewowo/welabx-g6) [[Online Demo](https://claudewowo.github.io/welabx-g6/dist/?_blank)] - welabx - antv G6. ![](https://img.shields.io/github/stars/claudewowo/welabx-g6?style=social) ![](https://img.shields.io/github/forks/claudewowo/welabx-g6?style=social)
 
-### Excel and Spreadsheet
+### Spreadsheet
   - [x-spreadsheet](https://github.com/myliang/x-spreadsheet) [[Online Demo](https://myliang.github.io/x-spreadsheet/)] - A web-based JavaScript（canvas） spreadsheet. ![](https://img.shields.io/github/stars/myliang/x-spreadsheet?style=social) ![](https://img.shields.io/github/forks/myliang/x-spreadsheet?style=social)
   - [Luckysheet](https://github.com/mengshukeji/Luckysheet/blob/master/README-zh.md) [[Online Demo](https://mengshukeji.github.io/LuckysheetDemo/)] - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source. ![](https://img.shields.io/github/stars/mengshukeji/Luckysheet?style=social) ![](https://img.shields.io/github/forks/mengshukeji/Luckysheet?style=social)
   - [sheetsee.js](https://github.com/jlord/sheetsee.js) - 👀 📈 Visualize Data from a Google Spreadsheet. ![](https://img.shields.io/github/stars/jlord/sheetsee.js?style=social) ![](https://img.shields.io/github/forks/jlord/sheetsee.js?style=social)
