@@ -5,7 +5,7 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
 ## Summary
 - [awesome-canvas](#awesome-canvas)
 - [Summary](#summary)
-- [Documents / Courses](#documents--courses)
+- [Tutorials](#tutorials)
 - [Books](#books)
 - [Libraries](#libraries)
   - [Canvas draw](#canvas-draw)
@@ -37,11 +37,12 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
 - [Contributor](#contributor)
 - [License](#license)
 
-## Documents / Courses
+## Tutorials
+- [Draw on the Web](https://airingursb.gitbooks.io/canvas/content/)
+- [The Aesthetics of Graph Visualization](https://www.researchgate.net/publication/220795329_The_Aesthetics_of_Graph_Visualization)
+- [Computer Graphics And Visualization](https://ng-tech.icu/CGDataVis-Series/#/)
 - [Mozilla Developer Network Canvas Tutorial](https://developer.mozilla.org/zh-CN/docs/Web/API/Canvas_API)
 - [Internet Explorer 9 Guide for Developers: HTML5 canvas element](https://docs.microsoft.com/en-us/previous-versions/hh410106(v=msdn.10)?redirectedfrom=MSDN#_HTML5_canvas)
-- [Draw on the Web](https://airingursb.gitbooks.io/canvas/content/)
-- [Computer Graphics And Visualization](https://ng-tech.icu/CGDataVis-Series/#/)
 - [The canvas element in the HTML5 draft standard](https://html.spec.whatwg.org/multipage/canvas.html#the-canvas-element)
 - [HTML5 Canvas — the Basics](https://dev.opera.com/articles/html5-canvas-basics/)
 - [HTML5 Canvas - RUNOOB Tutorial](https://www.runoob.com/html/html5-canvas.html)
@@ -49,12 +50,10 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
 - [HTML5 Canvas - 廖雪峰 Tutorial](https://www.liaoxuefeng.com/wiki/1022910821149312/1023022423592576)
 - [HTML5 Canvas - IMOOC Tutorial](https://www.imooc.com/wiki/html5/canvas.html)
 - [The Chinese series of learning tutorials of HTML5 canvas](https://github.com/827652549/CanvasStudy)
-- [The Aesthetics of Graph Visualization](https://www.researchgate.net/publication/220795329_The_Aesthetics_of_Graph_Visualization)  @Chris Bennett, Jody Ryall, Leo Spalteholz and Amy Gooch1
-- AntV Graphin Visualization Solutions:
-  - [Graph Database White Paper](https://graphin.antv.vision/solution/database/graph-database)
-  - [Knowledge Graph White Paper](https://graphin.antv.vision/solution/knowledge-graph)
-  - [Network Security White Paper](https://graphin.antv.vision/solution/security)
-  - [Enterprise Risk Control White Paper](https://graphin.antv.vision/solution/enterprise/enterprise-risk-control)
+- [AntV Graphin - Graph Database White Paper](https://graphin.antv.vision/solution/database/graph-database)
+- [AntV Graphin - Knowledge Graph White Paper](https://graphin.antv.vision/solution/knowledge-graph)
+- [AntV Graphin - Network Security White Paper](https://graphin.antv.vision/solution/security)
+- [AntV Graphin - Enterprise Risk Control White Paper](https://graphin.antv.vision/solution/enterprise/enterprise-risk-control)
 
 ## Books
 - 《[HTML5 Canvas开发详解](http://product.dangdang.com/11012245144.html)》 Author: Steve Fulton, Jeff Fulton [Link🔗](http://product.dangdang.com/11012245144.html)

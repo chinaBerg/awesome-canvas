@@ -41,10 +41,11 @@
 - [协议](#协议)
 
 ## 教程
+- [Web绘图](https://airingursb.gitbooks.io/canvas/content/)
+- [图可视化美学](https://www.researchgate.net/publication/220795329_The_Aesthetics_of_Graph_Visualization)
+- [计算机图形与可视化](https://ng-tech.icu/CGDataVis-Series/#/)
 - [HTML5 Canvas MDN教程](https://developer.mozilla.org/zh-CN/docs/Web/API/Canvas_API)
 - [Internet Explorer 9 开发人员指南：HTML5 Canvas](https://docs.microsoft.com/en-us/previous-versions/hh410106(v=msdn.10)?redirectedfrom=MSDN#_HTML5_canvas)
-- [Draw on the Web](https://airingursb.gitbooks.io/canvas/content/)
-- [Computer Graphics And Visualization](https://ng-tech.icu/CGDataVis-Series/#/)
 - [HTML5草案标准中的Canvas元素文档](https://html.spec.whatwg.org/multipage/canvas.html#the-canvas-element)
 - [HTML5 Canvas 基础教程](https://dev.opera.com/articles/html5-canvas-basics/)
 - [HTML5 Canvas 菜鸟教程](https://www.runoob.com/html/html5-canvas.html)
@@ -52,12 +53,10 @@
 - [HTML5 Canvas 廖雪峰教程](https://www.liaoxuefeng.com/wiki/1022910821149312/1023022423592576)
 - [HTML5 Canvas 慕课网教程](https://www.imooc.com/wiki/html5/canvas.html)
 - [HTML5 Canvas的中文系列学习教程](https://github.com/827652549/CanvasStudy)
-- [图可视化美学](https://www.researchgate.net/publication/220795329_The_Aesthetics_of_Graph_Visualization) @Chris Bennett, Jody Ryall, Leo Spalteholz and Amy Gooch1
-- AntV Graphin可视化解决方案:
-  - [图数据库解决方案](https://graphin.antv.vision/solution/database/graph-database)
-  - [知识图谱解决方案](https://graphin.antv.vision/solution/knowledge-graph)
-  - [网络安全解决方案](https://graphin.antv.vision/solution/security)
-  - [企业风控解决方案](https://graphin.antv.vision/solution/enterprise/enterprise-risk-control)
+- [AntV Graphin 图数据库解决方案](https://graphin.antv.vision/solution/database/graph-database)
+- [AntV Graphin 知识图谱解决方案](https://graphin.antv.vision/solution/knowledge-graph)
+- [AntV Graphin 网络安全解决方案](https://graphin.antv.vision/solution/security)
+- [AntV Graphin 企业风控解决方案](https://graphin.antv.vision/solution/enterprise/enterprise-risk-control)
 
 ## 书籍
 - 《[HTML5 Canvas开发详解](http://product.dangdang.com/11012245144.html)》 作者: Steve Fulton,Jeff Fulton [链接地址🔗](http://product.dangdang.com/11012245144.html)
