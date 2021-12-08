@@ -5,6 +5,7 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
 ## Summary
 - [awesome-canvas](#awesome-canvas)
 - [Summary](#summary)
+- [Documents / Courses](#documents--courses)
 - [Libraries](#libraries)
   - [Canvas draw](#canvas-draw)
   - [Charts](#charts)
@@ -31,11 +32,29 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
   - [Others](#others)
 - [Resources Website](#resources-website)
 - [Plugins](#plugins)
-- [Documents / Courses](#documents--courses)
 - [Books](#books)
 - [Articles](#articles)
 - [Contributor](#contributor)
 - [License](#license)
+
+## Documents / Courses
+- [Mozilla Developer Network Canvas Tutorial](https://developer.mozilla.org/zh-CN/docs/Web/API/Canvas_API)
+- [Internet Explorer 9 Guide for Developers: HTML5 canvas element](https://docs.microsoft.com/en-us/previous-versions/hh410106(v=msdn.10)?redirectedfrom=MSDN#_HTML5_canvas)
+- [Draw on the Web](https://airingursb.gitbooks.io/canvas/content/)
+- [Computer Graphics And Visualization](https://ng-tech.icu/CGDataVis-Series/#/)
+- [The canvas element in the HTML5 draft standard](https://html.spec.whatwg.org/multipage/canvas.html#the-canvas-element)
+- [HTML5 Canvas — the Basics](https://dev.opera.com/articles/html5-canvas-basics/)
+- [HTML5 Canvas - RUNOOB Tutorial](https://www.runoob.com/html/html5-canvas.html)
+- [HTML5 Canvas - W3school Tutorial](https://www.w3school.com.cn/html/html5_canvas.asp)
+- [HTML5 Canvas - 廖雪峰 Tutorial](https://www.liaoxuefeng.com/wiki/1022910821149312/1023022423592576)
+- [HTML5 Canvas - IMOOC Tutorial](https://www.imooc.com/wiki/html5/canvas.html)
+- [CanvasStudy](https://github.com/827652549/CanvasStudy) ![](https://img.shields.io/github/stars/827652549/CanvasStudy?style=social) ![](https://img.shields.io/github/forks/827652549/CanvasStudy?style=social)
+- [AntV Graphin Visualization Solutions]
+  - [Graph Database White Paper](https://graphin.antv.vision/solution/database/graph-database)
+  - [Knowledge Graph White Paper](https://graphin.antv.vision/solution/knowledge-graph)
+  - [Network Security White Paper](https://graphin.antv.vision/solution/security)
+  - [Enterprise Risk Control White Paper](https://graphin.antv.vision/solution/enterprise/enterprise-risk-control)
+- [The Aesthetics of Graph Visualization](https://www.researchgate.net/publication/220795329_The_Aesthetics_of_Graph_Visualization)  @Chris Bennett, Jody Ryall, Leo Spalteholz and Amy Gooch1
 
 ## Libraries
 ### Canvas draw
@@ -313,25 +332,6 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
 - [canvas-special](https://github.com/bxm0927/) - There are many classic canvas examples, such as dynamic ion background, colorful small ball, greedy snake, tank war, 100 floors down for men, heart-shaped text, etc. ![](https://img.shields.io/github/stars/bxm0927/canvas-special?style=social) ![](https://img.shields.io/github/forks/bxm0927/canvas-special?style=social)
 - [canvas demos](https://github.com/sunshine940326/canvas) ![](https://img.shields.io/github/stars/sunshine940326/canvas?style=social) ![](https://img.shields.io/github/forks/sunshine940326/canvas?style=social)
 - [shape-shifter](https://github.com/kennethcachia/shape-shifter) [[Online Demo](http://www.kennethcachia.com/shape-shifter/)] - A canvas experiment in which a set of particles is used to render different shapes based on the user's input. It supports multiple modes: text, countdown, time and icons. ![](https://img.shields.io/github/stars/kennethcachia/shape-shifter?style=social) ![](https://img.shields.io/github/forks/kennethcachia/shape-shifter?style=social)
-
-## Documents / Courses
-- [Mozilla Developer Network Canvas Tutorial](https://developer.mozilla.org/zh-CN/docs/Web/API/Canvas_API)
-- [Internet Explorer 9 Guide for Developers: HTML5 canvas element](https://docs.microsoft.com/en-us/previous-versions/hh410106(v=msdn.10)?redirectedfrom=MSDN#_HTML5_canvas)
-- [Draw on the Web](https://airingursb.gitbooks.io/canvas/content/)
-- [Computer Graphics And Visualization](https://ng-tech.icu/CGDataVis-Series/#/)
-- [The canvas element in the HTML5 draft standard](https://html.spec.whatwg.org/multipage/canvas.html#the-canvas-element)
-- [HTML5 Canvas — the Basics](https://dev.opera.com/articles/html5-canvas-basics/)
-- [HTML5 Canvas - RUNOOB Tutorial](https://www.runoob.com/html/html5-canvas.html)
-- [HTML5 Canvas - W3school Tutorial](https://www.w3school.com.cn/html/html5_canvas.asp)
-- [HTML5 Canvas - 廖雪峰 Tutorial](https://www.liaoxuefeng.com/wiki/1022910821149312/1023022423592576)
-- [HTML5 Canvas - IMOOC Tutorial](https://www.imooc.com/wiki/html5/canvas.html)
-- [CanvasStudy](https://github.com/827652549/CanvasStudy) ![](https://img.shields.io/github/stars/827652549/CanvasStudy?style=social) ![](https://img.shields.io/github/forks/827652549/CanvasStudy?style=social)
-- [AntV Graphin Visualization Solutions]
-  - [Graph Database White Paper](https://graphin.antv.vision/solution/database/graph-database)
-  - [Knowledge Graph White Paper](https://graphin.antv.vision/solution/knowledge-graph)
-  - [Network Security White Paper](https://graphin.antv.vision/solution/security)
-  - [Enterprise Risk Control White Paper](https://graphin.antv.vision/solution/enterprise/enterprise-risk-control)
-- [The Aesthetics of Graph Visualization](https://www.researchgate.net/publication/220795329_The_Aesthetics_of_Graph_Visualization)  @Chris Bennett, Jody Ryall, Leo Spalteholz and Amy Gooch1
 
 ## Books
 - 《[HTML5 Canvas开发详解](http://product.dangdang.com/11012245144.html)》 Author: Steve Fulton, Jeff Fulton [Link🔗](http://product.dangdang.com/11012245144.html)

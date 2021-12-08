@@ -8,6 +8,7 @@
 
 - [awesome-canvas](#awesome-canvas)
 - [目录](#目录)
+- [文档/教程](#文档教程)
 - [仓库](#仓库)
   - [图形绘制](#图形绘制)
   - [图表库](#图表库)
@@ -34,11 +35,29 @@
   - [其他](#其他)
 - [插件资源网站](#插件资源网站)
 - [效果/案例](#效果案例)
-- [文档/教程](#文档教程)
 - [书籍](#书籍)
 - [文章](#文章)
 - [贡献者](#贡献者)
 - [协议](#协议)
+
+## 文档/教程
+- [HTML5 Canvas MDN教程](https://developer.mozilla.org/zh-CN/docs/Web/API/Canvas_API)
+- [Internet Explorer 9 开发人员指南：HTML5 Canvas](https://docs.microsoft.com/en-us/previous-versions/hh410106(v=msdn.10)?redirectedfrom=MSDN#_HTML5_canvas)
+- [Draw on the Web](https://airingursb.gitbooks.io/canvas/content/)
+- [Computer Graphics And Visualization](https://ng-tech.icu/CGDataVis-Series/#/)
+- [HTML5草案标准中的Canvas元素文档](https://html.spec.whatwg.org/multipage/canvas.html#the-canvas-element)
+- [HTML5 Canvas 基础教程](https://dev.opera.com/articles/html5-canvas-basics/)
+- [HTML5 Canvas 菜鸟教程](https://www.runoob.com/html/html5-canvas.html)
+- [HTML5 Canvas W3school教程](https://www.w3school.com.cn/html/html5_canvas.asp)
+- [HTML5 Canvas 廖雪峰教程](https://www.liaoxuefeng.com/wiki/1022910821149312/1023022423592576)
+- [HTML5 Canvas 慕课网教程](https://www.imooc.com/wiki/html5/canvas.html)
+- [CanvasStudy](https://github.com/827652549/CanvasStudy) ![](https://img.shields.io/github/stars/827652549/CanvasStudy?style=social) ![](https://img.shields.io/github/forks/827652549/CanvasStudy?style=social)
+- [AntV Graphin可视化解决方案]
+  - [图数据库解决方案](https://graphin.antv.vision/solution/database/graph-database)
+  - [知识图谱解决方案](https://graphin.antv.vision/solution/knowledge-graph)
+  - [网络安全解决方案](https://graphin.antv.vision/solution/security)
+  - [企业风控解决方案](https://graphin.antv.vision/solution/enterprise/enterprise-risk-control)
+- [图可视化美学](https://www.researchgate.net/publication/220795329_The_Aesthetics_of_Graph_Visualization) @Chris Bennett, Jody Ryall, Leo Spalteholz and Amy Gooch1
 
 ## 仓库
 ### 图形绘制
@@ -317,24 +336,6 @@
 - [canvas效果集合](https://github.com/sunshine940326/canvas) ![](https://img.shields.io/github/stars/sunshine940326/canvas?style=social) ![](https://img.shields.io/github/forks/sunshine940326/canvas?style=social)
 - [shape-shifter](https://github.com/kennethcachia/shape-shifter) [[在线演示](http://www.kennethcachia.com/shape-shifter/)] - 这是一个基于用户输入使用一组粒子来渲染不同形状的画布实验。它支持多种模式:文本，倒计时，时间和图标 ![](https://img.shields.io/github/stars/kennethcachia/shape-shifter?style=social) ![](https://img.shields.io/github/forks/kennethcachia/shape-shifter?style=social)
 
-## 文档/教程
-- [HTML5 Canvas MDN教程](https://developer.mozilla.org/zh-CN/docs/Web/API/Canvas_API)
-- [Internet Explorer 9 开发人员指南：HTML5 Canvas](https://docs.microsoft.com/en-us/previous-versions/hh410106(v=msdn.10)?redirectedfrom=MSDN#_HTML5_canvas)
-- [Draw on the Web](https://airingursb.gitbooks.io/canvas/content/)
-- [Computer Graphics And Visualization](https://ng-tech.icu/CGDataVis-Series/#/)
-- [HTML5草案标准中的Canvas元素文档](https://html.spec.whatwg.org/multipage/canvas.html#the-canvas-element)
-- [HTML5 Canvas 基础教程](https://dev.opera.com/articles/html5-canvas-basics/)
-- [HTML5 Canvas 菜鸟教程](https://www.runoob.com/html/html5-canvas.html)
-- [HTML5 Canvas W3school教程](https://www.w3school.com.cn/html/html5_canvas.asp)
-- [HTML5 Canvas 廖雪峰教程](https://www.liaoxuefeng.com/wiki/1022910821149312/1023022423592576)
-- [HTML5 Canvas 慕课网教程](https://www.imooc.com/wiki/html5/canvas.html)
-- [CanvasStudy](https://github.com/827652549/CanvasStudy) ![](https://img.shields.io/github/stars/827652549/CanvasStudy?style=social) ![](https://img.shields.io/github/forks/827652549/CanvasStudy?style=social)
-- [AntV Graphin可视化解决方案]
-  - [图数据库解决方案](https://graphin.antv.vision/solution/database/graph-database)
-  - [知识图谱解决方案](https://graphin.antv.vision/solution/knowledge-graph)
-  - [网络安全解决方案](https://graphin.antv.vision/solution/security)
-  - [企业风控解决方案](https://graphin.antv.vision/solution/enterprise/enterprise-risk-control)
-- [图可视化美学](https://www.researchgate.net/publication/220795329_The_Aesthetics_of_Graph_Visualization) @Chris Bennett, Jody Ryall, Leo Spalteholz and Amy Gooch1
 ## 书籍
 - 《[HTML5 Canvas开发详解](http://product.dangdang.com/11012245144.html)》 作者: Steve Fulton,Jeff Fulton [链接地址🔗](http://product.dangdang.com/11012245144.html)
 - 《[TypeScript图形渲染实战：2D架构设计与实现](http://product.dangdang.com/28499406.html)》 作者: 步磊峰 [链接地址🔗](http://product.dangdang.com/28499406.html)
