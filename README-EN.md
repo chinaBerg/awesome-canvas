@@ -11,6 +11,8 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
   - [Canvas draw](#canvas-draw)
   - [3D libraries](#3d-libraries)
   - [VR/AR](#vrar)
+  - [Physics engine](#physics-engine)
+  - [Game engine](#game-engine)
   - [Flowchart](#flowchart)
   - [Gantt](#gantt)
   - [Organization charts](#organization-charts)
@@ -22,8 +24,6 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
   - [Image processing](#image-processing)
   - [Drawingboard](#drawingboard)
   - [Signature pad](#signature-pad)
-  - [Physics engine](#physics-engine)
-  - [Game engine](#game-engine)
   - [Waveforms animation](#waveforms-animation)
   - [Particle animation](#particle-animation)
   - [Path animation](#path-animation)
@@ -115,6 +115,24 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
   - [A-Frame](https://github.com/aframevr/aframe) [[Online Demo](https://aframe.io/)] 🅰️ web framework for building virtual reality experiences. ![](https://img.shields.io/github/stars/aframevr/aframe?style=social) ![](https://img.shields.io/github/forks/aframevr/aframe?style=social)
   - [exokit](https://github.com/exokitxr/exokit) [[Online Demo](https://exokit.org/)] - Native VR/AR/XR engine for JavaScript 🦖 ![](https://img.shields.io/github/stars/exokitxr/exokit?style=social) ![](https://img.shields.io/github/forks/exokitxr/exokit?style=social)
   - [webvr-boilerplate](https://github.com/borismus/webvr-boilerplate) [[Online Demo](https://borismus.github.io/webvr-boilerplate/#)] - A starting point for web-based VR experiences that work on all VR headsets. ![](https://img.shields.io/github/stars/borismus/webvr-boilerplate?style=social) ![](https://img.shields.io/github/forks/borismus/webvr-boilerplate?style=social)
+
+### Physics engine
+  - [matter-js](https://brm.io/matter-js/) [[Online Demo](https://brm.io/matter-js/demo/#mixed)] - a 2D rigid body physics engine for the web ▲● ■ ![](https://img.shields.io/github/stars/liabru/matter-js?style=social) ![](https://img.shields.io/github/forks/liabru/matter-js?style=social)
+  - [box2d.js](https://github.com/kripken/box2d.js) [[Online Demo](http://kripken.github.io/box2d.js/demo/webgl/box2d.html)] - Port of Box2D to JavaScript using Emscripten. ![](https://img.shields.io/github/stars/kripken/box2d.js?style=social) ![](https://img.shields.io/github/forks/kripken/box2d.js?style=social)
+  - [p2.js](https://github.com/schteppe/p2.js) [[Online Demo](http://schteppe.github.io/p2.js/demos/springs.html)] - JavaScript 2D physics library. ![](https://img.shields.io/github/stars/schteppe/p2.js?style=social) ![](https://img.shields.io/github/forks/schteppe/p2.js?style=social)
+
+### Game engine
+  - [Hilo](https://github.com/hiloteam/Hilo/blob/dev/README_ZH.md) [[Online Demo](https://hiloteam.github.io/examples/index.html)] - A Cross-end HTML5 Game development solution developed by Alibaba Group. ![](https://img.shields.io/github/stars/hiloteam/Hilo?style=social) ![](https://img.shields.io/github/forks/hiloteam/Hilo?style=social)
+  - [melonJS](https://melonjs.org/) [[Online Demo](https://www.melongaming.com/)] - a fresh & lightweight javascript game engine. ![](https://img.shields.io/github/stars/melonjs/melonJS?style=social) ![](https://img.shields.io/github/forks/melonjs/melonJS?style=social)
+  - [Babylon.js](https://github.com/BabylonJS/Babylon.js) [[Online Demo](https://www.babylonjs.com/community/)] - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework. ![](https://img.shields.io/github/stars/BabylonJS/Babylon.js?style=social) ![](https://img.shields.io/github/forks/BabylonJS/Babylon.js?style=social)
+  - [Phaser](https://github.com/photonstorm/phaser) [[Online Demo](https://phaser.io/examples)] - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering. ![](https://img.shields.io/github/stars/photonstorm/phaser?style=social) ![](https://img.shields.io/github/forks/photonstorm/phaser?style=social)
+    - [phaser-examples](https://github.com/photonstorm/phaser-examples) - Contains hundreds of source code examples and related media for the Phaser HTML5 Game Framework. ![](https://img.shields.io/github/stars/photonstorm/phaser-examples?style=social) ![](https://img.shields.io/github/forks/photonstorm/phaser-examples?style=social)
+    - [games](https://github.com/channingbreeze/games) - List of small games based on phaser ![](https://img.shields.io/github/stars/channingbreeze/games?style=social) ![](https://img.shields.io/github/forks/channingbreeze/games?style=social)
+    - [phaser3-examples](https://github.com/photonstorm/phaser3-examples) - Phaser 3 Examples. ![](https://img.shields.io/github/stars/photonstorm/phaser3-examples?style=social) ![](https://img.shields.io/github/forks/photonstorm/phaser3-examples?style=social)
+    - [phaser-ce](https://github.com/photonstorm/phaser-ce) - Phaser CE is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering. ![](https://img.shields.io/github/stars/photonstorm/phaser-ce?style=social) ![](https://img.shields.io/github/forks/photonstorm/phaser-ce?style=social)
+    - [phaser3-project-template](https://github.com/photonstorm/phaser3-project-template) - A Phaser 3 Project Template. ![](https://img.shields.io/github/stars/photonstorm/phaser3-project-template?style=social) ![](https://img.shields.io/github/forks/photonstorm/phaser3-project-template?style=social)
+  - [taro](https://github.com/Cloud9c/taro) [[Online Demo](https://www.echou.xyz/taro/examples/#Cube)] - A lightweight 3D game engine for the web. ![](https://img.shields.io/github/stars/Cloud9c/taro?style=social) ![](https://img.shields.io/github/forks/Cloud9c/taro?style=social)
+  - [turbulenz_engine](https://github.com/turbulenz/turbulenz_engine) [[Online Demo](http://biz.turbulenz.com/samples)] - Turbulenz is a modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices. ![](https://img.shields.io/github/stars/turbulenz/turbulenz_engine?style=social) ![](https://img.shields.io/github/forks/turbulenz/turbulenz_engine?style=social)
 
 ### Flowchart
   - [GOJS](https://gojs.net/latest/index.html) [[Online Demo](https://gojs.net/latest/samples/)] - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages. ![](https://img.shields.io/github/stars/NorthwoodsSoftware/GoJS?style=social) ![](https://img.shields.io/github/forks/NorthwoodsSoftware/GoJS?style=social)
@@ -260,24 +278,6 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
     - [react-native-signature-pad](https://github.com/kevinstumpf/react-native-signature-pad) - React Native wrapper around szimek's Canvas based Signature Pad. ![](https://img.shields.io/github/stars/kevinstumpf/react-native-signature-pad?style=social) ![](https://img.shields.io/github/forks/kevinstumpf/react-native-signature-pad?style=social)
   - [signature-pad](https://github.com/thread-pond/signature-pad) [[Online Demo](https://thread-pond.github.io/signature-pad/examples/require-drawn-signature.html)] - A jQuery plugin for assisting in the creation of an HTML5 canvas based signature pad. Records the drawn signature in JSON for later regeneration. ![](https://img.shields.io/github/stars/thread-pond/signature-pad?style=social) ![](https://img.shields.io/github/forks/thread-pond/signature-pad?style=social)
   - [canvas-draw](https://github.com/Louiszhai/canvas-draw) [[Online Demo](http://louiszhai.github.io/res/canvasDraw/#/sign)] - Handwritten signature or drawing with canvas -- supports PC and mobile terminals and horizontal screen. ![](https://img.shields.io/github/stars/Louiszhai/canvas-draw?style=social) ![](https://img.shields.io/github/forks/Louiszhai/canvas-draw?style=social)
-
-### Physics engine
-  - [matter-js](https://brm.io/matter-js/) [[Online Demo](https://brm.io/matter-js/demo/#mixed)] - a 2D rigid body physics engine for the web ▲● ■ ![](https://img.shields.io/github/stars/liabru/matter-js?style=social) ![](https://img.shields.io/github/forks/liabru/matter-js?style=social)
-  - [box2d.js](https://github.com/kripken/box2d.js) [[Online Demo](http://kripken.github.io/box2d.js/demo/webgl/box2d.html)] - Port of Box2D to JavaScript using Emscripten. ![](https://img.shields.io/github/stars/kripken/box2d.js?style=social) ![](https://img.shields.io/github/forks/kripken/box2d.js?style=social)
-  - [p2.js](https://github.com/schteppe/p2.js) [[Online Demo](http://schteppe.github.io/p2.js/demos/springs.html)] - JavaScript 2D physics library. ![](https://img.shields.io/github/stars/schteppe/p2.js?style=social) ![](https://img.shields.io/github/forks/schteppe/p2.js?style=social)
-
-### Game engine
-  - [Hilo](https://github.com/hiloteam/Hilo/blob/dev/README_ZH.md) [[Online Demo](https://hiloteam.github.io/examples/index.html)] - A Cross-end HTML5 Game development solution developed by Alibaba Group. ![](https://img.shields.io/github/stars/hiloteam/Hilo?style=social) ![](https://img.shields.io/github/forks/hiloteam/Hilo?style=social)
-  - [melonJS](https://melonjs.org/) [[Online Demo](https://www.melongaming.com/)] - a fresh & lightweight javascript game engine. ![](https://img.shields.io/github/stars/melonjs/melonJS?style=social) ![](https://img.shields.io/github/forks/melonjs/melonJS?style=social)
-  - [Babylon.js](https://github.com/BabylonJS/Babylon.js) [[Online Demo](https://www.babylonjs.com/community/)] - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework. ![](https://img.shields.io/github/stars/BabylonJS/Babylon.js?style=social) ![](https://img.shields.io/github/forks/BabylonJS/Babylon.js?style=social)
-  - [Phaser](https://github.com/photonstorm/phaser) [[Online Demo](https://phaser.io/examples)] - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering. ![](https://img.shields.io/github/stars/photonstorm/phaser?style=social) ![](https://img.shields.io/github/forks/photonstorm/phaser?style=social)
-    - [phaser-examples](https://github.com/photonstorm/phaser-examples) - Contains hundreds of source code examples and related media for the Phaser HTML5 Game Framework. ![](https://img.shields.io/github/stars/photonstorm/phaser-examples?style=social) ![](https://img.shields.io/github/forks/photonstorm/phaser-examples?style=social)
-    - [games](https://github.com/channingbreeze/games) - List of small games based on phaser ![](https://img.shields.io/github/stars/channingbreeze/games?style=social) ![](https://img.shields.io/github/forks/channingbreeze/games?style=social)
-    - [phaser3-examples](https://github.com/photonstorm/phaser3-examples) - Phaser 3 Examples. ![](https://img.shields.io/github/stars/photonstorm/phaser3-examples?style=social) ![](https://img.shields.io/github/forks/photonstorm/phaser3-examples?style=social)
-    - [phaser-ce](https://github.com/photonstorm/phaser-ce) - Phaser CE is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering. ![](https://img.shields.io/github/stars/photonstorm/phaser-ce?style=social) ![](https://img.shields.io/github/forks/photonstorm/phaser-ce?style=social)
-    - [phaser3-project-template](https://github.com/photonstorm/phaser3-project-template) - A Phaser 3 Project Template. ![](https://img.shields.io/github/stars/photonstorm/phaser3-project-template?style=social) ![](https://img.shields.io/github/forks/photonstorm/phaser3-project-template?style=social)
-  - [taro](https://github.com/Cloud9c/taro) [[Online Demo](https://www.echou.xyz/taro/examples/#Cube)] - A lightweight 3D game engine for the web. ![](https://img.shields.io/github/stars/Cloud9c/taro?style=social) ![](https://img.shields.io/github/forks/Cloud9c/taro?style=social)
-  - [turbulenz_engine](https://github.com/turbulenz/turbulenz_engine) [[Online Demo](http://biz.turbulenz.com/samples)] - Turbulenz is a modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices. ![](https://img.shields.io/github/stars/turbulenz/turbulenz_engine?style=social) ![](https://img.shields.io/github/forks/turbulenz/turbulenz_engine?style=social)
 
 ### Waveforms animation
   - [wavesurfer.js](https://wavesurfer-js.org/) [[Online Demo](https://wavesurfer-js.org/examples/)] - Navigable waveform built on Web Audio and Canvas. ![](https://img.shields.io/github/stars/katspaugh/wavesurfer.js?style=social) ![](https://img.shields.io/github/forks/katspaugh/wavesurfer.js?style=social)

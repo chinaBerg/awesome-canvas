@@ -14,19 +14,19 @@
   - [图形绘制](#图形绘制)
   - [3D库](#3d库)
   - [VR/AR](#vrar)
+  - [物理引擎](#物理引擎)
+  - [游戏引擎](#游戏引擎)
   - [流程图](#流程图)
   - [甘特图](#甘特图)
   - [组织图](#组织图)
   - [图编辑](#图编辑)
   - [电子表格](#电子表格)
   - [图表库](#图表库)
-  - [海报/截图](#海报截图)
+  - [海报截图](#海报截图)
   - [数据处理](#数据处理)
   - [图像处理](#图像处理)
   - [画板](#画板)
   - [签名](#签名)
-  - [物理引擎](#物理引擎)
-  - [游戏引擎](#游戏引擎)
   - [波纹动画](#波纹动画)
   - [粒子动画](#粒子动画)
   - [路径动画](#路径动画)
@@ -118,6 +118,24 @@
   - [A-Frame](https://github.com/aframevr/aframe) [[在线演示](https://aframe.io/)] A-Frame 除了帮助您构建 360 度媒体播放器外，它还提供了许多附加功能。其他功能可帮助您增强网站的虚拟现实体验。 ![](https://img.shields.io/github/stars/aframevr/aframe?style=social) ![](https://img.shields.io/github/forks/aframevr/aframe?style=social)
   - [exokit](https://github.com/exokitxr/exokit) [[在线演示](https://exokit.org/)] - 基于JavaScript的原生VR / AR / XR引擎 ![](https://img.shields.io/github/stars/exokitxr/exokit?style=social) ![](https://img.shields.io/github/forks/exokitxr/exokit?style=social)
   - [webvr-boilerplate](https://github.com/borismus/webvr-boilerplate) [[在线演示](https://borismus.github.io/webvr-boilerplate/#)] - 工作在VR头戴设备的基于Web的VR虚拟体验 ![](https://img.shields.io/github/stars/borismus/webvr-boilerplate?style=social) ![](https://img.shields.io/github/forks/borismus/webvr-boilerplate?style=social)
+
+### 物理引擎
+  - [matter-js](https://brm.io/matter-js/) [[在线演示](https://brm.io/matter-js/demo/#mixed)] - 用于web的2D刚体物理引擎 ![](https://img.shields.io/github/stars/liabru/matter-js?style=social) ![](https://img.shields.io/github/forks/liabru/matter-js?style=social)
+  - [box2d.js](https://github.com/kripken/box2d.js) [[在线示例](http://kripken.github.io/box2d.js/demo/webgl/box2d.html)] - box2d.js是Box2D物理引擎的JS版本。 ![](https://img.shields.io/github/stars/kripken/box2d.js?style=social) ![](https://img.shields.io/github/forks/kripken/box2d.js?style=social)
+  - [p2.js](https://github.com/schteppe/p2.js) [[在线演示](http://schteppe.github.io/p2.js/demos/springs.html)] - JavaScript 2D 物理引擎库。 ![](https://img.shields.io/github/stars/schteppe/p2.js?style=social) ![](https://img.shields.io/github/forks/schteppe/p2.js?style=social)
+
+### 游戏引擎
+  - [Hilo](https://github.com/hiloteam/Hilo/blob/dev/README_ZH.md) [[在线演示](https://hiloteam.github.io/examples/index.html)] - 阿里巴巴集团开发的跨平台HTML5游戏开发解决方案 ![](https://img.shields.io/github/stars/hiloteam/Hilo?style=social) ![](https://img.shields.io/github/forks/hiloteam/Hilo?style=social)
+  - [melonJS](https://melonjs.org/) [[在线演示](https://www.melongaming.com/)] - 一个全新的轻量级javascript游戏引擎 ![](https://img.shields.io/github/stars/melonjs/melonJS?style=social) ![](https://img.shields.io/github/forks/melonjs/melonJS?style=social)
+  - [Babylon.js](https://github.com/BabylonJS/Babylon.js) [[在线演示](https://www.babylonjs.com/community/)] - 功能强大、美观、简单、开源、封装友好的游戏渲染引擎 ![](https://img.shields.io/github/stars/BabylonJS/Babylon.js?style=social) ![](https://img.shields.io/github/forks/BabylonJS/Babylon.js?style=social)
+  - [Phaser](https://github.com/photonstorm/phaser) [[在线演示](https://phaser.io/examples)] - 有趣、免费、快速、支持Canvas和WebGL的2D游戏框架，用于为桌面和移动端浏览器H5游戏制作 ![](https://img.shields.io/github/stars/photonstorm/phaser?style=social) ![](https://img.shields.io/github/forks/photonstorm/phaser?style=social)
+    - [phaser-examples](https://github.com/photonstorm/phaser-examples) - 包含数百个Phaser HTML5 游戏框架的源代码示例 ![](https://img.shields.io/github/stars/photonstorm/phaser-examples?style=social) ![](https://img.shields.io/github/forks/photonstorm/phaser-examples?style=social)
+    - [games](https://github.com/channingbreeze/games) - 一个基于Phaser的小游戏集合 ![](https://img.shields.io/github/stars/channingbreeze/games?style=social) ![](https://img.shields.io/github/forks/channingbreeze/games?style=social)
+    - [phaser3-examples](https://github.com/photonstorm/phaser3-examples) - phaser3例子 ![](https://img.shields.io/github/stars/photonstorm/phaser3-examples?style=social) ![](https://img.shields.io/github/forks/photonstorm/phaser3-examples?style=social)
+    - [phaser-ce](https://github.com/photonstorm/phaser-ce) - Phaser CE 是一个有趣、免费且快速的2D游戏框架，用于为桌面和移动端Web制作HTML5游戏，支持 Canvas和WebGL渲染 ![](https://img.shields.io/github/stars/photonstorm/phaser-ce?style=social) ![](https://img.shields.io/github/forks/photonstorm/phaser-ce?style=social)
+    - [phaser3-project-template](https://github.com/photonstorm/phaser3-project-template) - Phaser3项目模板 ![](https://img.shields.io/github/stars/photonstorm/phaser3-project-template?style=social) ![](https://img.shields.io/github/forks/photonstorm/phaser3-project-template?style=social)
+  - [taro](https://github.com/Cloud9c/taro) [[在线演示](https://www.echou.xyz/taro/examples/#Cube)] - 轻量级3D游戏引擎。 ![](https://img.shields.io/github/stars/Cloud9c/taro?style=social) ![](https://img.shields.io/github/forks/Cloud9c/taro?style=social)
+  - [turbulenz_engine](https://github.com/turbulenz/turbulenz_engine) [[在线演示](http://biz.turbulenz.com/samples)] - 模块化的3D和2D游戏框架，用于为浏览器、桌面端和移动端设备制作 HTML5 驱动的游戏。 ![](https://img.shields.io/github/stars/turbulenz/turbulenz_engine?style=social) ![](https://img.shields.io/github/forks/turbulenz/turbulenz_engine?style=social)
 
 ### 流程图
   - [GOJS](https://gojs.net/latest/index.html) [[在线演示](https://gojs.net/latest/samples/)] - 交互式流程图、组织结构图、设计工具、规划工具、可视化语言的JavaScript图表库![](https://img.shields.io/github/stars/NorthwoodsSoftware/GoJS?style=social) ![](https://img.shields.io/github/forks/NorthwoodsSoftware/GoJS?style=social)
@@ -221,7 +239,7 @@
   - [HQChart](https://github.com/jones2000/HQChart) - HQChart - H5, 微信小程序 沪深/港股/数字货币/期货/美股 K线图(kline),走势图,缩放,拖拽,十字光标,画图工具,截图,筹码图 ![](https://img.shields.io/github/stars/jones2000/HQChart?style=social) ![](https://img.shields.io/github/forks/jones2000/HQChart?style=social)
   - [canvas-gauges](https://github.com/Mikhus/canvas-gauges) [[在线演示](http://canvas-gauges.com/documentation/examples/)] - 使用纯 JavaScript 和 HTML5 画布的高度可配置仪表盘。没有依赖性。由于代码库最少，因此适用于物联网设备 ![](https://img.shields.io/github/stars/Mikhus/canvas-gauges?style=social) ![](https://img.shields.io/github/forks/Mikhus/canvas-gauges?style=social)
 
-### 海报/截图
+### 海报截图
   - [html2canvas](https://html2canvas.hertzen.com/) [[在线演示](https://html2canvas.hertzen.com/)] - JS截图插件 ![](https://img.shields.io/github/stars/niklasvh/html2canvas?style=social) ![](https://img.shields.io/github/forks/niklasvh/html2canvas?style=social)
   - [dom-to-image](https://github.com/tsayen/dom-to-image) - 使用HTML5 Canvas从DOM节点生成图像 ![](https://img.shields.io/github/stars/tsayen/dom-to-image?style=social) ![](https://img.shields.io/github/forks/tsayen/dom-to-image?style=social)
   - [html-to-image](https://github.com/bubkoo/html-to-image) - 使用HTML5 Canvas和SVG从DOM节点生成图像。 ![](https://img.shields.io/github/stars/bubkoo/html-to-image?style=social) ![](https://img.shields.io/github/forks/bubkoo/html-to-image?style=social)
@@ -263,24 +281,6 @@
     - [react-native-signature-pad](https://github.com/kevinstumpf/react-native-signature-pad) - React-Native版的签名板 ![](https://img.shields.io/github/stars/kevinstumpf/react-native-signature-pad?style=social) ![](https://img.shields.io/github/forks/kevinstumpf/react-native-signature-pad?style=social)
   - [signature-pad](https://github.com/thread-pond/signature-pad) [[在线演示](https://thread-pond.github.io/signature-pad/examples/require-drawn-signature.html)] - JQ插件，创建基于Canvas的签名板 ![](https://img.shields.io/github/stars/thread-pond/signature-pad?style=social) ![](https://img.shields.io/github/forks/thread-pond/signature-pad?style=social)
   - [canvas-draw](https://github.com/Louiszhai/canvas-draw) [[在线演示](http://louiszhai.github.io/res/canvasDraw/#/sign)] - 使用Canvas手写签名或绘图，支持PC、Mobile和横屏 ![](https://img.shields.io/github/stars/Louiszhai/canvas-draw?style=social) ![](https://img.shields.io/github/forks/Louiszhai/canvas-draw?style=social)
-
-### 物理引擎
-  - [matter-js](https://brm.io/matter-js/) [[在线演示](https://brm.io/matter-js/demo/#mixed)] - 用于web的2D刚体物理引擎 ![](https://img.shields.io/github/stars/liabru/matter-js?style=social) ![](https://img.shields.io/github/forks/liabru/matter-js?style=social)
-  - [box2d.js](https://github.com/kripken/box2d.js) [[在线示例](http://kripken.github.io/box2d.js/demo/webgl/box2d.html)] - box2d.js是Box2D物理引擎的JS版本。 ![](https://img.shields.io/github/stars/kripken/box2d.js?style=social) ![](https://img.shields.io/github/forks/kripken/box2d.js?style=social)
-  - [p2.js](https://github.com/schteppe/p2.js) [[在线演示](http://schteppe.github.io/p2.js/demos/springs.html)] - JavaScript 2D 物理引擎库。 ![](https://img.shields.io/github/stars/schteppe/p2.js?style=social) ![](https://img.shields.io/github/forks/schteppe/p2.js?style=social)
-
-### 游戏引擎
-  - [Hilo](https://github.com/hiloteam/Hilo/blob/dev/README_ZH.md) [[在线演示](https://hiloteam.github.io/examples/index.html)] - 阿里巴巴集团开发的跨平台HTML5游戏开发解决方案 ![](https://img.shields.io/github/stars/hiloteam/Hilo?style=social) ![](https://img.shields.io/github/forks/hiloteam/Hilo?style=social)
-  - [melonJS](https://melonjs.org/) [[在线演示](https://www.melongaming.com/)] - 一个全新的轻量级javascript游戏引擎 ![](https://img.shields.io/github/stars/melonjs/melonJS?style=social) ![](https://img.shields.io/github/forks/melonjs/melonJS?style=social)
-  - [Babylon.js](https://github.com/BabylonJS/Babylon.js) [[在线演示](https://www.babylonjs.com/community/)] - 功能强大、美观、简单、开源、封装友好的游戏渲染引擎 ![](https://img.shields.io/github/stars/BabylonJS/Babylon.js?style=social) ![](https://img.shields.io/github/forks/BabylonJS/Babylon.js?style=social)
-  - [Phaser](https://github.com/photonstorm/phaser) [[在线演示](https://phaser.io/examples)] - 有趣、免费、快速、支持Canvas和WebGL的2D游戏框架，用于为桌面和移动端浏览器H5游戏制作 ![](https://img.shields.io/github/stars/photonstorm/phaser?style=social) ![](https://img.shields.io/github/forks/photonstorm/phaser?style=social)
-    - [phaser-examples](https://github.com/photonstorm/phaser-examples) - 包含数百个Phaser HTML5 游戏框架的源代码示例 ![](https://img.shields.io/github/stars/photonstorm/phaser-examples?style=social) ![](https://img.shields.io/github/forks/photonstorm/phaser-examples?style=social)
-    - [games](https://github.com/channingbreeze/games) - 一个基于Phaser的小游戏集合 ![](https://img.shields.io/github/stars/channingbreeze/games?style=social) ![](https://img.shields.io/github/forks/channingbreeze/games?style=social)
-    - [phaser3-examples](https://github.com/photonstorm/phaser3-examples) - phaser3例子 ![](https://img.shields.io/github/stars/photonstorm/phaser3-examples?style=social) ![](https://img.shields.io/github/forks/photonstorm/phaser3-examples?style=social)
-    - [phaser-ce](https://github.com/photonstorm/phaser-ce) - Phaser CE 是一个有趣、免费且快速的2D游戏框架，用于为桌面和移动端Web制作HTML5游戏，支持 Canvas和WebGL渲染 ![](https://img.shields.io/github/stars/photonstorm/phaser-ce?style=social) ![](https://img.shields.io/github/forks/photonstorm/phaser-ce?style=social)
-    - [phaser3-project-template](https://github.com/photonstorm/phaser3-project-template) - Phaser3项目模板 ![](https://img.shields.io/github/stars/photonstorm/phaser3-project-template?style=social) ![](https://img.shields.io/github/forks/photonstorm/phaser3-project-template?style=social)
-  - [taro](https://github.com/Cloud9c/taro) [[在线演示](https://www.echou.xyz/taro/examples/#Cube)] - 轻量级3D游戏引擎。 ![](https://img.shields.io/github/stars/Cloud9c/taro?style=social) ![](https://img.shields.io/github/forks/Cloud9c/taro?style=social)
-  - [turbulenz_engine](https://github.com/turbulenz/turbulenz_engine) [[在线演示](http://biz.turbulenz.com/samples)] - 模块化的3D和2D游戏框架，用于为浏览器、桌面端和移动端设备制作 HTML5 驱动的游戏。 ![](https://img.shields.io/github/stars/turbulenz/turbulenz_engine?style=social) ![](https://img.shields.io/github/forks/turbulenz/turbulenz_engine?style=social)
 
 ### 波纹动画
   - [wavesurfer.js](https://wavesurfer-js.org/) [[在线演示](https://wavesurfer-js.org/examples/)] - 以Web音频和Canvas的音频波纹 ![](https://img.shields.io/github/stars/katspaugh/wavesurfer.js?style=social) ![](https://img.shields.io/github/forks/katspaugh/wavesurfer.js?style=social)
