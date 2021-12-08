@@ -11,7 +11,7 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
   - [Canvas draw](#canvas-draw)
   - [Charts](#charts)
   - [3D libraries](#3d-libraries)
-  - [Panorama](#panorama)
+  - [VR/AR](#vrar)
   - [Flowchart](#flowchart)
   - [Gantt](#gantt)
   - [Organization charts](#organization-charts)
@@ -168,7 +168,7 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
   - [phoria.js](https://github.com/kevinroast/phoria.js) [[Online Demo](http://www.kevs3d.co.uk/dev/phoria/index.html)] - JavaScript library for simple 3D graphics and visualisation on a HTML5 canvas 2D renderer. It does not use WebGL. Works on all HTML5 browsers, including desktop, iOS and Android. ![](https://img.shields.io/github/stars/kevinroast/phoria.js?style=social) ![](https://img.shields.io/github/forks/kevinroast/phoria.js?style=social)
   - [isomer](https://github.com/jdan/isomer) [[Online Demo](http://jdan.github.io/isomer/)] - Simple isometric graphics library for HTML5 canvas. ![](https://img.shields.io/github/stars/jdan/isomer?style=social) ![](https://img.shields.io/github/forks/jdan/isomer?style=social)
 
-### Panorama
+### VR/AR
   - [Panolens.js](https://github.com/pchen66/panolens.js) [[Online Demo](https://pchen66.github.io/Panolens/)] - Javascript panorama viewer based on Three.js ![](https://img.shields.io/github/stars/pchen66/panolens.js?style=social) ![](https://img.shields.io/github/forks/pchen66/panolens.js?style=social)
   - [Pannellum](https://github.com/mpetroff/pannellum) [[Online Demo](https://pannellum.org/)] - Pannellum is a lightweight, free, and open source panorama viewer for the web. ![](https://img.shields.io/github/stars/mpetroff/pannellum?style=social) ![](https://img.shields.io/github/forks/mpetroff/pannellum?style=social)
   - [Marzipano](https://github.com/google/marzipano) [[Online Demo](https://www.marzipano.net/demos/sample-tour/)] A 360° media viewer for the modern web. ![](https://img.shields.io/github/stars/google/marzipano?style=social) ![](https://img.shields.io/github/forks/google/marzipano?style=social)

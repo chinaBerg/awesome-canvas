@@ -14,7 +14,7 @@
   - [图形绘制](#图形绘制)
   - [图表库](#图表库)
   - [3D库](#3d库)
-  - [全景图](#全景图)
+  - [VR/AR](#vrar)
   - [流程图](#流程图)
   - [甘特图](#甘特图)
   - [组织图](#组织图)
@@ -171,7 +171,7 @@
   - [phoria.js](https://github.com/kevinroast/phoria.js) [[在线演示](http://www.kevs3d.co.uk/dev/phoria/index.html)] - 用于在 HTML5 画布 2D 渲染器上进行简单 3D 图形和可视化的 JavaScript 库。它不使用 WebGL。适用于所有 HTML5 浏览器，包括桌面、iOS 和 Android ![](https://img.shields.io/github/stars/kevinroast/phoria.js?style=social) ![](https://img.shields.io/github/forks/kevinroast/phoria.js?style=social)
   - [isomer](https://github.com/jdan/isomer) [[在线示例](http://jdan.github.io/isomer/)] - 基于HTML5 Canvas的简单等距图形库。 ![](https://img.shields.io/github/stars/jdan/isomer?style=social) ![](https://img.shields.io/github/forks/jdan/isomer?style=social)
 
-### 全景图
+### VR/AR
   - [Panolens.js](https://github.com/pchen66/panolens.js) [[在线演示](https://pchen66.github.io/Panolens/)] - Panolens.js基于Three.JS，主要研究领域是全景、虚拟现实和潜在的增强现实。 ![](https://img.shields.io/github/stars/pchen66/panolens.js?style=social) ![](https://img.shields.io/github/forks/pchen66/panolens.js?style=social)
   - [Pannellum](https://github.com/mpetroff/pannellum) [[在线演示](https://pannellum.org/)] - 轻量、免费、开源的web全景查看器。 ![](https://img.shields.io/github/stars/mpetroff/pannellum?style=social) ![](https://img.shields.io/github/forks/mpetroff/pannellum?style=social)
   - [Marzipano](https://github.com/google/marzipano) [[在线演示](https://www.marzipano.net/demos/sample-tour/)] 可让您轻松为您的网站创建 360 度媒体播放器。 ![](https://img.shields.io/github/stars/google/marzipano?style=social) ![](https://img.shields.io/github/forks/google/marzipano?style=social)
