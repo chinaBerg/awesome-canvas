@@ -18,7 +18,7 @@
   - [流程图](#流程图)
   - [甘特图](#甘特图)
   - [组织图](#组织图)
-  - [可视化图编辑](#可视化图编辑)
+  - [图编辑](#图编辑)
   - [Excel/电子表格](#excel电子表格)
   - [海报/截图](#海报截图)
   - [数据处理](#数据处理)
@@ -203,7 +203,7 @@
 ### 组织图
   - [OrgChart](https://github.com/dabeng/OrgChart/blob/master/README.zh-cn.md) [[在线演示](https://dabeng.github.io/OrgChart/)] - 简单直接的组织图插件 ![](https://img.shields.io/github/stars/dabeng/OrgChart?style=social) ![](https://img.shields.io/github/forks/dabeng/OrgChart?style=social)
 
-### 可视化图编辑
+### 图编辑
   - [Workflow Designer](https://github.com/guozhaolong/wfd) [[在线示例](https://guozhaolong.github.io/wfd/)] - 基于G6和React的可视化流程编辑器。 ![](https://img.shields.io/github/stars/guozhaolong/wfd?style=social) ![](https://img.shields.io/github/forks/guozhaolong/wfd?style=social)
   - [vue-g6-editor](https://github.com/caoyu48/vue-g6-editor) [[在线示例](https://github.com/caoyu48/vue-g6-editor/blob/master/1.gif)] - 基于 G6 和 Vue 的可视化编辑器。 ![](https://img.shields.io/github/stars/caoyu48/vue-g6-editor?style=social) ![](https://img.shields.io/github/forks/caoyu48/vue-g6-editor?style=social)
   - [X-Flowchart-Vue](https://github.com/OXOYO/X-Flowchart-Vue) [[在线演示](http://oxoyo.co/X-Flowchart-Vue/)] - 基于G6和Vue的可视化图形编辑器 ![](https://img.shields.io/github/stars/OXOYO/X-Flowchart-Vue?style=social) ![](https://img.shields.io/github/forks/OXOYO/X-Flowchart-Vue?style=social)

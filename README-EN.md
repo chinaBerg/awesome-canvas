@@ -15,7 +15,7 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
   - [Flowchart](#flowchart)
   - [Gantt](#gantt)
   - [Organization charts](#organization-charts)
-  - [Visual Graph Editing](#visual-graph-editing)
+  - [Graph Editing](#graph-editing)
   - [Excel and Spreadsheet](#excel-and-spreadsheet)
   - [Poster and Screenshot](#poster-and-screenshot)
   - [Data processing](#data-processing)
@@ -200,7 +200,7 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
 ### Organization charts
   - [OrgChart](https://github.com/dabeng/OrgChart/blob/master/README.zh-cn.md) [[Online Demo](https://dabeng.github.io/OrgChart/)] - It's a simple and direct organization chart plugin. Anytime you want a tree-like chart, you can turn to OrgChart. ![](https://img.shields.io/github/stars/dabeng/OrgChart?style=social) ![](https://img.shields.io/github/forks/dabeng/OrgChart?style=social)
 
-### Visual Graph Editing
+### Graph Editing
   - [Workflow Designer](https://github.com/guozhaolong/wfd) [[Online Demo](https://guozhaolong.github.io/wfd/)] - flowable workflow designer base on @antv/g6。 ![](https://img.shields.io/github/stars/guozhaolong/wfd?style=social) ![](https://img.shields.io/github/forks/guozhaolong/wfd?style=social)
   - [vue-g6-editor](https://github.com/caoyu48/vue-g6-editor) [[Online Demo](https://github.com/caoyu48/vue-g6-editor/blob/master/1.gif)] - Visual graph editor based on vue ande g6. ![](https://img.shields.io/github/stars/caoyu48/vue-g6-editor?style=social) ![](https://img.shields.io/github/forks/caoyu48/vue-g6-editor?style=social)
   - [X-Flowchart-Vue](https://github.com/OXOYO/X-Flowchart-Vue) [[Online Demo](http://oxoyo.co/X-Flowchart-Vue/)] - A visual graph editor based on G6 and Vue. ![](https://img.shields.io/github/stars/OXOYO/X-Flowchart-Vue?style=social) ![](https://img.shields.io/github/forks/OXOYO/X-Flowchart-Vue?style=social)
