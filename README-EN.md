@@ -59,6 +59,7 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
 - 《[HTML5 Canvas开发详解](http://product.dangdang.com/11012245144.html)》 Author: Steve Fulton, Jeff Fulton [Link🔗](http://product.dangdang.com/11012245144.html)
 - 《[TypeScript图形渲染实战：2D架构设计与实现](http://product.dangdang.com/28499406.html)》 Author: 步磊峰 [Link🔗](http://product.dangdang.com/28499406.html)
 - 《[HTML5 Canvas核心技术：图形、动画与游戏开发](https://item.jd.com/11312007.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_1001542270_53285100_0_1932113745&utm_term=2f9a0a9984c64a1983d8e5eff928839a)》 Author: David Geary
+- 《[HTML5 2D游戏编程核心技术](https://item.jd.com/25570817493.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_1001542270_53285100_0_1932113745&utm_term=ea99fc143d004c78b5b3bd12381b357e)》 Author: David Geary
 - 《[HTML5 Canvas游戏开发实战](http://e.dangdang.com/products/1900396102.html)》 Author: 张路斌 [Link🔗](http://e.dangdang.com/products/1900396102.html)
 - 《[从0到1 HTML5 Canvas动画开发](http://product.dangdang.com/28549249.html)》 Author: 莫振杰 [Link🔗](http://product.dangdang.com/28549249.html)
 - 《[HTML5 Canvas核心技术: 图形、动画与游戏开发](http://product.dangdang.com/1798930436.html)》 Author: Geary [Link🔗](http://product.dangdang.com/1798930436.html)
