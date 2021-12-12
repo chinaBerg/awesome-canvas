@@ -357,6 +357,7 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
 - [可视化小讲堂](https://www.yuque.com/antv/gvvtcf)
 - [如何看待 Google Docs 将从 HTML 迁移到基于 Canvas 渲染？](https://www.zhihu.com/question/459251463) - @知乎 海蓝
 - [用Canvas画一只会跟着鼠标走的小狗](https://zhuanlan.zhihu.com/p/34139676) - @知乎 李银城
+- [用Canvas + WASM画一个迷宫](https://zhuanlan.zhihu.com/p/28203300) - @知乎 李银城
 - [玩转「Canvas」](https://www.bianchengquan.com/article/140323.html) - 编程圈 @糖少
 - [JS之使用Canvas绘图](https://www.jianshu.com/p/802c3bd2df34) - 简书 @LemonnYan
 - [一个少女心满满的例子带你入门 Canvas](https://juejin.cn/post/6844903490020442125) - Juejin @sunshine小小倩
