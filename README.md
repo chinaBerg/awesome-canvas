@@ -358,6 +358,7 @@
 - [G2Plot 可视化圈子](https://www.yuque.com/antv/g2plot)
 - [G2：图形、交互语法](https://www.yuque.com/antv/g2-docs)
 - [可视化小讲堂](https://www.yuque.com/antv/gvvtcf)
+- [如何看待 Google Docs 将从 HTML 迁移到基于 Canvas 渲染？](https://www.zhihu.com/question/459251463) - @知乎 海蓝
 - [玩转「Canvas」](https://www.bianchengquan.com/article/140323.html) - 编程圈 @糖少
 - [JS之使用Canvas绘图](https://www.jianshu.com/p/802c3bd2df34) - 简书 @LemonnYan
 - [一个少女心满满的例子带你入门 Canvas](https://juejin.cn/post/6844903490020442125) - 掘金 @sunshine小小倩
