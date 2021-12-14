@@ -1,6 +1,7 @@
 ![](./assets/logo.png)
 ## awesome-canvas
 精心收录Canvas相关的资源并整理分类，部分同类资源库也收录SVG/WebGL相关的资源。
+目前最好的Canvas中文资源，项目还在持续收录中......
 
 简体中文 | [English](./README-EN.md)
 
