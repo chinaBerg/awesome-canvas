@@ -1,6 +1,7 @@
 ![](./assets/logo.png)
 ## awesome-canvas
 精心收录Canvas相关的资源并整理分类，部分同类资源库也收录SVG/WebGL相关的资源。
+
 目前最好的Canvas中文资源，项目还在持续收录中......
 
 简体中文 | [English](./README-EN.md)
@@ -251,8 +252,8 @@
   - [dom-to-image](https://github.com/tsayen/dom-to-image) - 使用HTML5 Canvas从DOM节点生成图像 ![](https://img.shields.io/github/stars/tsayen/dom-to-image?style=social) ![](https://img.shields.io/github/forks/tsayen/dom-to-image?style=social)
   - [html-to-image](https://github.com/bubkoo/html-to-image) - 使用HTML5 Canvas和SVG从DOM节点生成图像。 ![](https://img.shields.io/github/stars/bubkoo/html-to-image?style=social) ![](https://img.shields.io/github/forks/bubkoo/html-to-image?style=social)
   - [canvas2image](https://github.com/hongru/canvas2image) [[在线演示](https://github.com/hongru/canvas2image/blob/master/index.html)] - 用于保存或转换Canvas为图片的工具 ![](https://img.shields.io/github/stars/hongru/canvas2image?style=social) ![](https://img.shields.io/github/forks/hongru/canvas2image?style=social)
-  - [mp_canvas_drawer](https://github.com/kuckboy1994/mp_canvas_drawer) [[在线演示](https://github.com/kuckboy1994/mp_canvas_drawer#%E6%BC%94%E7%A4%BA)] - 微信小程序上canvas绘制图片助手，一个json就制作分享朋友圈图片 ![](https://img.shields.io/github/stars/kuckboy1994/mp_canvas_drawer?style=social) ![](https://img.shields.io/github/forks/kuckboy1994/mp_canvas_drawer?style=social)
-  - [vue-canvas-poster](https://github.com/sunniejs/vue-canvas-poster) [[在线演示](https://www.sunniejs.cn/vant-demo/#/example/poster)] - vue生成海报图，通过CSS属性画Canvas图片的轻量级组件 ![](https://img.shields.io/github/stars/sunniejs/vue-canvas-poster?style=social) ![](https://img.shields.io/github/forks/sunniejs/vue-canvas-poster?style=social)
+  - [mp_canvas_drawer](https://github.com/kuckboy1994/mp_canvas_drawer) [[在线演示](https://github.com/kuckboy1994/mp_canvas_drawer#%E6%BC%94%E7%A4%BA)] - 微信小程序绘图助手，通过json生成分享朋友圈的图片 ![](https://img.shields.io/github/stars/kuckboy1994/mp_canvas_drawer?style=social) ![](https://img.shields.io/github/forks/kuckboy1994/mp_canvas_drawer?style=social)
+  - [vue-canvas-poster](https://github.com/sunniejs/vue-canvas-poster) [[在线演示](https://www.sunniejs.cn/vant-demo/#/example/poster)] - 通过CSS属性生成海报图的轻量级Vue组件 ![](https://img.shields.io/github/stars/sunniejs/vue-canvas-poster?style=social) ![](https://img.shields.io/github/forks/sunniejs/vue-canvas-poster?style=social)
 
 ### 数据处理
   - [html2pdf.js](https://github.com/eKoopmans/html2pdf.js) - 纯JS的客户端HTML生成PDF ![](https://img.shields.io/github/stars/eKoopmans/html2pdf.js?style=social) ![](https://img.shields.io/github/forks/eKoopmans/html2pdf.js?style=social)
