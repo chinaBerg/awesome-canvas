@@ -69,6 +69,7 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
 - 《[Graph Analysis and Visualization](https://book.douban.com/subject/26756024/)》 Author: Richard Brath  / David Jonker [Link🔗](https://book.douban.com/subject/26756024/)
 - 《[Visual Complexity: Mapping Patterns of Information](https://book.douban.com/subject/25665238/)》 Author: Manuel Lima [Link🔗](https://book.douban.com/subject/25665238/)
 - 《[Data visualization](https://book.douban.com/subject/25760272/)》 Author: 陈为 / 沈则潜 [Link🔗](https://book.douban.com/subject/25760272/)
+- 《[从0-1入门数据可视化](https://wzf1997.github.io/learn-visualization/blog/three/3dearth.html)》 Author: Fly
 
 ## Libraries
 ### Canvas draw
@@ -137,7 +138,7 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
   - [PuzzleScript](https://github.com/increpare/PuzzleScript) [[Online Demo](https://www.puzzlescript.net/)] - Open Source HTML5 Puzzle Game Engine ![](https://img.shields.io/github/stars/increpare/PuzzleScript?style=social) ![](https://img.shields.io/github/forks/increpare/PuzzleScript?style=social)
   - [LittleJS](https://github.com/KilledByAPixel/LittleJS) [[Online Demo](https://killedbyapixel.github.io/LittleJS/examples/puzzle/)] - The Tiny JavaScript Game Engine That Can! 🚂 ![](https://img.shields.io/github/stars/KilledByAPixel/LittleJS?style=social) ![](https://img.shields.io/github/forks/KilledByAPixel/LittleJS?style=social)
   - [Black](https://github.com/MassiveHeights/Black) [[Online Demo](https://blacksmith2d.io/Docs/Examples)] - World's fastest HTML5 2D game engine 🛸 ![](https://img.shields.io/github/stars/MassiveHeights/Black?style=social) ![](https://img.shields.io/github/forks/MassiveHeights/Black?style=social)
-  - [stage.js](https://github.com/shakiba/stage.js) [[Online Demo](https://piqnt.com/stage.js/)] - 2D HTML5 rendering and layout engine for game development. ![](https://img.shields.io/github/stars/shakiba/stage.js?style=social) ![](https://img.shields.io/github/forks/shakiba/stage.js?style=social) 
+  - [stage.js](https://github.com/shakiba/stage.js) [[Online Demo](https://piqnt.com/stage.js/)] - 2D HTML5 rendering and layout engine for game development. ![](https://img.shields.io/github/stars/shakiba/stage.js?style=social) ![](https://img.shields.io/github/forks/shakiba/stage.js?style=social)
   - [Phaser](https://github.com/photonstorm/phaser) [[Online Demo](https://phaser.io/examples)] - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering. ![](https://img.shields.io/github/stars/photonstorm/phaser?style=social) ![](https://img.shields.io/github/forks/photonstorm/phaser?style=social)
     - [phaser-examples](https://github.com/photonstorm/phaser-examples) - Contains hundreds of source code examples and related media for the Phaser HTML5 Game Framework. ![](https://img.shields.io/github/stars/photonstorm/phaser-examples?style=social) ![](https://img.shields.io/github/forks/photonstorm/phaser-examples?style=social)
     - [games](https://github.com/channingbreeze/games) - List of small games based on phaser ![](https://img.shields.io/github/stars/channingbreeze/games?style=social) ![](https://img.shields.io/github/forks/channingbreeze/games?style=social)

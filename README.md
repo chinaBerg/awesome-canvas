@@ -74,6 +74,7 @@
 - 《[图分析与可视化](https://book.douban.com/subject/26756024/)》 作者: 理查德·布莱斯 / 大卫·琼克 [链接地址🔗](https://book.douban.com/subject/26756024/)
 - 《[视觉繁美 - 信息可视化方法与案例解析](https://book.douban.com/subject/25665238/)》 作者: Manuel Lima [链接地址🔗](https://book.douban.com/subject/25665238/)
 - 《[数据可视化](https://book.douban.com/subject/25760272/)》 作者: 陈为 / 沈则潜 [链接地址🔗](https://book.douban.com/subject/25760272/)
+- 《[从0-1入门数据可视化](https://wzf1997.github.io/learn-visualization/blog/three/3dearth.html)》 作者: Fly
 
 ## 仓库
 ### 图形绘制
