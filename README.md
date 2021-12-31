@@ -183,6 +183,7 @@
   - [ng-antv](https://github.com/dappsnation/ng-antv) - 基于G6和Angular实现的编辑器。 ![](https://img.shields.io/github/stars/dappsnation/ng-antv?style=social) ![](https://img.shields.io/github/forks/dappsnation/ng-antv?style=social)
   - [welabx-g6](https://github.com/claudewowo/welabx-g6) [[在线示例](https://claudewowo.github.io/welabx-g6/dist/?_blank)] - 基于G6和Vue的流程图编辑器 ![](https://img.shields.io/github/stars/claudewowo/welabx-g6?style=social) ![](https://img.shields.io/github/forks/claudewowo/welabx-g6?style=social)
   - [topology](https://github.com/le5le-com/topology/blob/master/README.CN.md) [[在线示例](http://topology.le5le.com/workspace)] - 轻量（100k左右）且功能丰富的绘图工具（架构图、拓扑图、流程图、UML、脑图等） ![](https://img.shields.io/github/stars/le5le-com/topology?style=social) ![](https://img.shields.io/github/forks/le5le-com/topology?style=social)
+  - [excalidraw](https://github.com/excalidraw/excalidraw) [[在线示例](https://excalidraw.com/)] - 用于用于素描手绘的虚拟白板 ![](https://img.shields.io/github/stars/excalidraw/excalidraw?style=social) ![](https://img.shields.io/github/forks/excalidraw/excalidraw?style=social)
 
 ### 电子表格
   - [x-spreadsheet](https://github.com/myliang/x-spreadsheet) [[在线演示](https://myliang.github.io/x-spreadsheet/)] - 基于webJavaScript(canvas)Excel表格 ![](https://img.shields.io/github/stars/myliang/x-spreadsheet?style=social) ![](https://img.shields.io/github/forks/myliang/x-spreadsheet?style=social)
