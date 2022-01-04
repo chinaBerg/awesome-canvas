@@ -271,6 +271,7 @@
   - [jsgif](https://github.com/antimatter15/jsgif) - 将HTML5 Canvas保存到GIF和动画。一个AS3GIF Gifplayer到JS的港口 ![](https://img.shields.io/github/stars/antimatter15/jsgif?style=social) ![](https://img.shields.io/github/forks/antimatter15/jsgif?style=social)
   - [whammy](https://github.com/antimatter15/whammy) - 基于Canvas来Hack的实时JS webm编码器 ![](https://img.shields.io/github/stars/antimatter15/whammy?style=social) ![](https://img.shields.io/github/forks/antimatter15/whammy?style=social)
   - [js-imagediff](https://github.com/HumbleSoftware/js-imagediff) - 带有Jasmine匹配器的Canvas图像差异比对程序，用于测试Canvas ![](https://img.shields.io/github/stars/HumbleSoftware/js-imagediff?style=social) ![](https://img.shields.io/github/forks/HumbleSoftware/js-imagediff?style=social)
+  - [canvas2svg](https://github.com/gliffy/canvas2svg) [[在线演示](http://gliffy.github.io/canvas2svg/)] - 将H5 Canvas绘图命令是转换成SVG ![](https://img.shields.io/github/stars/gliffy/canvas2svg?style=social) ![](https://img.shields.io/github/forks/gliffy/canvas2svg?style=social)
 
 ### 图像处理
   - [tui.image-editor](https://github.com/nhn/tui.image-editor) [[在线演示](http://nhn.github.io/tui.image-editor/latest/tutorial-example01-includeUi)] - 基于Canvas功能完整的照片图像编辑器。 ![](https://img.shields.io/github/stars/nhn/tui.image-editor?style=social) ![](https://img.shields.io/github/forks/nhn/tui.image-editor?style=social)
