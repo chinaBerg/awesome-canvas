@@ -129,6 +129,7 @@
   - [matter-js](https://brm.io/matter-js/) [[在线演示](https://brm.io/matter-js/demo/#mixed)] - 用于web的2D刚体物理引擎 ![](https://img.shields.io/github/stars/liabru/matter-js?style=social) ![](https://img.shields.io/github/forks/liabru/matter-js?style=social)
   - [box2d.js](https://github.com/kripken/box2d.js) [[在线示例](http://kripken.github.io/box2d.js/demo/webgl/box2d.html)] - box2d.js是Box2D物理引擎的JS版本。 ![](https://img.shields.io/github/stars/kripken/box2d.js?style=social) ![](https://img.shields.io/github/forks/kripken/box2d.js?style=social)
   - [p2.js](https://github.com/schteppe/p2.js) [[在线演示](http://schteppe.github.io/p2.js/demos/springs.html)] - JavaScript 2D 物理引擎库。 ![](https://img.shields.io/github/stars/schteppe/p2.js?style=social) ![](https://img.shields.io/github/forks/schteppe/p2.js?style=social)
+  - [planck.js](https://github.com/shakiba/planck.js) [[在线演示](https://piqnt.com/planck.js/)] - 2D JS物理引擎 ![](https://img.shields.io/github/stars/shakiba/planck.js?style=social) ![](https://img.shields.io/github/forks/shakiba/planck.js?style=social)
 
 ### 游戏引擎
   - [Hilo](https://github.com/hiloteam/Hilo/blob/dev/README_ZH.md) [[在线演示](https://hiloteam.github.io/examples/index.html)] - 阿里巴巴集团开发的跨平台HTML5游戏开发解决方案 ![](https://img.shields.io/github/stars/hiloteam/Hilo?style=social) ![](https://img.shields.io/github/forks/hiloteam/Hilo?style=social)
