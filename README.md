@@ -258,6 +258,7 @@
   - [zeu](https://github.com/shzlw/zeu) [[在线演示](https://shzlw.github.io/zeu/examples/my-command-center.html)] - 用于构建实时电视仪表板、监控UI和物联网Web界面的JS库 ![](https://img.shields.io/github/stars/shzlw/zeu?style=social) ![](https://img.shields.io/github/forks/shzlw/zeu?style=social)
   - [HQChart](https://github.com/jones2000/HQChart) - HQChart - H5, 微信小程序 沪深/港股/数字货币/期货/美股 K线图(kline),走势图,缩放,拖拽,十字光标,画图工具,截图,筹码图 ![](https://img.shields.io/github/stars/jones2000/HQChart?style=social) ![](https://img.shields.io/github/forks/jones2000/HQChart?style=social)
   - [canvas-gauges](https://github.com/Mikhus/canvas-gauges) [[在线演示](http://canvas-gauges.com/documentation/examples/)] - 使用纯 JavaScript 和 HTML5 画布的高度可配置仪表盘。没有依赖性。由于代码库最少，因此适用于物联网设备 ![](https://img.shields.io/github/stars/Mikhus/canvas-gauges?style=social) ![](https://img.shields.io/github/forks/Mikhus/canvas-gauges?style=social)
+  - [lightweight-charts](https://github.com/tradingview/lightweight-charts) [[在线演示](https://www.tradingview.com/lightweight-charts/)] - 使用H5 Canvas创建的财务轻量级图表 ![](https://img.shields.io/github/stars/tradingview/lightweight-charts?style=social) ![](https://img.shields.io/github/forks/tradingview/lightweight-charts?style=social)
 
 ### 海报截图
   - [html2canvas](https://html2canvas.hertzen.com/) [[在线演示](https://html2canvas.hertzen.com/)] - JS截图插件 ![](https://img.shields.io/github/stars/niklasvh/html2canvas?style=social) ![](https://img.shields.io/github/forks/niklasvh/html2canvas?style=social)
