@@ -152,6 +152,7 @@
     - [phaser3-examples](https://github.com/photonstorm/phaser3-examples) - phaser3例子 ![](https://img.shields.io/github/stars/photonstorm/phaser3-examples?style=social) ![](https://img.shields.io/github/forks/photonstorm/phaser3-examples?style=social)
     - [phaser-ce](https://github.com/photonstorm/phaser-ce) - 有趣、开源、快速且支持Canvas和WebGL渲染的H5 2D游戏框架 ![](https://img.shields.io/github/stars/photonstorm/phaser-ce?style=social) ![](https://img.shields.io/github/forks/photonstorm/phaser-ce?style=social)
     - [phaser3-project-template](https://github.com/photonstorm/phaser3-project-template) - Phaser3项目模板 ![](https://img.shields.io/github/stars/photonstorm/phaser3-project-template?style=social) ![](https://img.shields.io/github/forks/photonstorm/phaser3-project-template?style=social)
+  - [hex-engine](https://github.com/suchipi/hex-engine) [[在线演示](https://hex-engine.dev/docs/examples)] - 一个现代的浏览器2D游戏引擎 ![](https://img.shields.io/github/stars/suchipi/hex-engine?style=social) ![](https://img.shields.io/github/forks/suchipi/hex-engine?style=social)
 
 ### 流程图
   - [GOJS](https://gojs.net/latest/index.html) [[在线演示](https://gojs.net/latest/samples/)] - 用于流程图、组织图、设计工具、可视化语言等的JS图表库 ![](https://img.shields.io/github/stars/NorthwoodsSoftware/GoJS?style=social) ![](https://img.shields.io/github/forks/NorthwoodsSoftware/GoJS?style=social)
