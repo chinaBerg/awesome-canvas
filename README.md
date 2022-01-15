@@ -179,6 +179,7 @@
   - [OrgChart](https://github.com/dabeng/OrgChart/blob/master/README.zh-cn.md) [[在线演示](https://dabeng.github.io/OrgChart/)] - 简单直接的组织图插件 ![](https://img.shields.io/github/stars/dabeng/OrgChart?style=social) ![](https://img.shields.io/github/forks/dabeng/OrgChart?style=social)
 
 ### 图编辑
+  - [idraw](https://github.com/idrawjs/idraw) [[在线示例](https://idraw.js.org/)] - 一个简单的用于在 web 上绘图的 JavaScript 框架 ![](https://img.shields.io/github/stars/idrawjs/idraw?style=social) ![](https://img.shields.io/github/forks/idrawjs/idraw?style=social)
   - [Workflow Designer](https://github.com/guozhaolong/wfd) [[在线示例](https://guozhaolong.github.io/wfd/)] - 基于G6和React的可视化流程编辑器 ![](https://img.shields.io/github/stars/guozhaolong/wfd?style=social) ![](https://img.shields.io/github/forks/guozhaolong/wfd?style=social)
   - [vue-g6-editor](https://github.com/caoyu48/vue-g6-editor) [[在线示例](https://github.com/caoyu48/vue-g6-editor/blob/master/1.gif)] - 基于 G6 和 Vue 的可视化编辑器 ![](https://img.shields.io/github/stars/caoyu48/vue-g6-editor?style=social) ![](https://img.shields.io/github/forks/caoyu48/vue-g6-editor?style=social)
   - [X-Flowchart-Vue](https://github.com/OXOYO/X-Flowchart-Vue) [[在线演示](http://oxoyo.co/X-Flowchart-Vue/)] - 基于G6和Vue的可视化图形编辑器 ![](https://img.shields.io/github/stars/OXOYO/X-Flowchart-Vue?style=social) ![](https://img.shields.io/github/forks/OXOYO/X-Flowchart-Vue?style=social)
