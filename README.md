@@ -306,6 +306,7 @@
     - [react-native-signature-pad](https://github.com/kevinstumpf/react-native-signature-pad) - React-Native版的签名板 ![](https://img.shields.io/github/stars/kevinstumpf/react-native-signature-pad?style=social) ![](https://img.shields.io/github/forks/kevinstumpf/react-native-signature-pad?style=social)
   - [signature-pad](https://github.com/thread-pond/signature-pad) [[在线演示](https://thread-pond.github.io/signature-pad/examples/require-drawn-signature.html)] - JQ插件，创建基于Canvas的签名板 ![](https://img.shields.io/github/stars/thread-pond/signature-pad?style=social) ![](https://img.shields.io/github/forks/thread-pond/signature-pad?style=social)
   - [canvas-draw](https://github.com/Louiszhai/canvas-draw) [[在线演示](http://louiszhai.github.io/res/canvasDraw/#/sign)] - 使用Canvas手写签名或绘图，支持PC、Mobile和横屏 ![](https://img.shields.io/github/stars/Louiszhai/canvas-draw?style=social) ![](https://img.shields.io/github/forks/Louiszhai/canvas-draw?style=social)
+  - [smooth-signature](https://github.com/linjc/smooth-signature) [[在线演示](https://l2j2c3.gitee.io/smooth-signature/demo/index.html)] - H5带笔锋手写签名，支持PC端和移动端，任何前端框架均可使用 ![](https://img.shields.io/github/stars/linjc/smooth-signature?style=social) ![](https://img.shields.io/github/forks/linjc/smooth-signature?style=social)
 
 ### 波纹动画
   - [wavesurfer.js](https://wavesurfer-js.org/) [[在线演示](https://wavesurfer-js.org/examples/)] - 以Web音频和Canvas的音频波纹 ![](https://img.shields.io/github/stars/katspaugh/wavesurfer.js?style=social) ![](https://img.shields.io/github/forks/katspaugh/wavesurfer.js?style=social)
