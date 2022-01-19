@@ -32,6 +32,7 @@
   - [波纹动画](#波纹动画)
   - [粒子动画](#粒子动画)
   - [路径动画](#路径动画)
+  - [光标](#光标)
   - [二维码](#二维码)
   - [验证码](#验证码)
   - [运行时](#运行时)
@@ -327,6 +328,9 @@
 
 ### 路径动画
   - [pasition](https://github.com/dntzhang/pasition) [[在线演示](https://dntzhang.github.io/pasition/)] - 轻量级 Path 过渡库，可以渲染到任何地方 ![](https://img.shields.io/github/stars/dntzhang/pasition?style=social) ![](https://img.shields.io/github/forks/dntzhang/pasition?style=social)
+
+### 光标
+  - [blobity](https://github.com/gmrchk/blobity) [[在线演示](https://blobity.dev/)] - 一个效果不错的canvas光标插件 ![](https://img.shields.io/github/stars/gmrchk/blobity?style=social) ![](https://img.shields.io/github/forks/gmrchk/blobity?style=social)
 
 ### 二维码
   - [qrious](https://github.com/neocotic/qrious) [[在线演示](https://github.com/neocotic/qrious#examples)] - 使用Canvas生成二维码的纯JavaScript库 ![](https://img.shields.io/github/stars/neocotic/qrious?style=social) ![](https://img.shields.io/github/forks/neocotic/qrious?style=social)
