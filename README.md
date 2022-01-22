@@ -273,6 +273,7 @@
   - [canvas2image](https://github.com/hongru/canvas2image) [[在线演示](https://github.com/hongru/canvas2image/blob/master/index.html)] - 用于保存或转换Canvas为图片的工具 ![](https://img.shields.io/github/stars/hongru/canvas2image?style=social) ![](https://img.shields.io/github/forks/hongru/canvas2image?style=social)
   - [mp_canvas_drawer](https://github.com/kuckboy1994/mp_canvas_drawer) [[在线演示](https://github.com/kuckboy1994/mp_canvas_drawer#%E6%BC%94%E7%A4%BA)] - 微信小程序绘图助手，通过json生成分享朋友圈的图片 ![](https://img.shields.io/github/stars/kuckboy1994/mp_canvas_drawer?style=social) ![](https://img.shields.io/github/forks/kuckboy1994/mp_canvas_drawer?style=social)
   - [vue-canvas-poster](https://github.com/sunniejs/vue-canvas-poster) [[在线演示](https://www.sunniejs.cn/vant-demo/#/example/poster)] - 通过CSS属性生成海报图的轻量级Vue组件 ![](https://img.shields.io/github/stars/sunniejs/vue-canvas-poster?style=social) ![](https://img.shields.io/github/forks/sunniejs/vue-canvas-poster?style=social)
+  - [wxa-plugin-canvas](https://github.com/jasondu/wxa-plugin-canvas) - 小程序海报组件-生成朋友圈分享海报并生成图片 ![](https://img.shields.io/github/stars/jasondu/wxa-plugin-canvas?style=social) ![](https://img.shields.io/github/forks/jasondu/wxa-plugin-canvas?style=social)
 
 ### 数据处理
   - [html2pdf.js](https://github.com/eKoopmans/html2pdf.js) - 纯JS的客户端HTML生成PDF ![](https://img.shields.io/github/stars/eKoopmans/html2pdf.js?style=social) ![](https://img.shields.io/github/forks/eKoopmans/html2pdf.js?style=social)
