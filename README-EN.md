@@ -375,6 +375,7 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
 - [canvas-special](https://github.com/bxm0927/) - There are many classic canvas examples, such as dynamic ion background, colorful small ball, greedy snake, tank war, 100 floors down for men, heart-shaped text, etc. ![](https://img.shields.io/github/stars/bxm0927/canvas-special?style=social) ![](https://img.shields.io/github/forks/bxm0927/canvas-special?style=social)
 - [canvas demos](https://github.com/sunshine940326/canvas) ![](https://img.shields.io/github/stars/sunshine940326/canvas?style=social) ![](https://img.shields.io/github/forks/sunshine940326/canvas?style=social)
 - [shape-shifter](https://github.com/kennethcachia/shape-shifter) [[Online Demo](http://www.kennethcachia.com/shape-shifter/)] - A canvas experiment in which a set of particles is used to render different shapes based on the user's input. It supports multiple modes: text, countdown, time and icons. ![](https://img.shields.io/github/stars/kennethcachia/shape-shifter?style=social) ![](https://img.shields.io/github/forks/kennethcachia/shape-shifter?style=social)
+- [canvas-test](https://github.com/whxaxes/canvas-test) - some cnavas demo.
 
 ## Articles
 - [可视化私房菜](https://www.yuque.com/antv/blog/2021s2) - 可视化国家队的私房菜，用心烹调，以飨读者。

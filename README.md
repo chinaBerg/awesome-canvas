@@ -380,6 +380,7 @@
 - [canvas-special](https://github.com/bxm0927/) - 超多经典 Canvas 实例，动态离子背景、炫彩小球、贪吃蛇、坦克大战、是男人就下100层、心形文字等 ![](https://img.shields.io/github/stars/bxm0927/canvas-special?style=social) ![](https://img.shields.io/github/forks/bxm0927/canvas-special?style=social)
 - [canvas效果集合](https://github.com/sunshine940326/canvas) ![](https://img.shields.io/github/stars/sunshine940326/canvas?style=social) ![](https://img.shields.io/github/forks/sunshine940326/canvas?style=social)
 - [shape-shifter](https://github.com/kennethcachia/shape-shifter) [[在线演示](http://www.kennethcachia.com/shape-shifter/)] - 这是一个基于用户输入使用一组粒子来渲染不同形状的画布实验。它支持多种模式:文本，倒计时，时间和图标 ![](https://img.shields.io/github/stars/kennethcachia/shape-shifter?style=social) ![](https://img.shields.io/github/forks/kennethcachia/shape-shifter?style=social)
+- [canvas-test](https://github.com/whxaxes/canvas-test) - 小的canvas效果demo
 
 ## 文章
 - [可视化私房菜](https://www.yuque.com/antv/blog/2021s2) - 可视化国家队的私房菜，用心烹调，以飨读者。
