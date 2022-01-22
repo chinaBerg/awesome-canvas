@@ -28,6 +28,7 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
   - [Particle animation](#particle-animation)
   - [Path animation](#path-animation)
   - [cursor](#cursor)
+  - [Creativity](#creativity)
   - [QR code](#qr-code)
   - [Verification code](#verification-code)
   - [Runtime](#runtime)
@@ -327,6 +328,9 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
 
 ### cursor
   - [blobity](https://github.com/gmrchk/blobity) [[Online Demo](https://blobity.dev/)] - The cursor is the heart of any interaction with the web. Why not take it to the next level? 🚀 ![](https://img.shields.io/github/stars/gmrchk/blobity?style=social) ![](https://img.shields.io/github/forks/gmrchk/blobity?style=social)
+
+### Creativity
+ - [pts](https://github.com/williamngan/pts) [[Online Demo](https://ptsjs.org/)] - A library for visualization and creative-coding. ![](https://img.shields.io/github/stars/williamngan/pts?style=social) ![](https://img.shields.io/github/forks/williamngan/pts?style=social)
 
 ### QR code
   - [qrious](https://github.com/neocotic/qrious) [[Online Demo](https://github.com/neocotic/qrious#examples)] - Pure JavaScript library for QR code generation using canvas. ![](https://img.shields.io/github/stars/neocotic/qrious?style=social) ![](https://img.shields.io/github/forks/neocotic/qrious?style=social)

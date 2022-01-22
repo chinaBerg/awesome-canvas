@@ -33,6 +33,7 @@
   - [粒子动画](#粒子动画)
   - [路径动画](#路径动画)
   - [光标](#光标)
+  - [创意](#创意)
   - [二维码](#二维码)
   - [验证码](#验证码)
   - [运行时](#运行时)
@@ -332,6 +333,9 @@
 
 ### 光标
   - [blobity](https://github.com/gmrchk/blobity) [[在线演示](https://blobity.dev/)] - 一个效果不错的canvas光标插件 ![](https://img.shields.io/github/stars/gmrchk/blobity?style=social) ![](https://img.shields.io/github/forks/gmrchk/blobity?style=social)
+
+### 创意
+ - [pts](https://github.com/williamngan/pts) [[在线演示](https://ptsjs.org/)] - 一个可视化和创意库 ![](https://img.shields.io/github/stars/williamngan/pts?style=social) ![](https://img.shields.io/github/forks/williamngan/pts?style=social)
 
 ### 二维码
   - [qrious](https://github.com/neocotic/qrious) [[在线演示](https://github.com/neocotic/qrious#examples)] - 使用Canvas生成二维码的纯JavaScript库 ![](https://img.shields.io/github/stars/neocotic/qrious?style=social) ![](https://img.shields.io/github/forks/neocotic/qrious?style=social)
