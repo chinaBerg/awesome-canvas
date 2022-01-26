@@ -32,6 +32,7 @@
   - [波纹动画](#波纹动画)
   - [粒子动画](#粒子动画)
   - [路径动画](#路径动画)
+  - [音视频](#音视频)
   - [光标](#光标)
   - [创意](#创意)
   - [二维码](#二维码)
@@ -331,6 +332,9 @@
 
 ### 路径动画
   - [pasition](https://github.com/dntzhang/pasition) [[在线演示](https://dntzhang.github.io/pasition/)] - 轻量级 Path 过渡库，可以渲染到任何地方 ![](https://img.shields.io/github/stars/dntzhang/pasition?style=social) ![](https://img.shields.io/github/forks/dntzhang/pasition?style=social)
+
+### 音视频
+  - [canvid](https://github.com/gka/canvid) [[在线演示](https://gka.github.io/canvid/)] - 在Canvas上播放短视频的零依赖JS库 ![](https://img.shields.io/github/stars/gka/canvid?style=social) ![](https://img.shields.io/github/forks/gka/canvid?style=social)
 
 ### 光标
   - [blobity](https://github.com/gmrchk/blobity) [[在线演示](https://blobity.dev/)] - 一个效果不错的canvas光标插件 ![](https://img.shields.io/github/stars/gmrchk/blobity?style=social) ![](https://img.shields.io/github/forks/gmrchk/blobity?style=social)
