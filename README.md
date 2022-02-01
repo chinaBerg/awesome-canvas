@@ -27,6 +27,7 @@
   - [海报截图](#海报截图)
   - [数据处理](#数据处理)
   - [图像处理](#图像处理)
+  - [滤镜](#滤镜)
   - [画板](#画板)
   - [签名](#签名)
   - [波纹动画](#波纹动画)
@@ -299,6 +300,9 @@
   - [ios-imagefile-megapixel](https://github.com/stomita/ios-imagefile-megapixel) - 修复iOS6 Safari的大尺寸图像（超过百万像素）的渲染问题 ![](https://img.shields.io/github/stars/stomita/ios-imagefile-megapixel?style=social) ![](https://img.shields.io/github/forks/stomita/ios-imagefile-megapixel?style=social)
   - [fast-average-color](https://github.com/fast-average-color/fast-average-color) [[在线演示](https://fast-average-color.github.io/examples/background.html)] - 计算浏览器中图像或视频的主色/平均色的js库 ![](https://img.shields.io/github/stars/fast-average-color/fast-average-color?style=social) ![](https://img.shields.io/github/forks/fast-average-color/fast-average-color?style=social)
   - [mcanvas](https://github.com/xd-tayde/mcanvas) [[在线演示](http://guoxiaodong.net/)] - 用于合成图片的canvas绘制库 ![](https://img.shields.io/github/stars/xd-tayde/mcanvas?style=social) ![](https://img.shields.io/github/forks/xd-tayde/mcanvas?style=social)
+
+### 滤镜
+ - [canvasfilters](https://github.com/kig/canvasfilters) [[在线演示](http://fhtr.org/canvasfilters/)] - Canvas图像滤镜 ![](https://img.shields.io/github/stars/kig/canvasfilters?style=social) ![](https://img.shields.io/github/forks/kig/canvasfilters?style=social)
 
 ### 画板
   - [jspaint](https://github.com/1j01/jspaint) [[在线演示](https://jspaint.app/#local:5ee9c6aab5992)] - Web版的经典MS Paint翻版 ![](https://img.shields.io/github/stars/1j01/jspaint?style=social) ![](https://img.shields.io/github/forks/1j01/jspaint?style=social)

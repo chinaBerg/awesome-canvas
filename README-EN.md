@@ -22,6 +22,7 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
   - [Poster and Screenshot](#poster-and-screenshot)
   - [Data processing](#data-processing)
   - [Image processing](#image-processing)
+  - [Image filters](#image-filters)
   - [Drawingboard](#drawingboard)
   - [Signature pad](#signature-pad)
   - [Waveforms animation](#waveforms-animation)
@@ -294,6 +295,9 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
   - [ios-imagefile-megapixel](https://github.com/stomita/ios-imagefile-megapixel) - Fixes iOS6 Safari's image file rendering issue for large size image (over mega-pixel), which causes unexpected subsampling when drawing it in canvas. ![](https://img.shields.io/github/stars/stomita/ios-imagefile-megapixel?style=social) ![](https://img.shields.io/github/forks/stomita/ios-imagefile-megapixel?style=social)
   - [fast-average-color](https://github.com/fast-average-color/fast-average-color) [[Online Demo](https://fast-average-color.github.io/examples/background.html)] - 🍏🍊🍅 Fast Average Color. ![](https://img.shields.io/github/stars/fast-average-color/fast-average-color?style=social) ![](https://img.shields.io/github/forks/fast-average-color/fast-average-color?style=social)
   - [mcanvas](https://github.com/xd-tayde/mcanvas) [[Online Demo](http://guoxiaodong.net/)] - mcanvas is a image handler plugin that can easily merge, crop, compress, filter the image and export a image of base64 finally. ![](https://img.shields.io/github/stars/xd-tayde/mcanvas?style=social) ![](https://img.shields.io/github/forks/xd-tayde/mcanvas?style=social)
+
+### Image filters
+ - [canvasfilters](https://github.com/kig/canvasfilters) [[Online Demo](http://fhtr.org/canvasfilters/)] - Canvas image filters ![](https://img.shields.io/github/stars/kig/canvasfilters?style=social) ![](https://img.shields.io/github/forks/kig/canvasfilters?style=social)
 
 ### Drawingboard
   - [jspaint](https://github.com/1j01/jspaint) [[Online Demo](https://jspaint.app/#local:5ee9c6aab5992)] - 🎨 Classic MS Paint, ＲＥＶＩＶＥＤ + ✨Extras. ![](https://img.shields.io/github/stars/1j01/jspaint?style=social) ![](https://img.shields.io/github/forks/1j01/jspaint?style=social)
