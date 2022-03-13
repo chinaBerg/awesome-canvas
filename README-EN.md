@@ -376,6 +376,7 @@ A game engine for making classic arcade style games using Javascript and HTML5. 
   - [paper.js](http://paperjs.org/) [[Online Demo](http://paperjs.org/examples/)] - The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. ![](https://img.shields.io/github/stars/paperjs/paper.js?style=social) ![](https://img.shields.io/github/forks/paperjs/paper.js?style=social)
   - [react-canvas](https://github.com/Flipboard/react-canvas) - High performance canvas rendering for React components ![](https://img.shields.io/github/stars/Flipboard/react-canvas?style=social) ![](https://img.shields.io/github/forks/Flipboard/react-canvas?style=social)
   - [react-native-canvas](https://github.com/iddan/react-native-canvas) - A Canvas component for React Native. ![](https://img.shields.io/github/stars/iddan/react-native-canvas?style=social) ![](https://img.shields.io/github/forks/iddan/react-native-canvas?style=social)
+  - [origamijs](https://raphamorim.io/origamijs/docs/) - Powerful and Lightweight Library to create using HTML5 Canvas ![](https://img.shields.io/github/stars/raphamorim/origami.js?style=social) ![](https://img.shields.io/github/forks/raphamorim/origami.js?style=social)
 
 ## Resources Website
 - [CodePen Canvas Resources](https://codepen.io/search/pens?q=canvas)
