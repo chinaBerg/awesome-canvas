@@ -16,6 +16,7 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
   - [Flowchart](#flowchart)
   - [Gantt](#gantt)
   - [Organization charts](#organization-charts)
+  - [UML](#uml)
   - [Graph Editing](#graph-editing)
   - [Spreadsheet](#spreadsheet)
   - [Charts Libraries](#charts-libraries)
@@ -182,6 +183,9 @@ A game engine for making classic arcade style games using Javascript and HTML5. 
 
 ### Organization charts
   - [OrgChart](https://github.com/dabeng/OrgChart/blob/master/README.zh-cn.md) [[Online Demo](https://dabeng.github.io/OrgChart/)] - It's a simple and direct organization chart plugin. Anytime you want a tree-like chart, you can turn to OrgChart. ![](https://img.shields.io/github/stars/dabeng/OrgChart?style=social) ![](https://img.shields.io/github/forks/dabeng/OrgChart?style=social)
+
+### UML
+  - [umlet](https://github.com/umlet/umlet) [[Online Demo](http://www.umletino.com/umletino.html)] - Free UML Tool for Fast UML Diagrams ![](https://img.shields.io/github/stars/umlet/umlet?style=social) ![](https://img.shields.io/github/forks/umlet/umlet?style=social)
 
 ### Graph Editing
   - [idraw](https://github.com/idrawjs/idraw) [[Online Demo](https://idraw.js.org/)] - A simple JavaScript framework for Drawing on the web. ![](https://img.shields.io/github/stars/idrawjs/idraw?style=social) ![](https://img.shields.io/github/forks/idrawjs/idraw?style=social)

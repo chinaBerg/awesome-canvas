@@ -21,6 +21,7 @@
   - [流程图](#流程图)
   - [甘特图](#甘特图)
   - [组织图](#组织图)
+  - [UML](#uml)
   - [图编辑](#图编辑)
   - [电子表格](#电子表格)
   - [图表库](#图表库)
@@ -186,6 +187,9 @@
 
 ### 组织图
   - [OrgChart](https://github.com/dabeng/OrgChart/blob/master/README.zh-cn.md) [[在线演示](https://dabeng.github.io/OrgChart/)] - 简单直接的组织图插件 ![](https://img.shields.io/github/stars/dabeng/OrgChart?style=social) ![](https://img.shields.io/github/forks/dabeng/OrgChart?style=social)
+
+### UML
+  - [umlet](https://github.com/umlet/umlet) [[在线演示](http://www.umletino.com/umletino.html)] - 快速制作UML图的免费工具 ![](https://img.shields.io/github/stars/umlet/umlet?style=social) ![](https://img.shields.io/github/forks/umlet/umlet?style=social)
 
 ### 图编辑
   - [idraw](https://github.com/idrawjs/idraw) [[在线示例](https://idraw.js.org/)] - 一个简单的用于在 web 上绘图的 JavaScript 框架 ![](https://img.shields.io/github/stars/idrawjs/idraw?style=social) ![](https://img.shields.io/github/forks/idrawjs/idraw?style=social)
