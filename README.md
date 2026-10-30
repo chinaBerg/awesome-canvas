@@ -397,6 +397,7 @@
 - [CodePen上Canvas相关的你应该关注的人](https://github.com/nucliweb/People-You-Should-Follow-on-CodePen)
 
 ## 效果/案例
+- [trick-or-take](https://github.com/zicojiao/trick-or-take) [[在线演示](https://trickortake.com/)] - 万圣节多人在线实时偷糖果派对游戏，基于原生 HTML5 Canvas 2D 与实时空间语音开发 ![](https://img.shields.io/github/stars/zicojiao/trick-or-take?style=social) ![](https://img.shields.io/github/forks/zicojiao/trick-or-take?style=social)
 - [canvas-confetti](https://github.com/catdad/canvas-confetti) [[在线演示](https://www.kirilv.com/canvas-confetti/)] - 一个撒花/纸屑效果插件 ![](https://img.shields.io/github/stars/catdad/canvas-confetti?style=social) ![](https://img.shields.io/github/forks/catdad/canvas-confetti?style=social)
 - [lucky-canvas](https://100px.net/) [[在线演示](https://100px.net/demo/wheel.html)] - 基于 TS + Canvas 开发的【大转盘 / 九宫格】抽奖插件，rainbow 一套源码适配多端框架 JS / Vue / React / Taro / UniApp / 微信小程序等 ![](https://img.shields.io/github/stars/buuing/lucky-canvas?style=social) ![](https://img.shields.io/github/forks/buuing/lucky-canvas?style=social)
 - [CanvasInput](https://github.com/goldfire/CanvasInput) [[在线演示](https://goldfirestudios.com/canvasinput-html5-canvas-text-input)] - HTML5 Canvas文本输入框 ![](https://img.shields.io/github/stars/goldfire/CanvasInput?style=social) ![](https://img.shields.io/github/forks/goldfire/CanvasInput?style=social)
